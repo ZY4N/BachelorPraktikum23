@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "user_stories/final/iteration1.md",
+                "file": "user_stories/drafts/iteration2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "user_stories/final/iteration1.md",
+                "file": "user_stories/drafts/iteration2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "user_stories/final/iteration1.md",
+                "file": "user_stories/drafts/iteration2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "user_stories/final/iteration1.md"
+                "file": "user_stories/drafts/iteration2.md"
               }
             }
           }
@@ -146,6 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4819de1b4cbabb1",
-  "lastOpenFiles": []
+  "active": "0c5dc488b06fb1ac",
+  "lastOpenFiles": [
+    "user_stories/drafts/iteration1.md",
+    "user_stories/drafts/iteration2.md",
+    "user_stories/final/iteration1.md"
+  ]
 }
