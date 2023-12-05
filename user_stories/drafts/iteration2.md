@@ -12,7 +12,7 @@
 - Beschreibung
     - Als User ist es mir wichtig, dass bei der Erstellung der Karte aus den Frames, Nick- und Schwankbewegungen der Bahn mit beachtet und kompensiert werden, um eine Karte von höherer Genauigkeit zu erhalten.
 - Akzeptanzkriterium
-    - Die Position der Punkte wird entsprechend der IMU Daten angepasst
+    - Die Position der Punkte wird entsprechend der IMU Daten angepasst.
 - Story Points: 5
 
 ## Export zu segmentierten Karten Format
@@ -21,7 +21,8 @@
     - Als Nutzer bietet mir das System die Möglichkeit, ausgewählte Scans zu einer Karte zu kombinieren, die das effiziente Zugreifen auf einzelne Segmente der Karte ermöglicht.
 - Akzeptanzkriterium
     - Das Untersystem liest die Daten korrekt ein und gibt die zusammengeführte Karte aus.
-    - Das Format ermöglicht, durch Unterteilung in Abschnitte, unabhängig von der Gesamtgröße der Karte, einzelne Segmente effizient zu verarbeiten.
+    - Das Format ermöglicht, durch Unterteilung in Abschnitte, unabhängig von der Gesamtgröße der Karte, einzelne Segmente effizient auslesen zu können.
+    - Hierbei bedeutet "effizient", dass auf einem PC oder Server, der nach 2013 hergestellt wurde, mit minimal 16Gb Arbeitsspeicher, das Laden eines Segmentes nicht mehr als doppelt so lange dauert, wie die Daten von der Festplatte in den Arbeitsspeicher zu laden.
 - Story Points: 8
 
 # Viability von Pplremover evaluaten und ggf. Alternative finden
