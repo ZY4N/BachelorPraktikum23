@@ -28,15 +28,15 @@
 ## Distanzfilterung von Punktdaten
 - ID: 3
 - Beschreibung:
-      - Als Nutzer des Programms möchte ich, dass sich das Programm auf die Punkte im für die Bahn relevanten Bereich beschränkt, um die Datenmenge zu verringern und von unwichtigen Details zu abstrahieren.
+	- Als Nutzer des Programms möchte ich, dass sich das Programm auf die Punkte im für die Bahn relevanten Bereich beschränkt, um die Datenmenge zu verringern und von unwichtigen Details zu abstrahieren.
 - Akzeptanzkriterium:
-      - Der Benutzer kann eine maximale Distanz angeben. Punkte, die zum Zeitpunkt des Scans weiter als die maximale Distanz vom Lidar entfernt sind, werden nicht im Output berücksichtigt.
+	- Der Benutzer kann eine maximale Distanz angeben. Punkte, die zum Zeitpunkt des Scans weiter als die maximale Distanz vom Lidar entfernt sind, werden nicht im Output berücksichtigt.
 - Story Points: 2
     
 ## Geschwindigkeits Entzerrung
 - ID: 4
 - Beschreibung:
-      - Als Nutzer des Programms möchte ich, dass selbst wenn die Scans bei einer hohen Geschwindigkeit aufgenommen werden, die Scanpunkte angemessen aufbereitet werden.
+	- Als Nutzer des Programms möchte ich, dass selbst wenn die Scans bei einer hohen Geschwindigkeit aufgenommen werden, die Scanpunkte angemessen aufbereitet werden.
 - Akzeptanzkriterium:
-      - Man kann sichtlich erkennen, dass, wenn die Bahn mit hoher Geschwindigkeit (über 30 km/h) frontal auf ein Objekt zufährt, die Punkte nicht in Fahrtrichtung verschoben sind.
+	 - Man kann sichtlich erkennen, dass, wenn die Bahn mit hoher Geschwindigkeit (über 30 km/h) frontal auf ein Objekt zufährt, die Punkte nicht in Fahrtrichtung verschoben sind.
 - Story Points: 5 
