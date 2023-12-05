@@ -23,3 +23,44 @@
     - Das Untersystem liest die Daten korrekt ein und gibt die zusammengeführte Karte aus.
     - Das Format ermöglicht, durch Unterteilung in Abschnitte, unabhängig von der Gesamtgröße der Karte, einzelne Segmente effizient zu verarbeiten.
 - Story Points: 8
+
+# Viability von Pplremover evaluaten und ggf. Alternative finden
+- ID: 422
+- Beschreibung
+
+## Datenformat entwickeln
+- ID: 421
+- Beschreibung
+    - Als Nutzer benötige ich ein internes Zwischenformat, dass speziell auf die Problemstellung des Erstellens einer dynamischen Straßenkarte angepasst ist, damit die anfallenden Daten mit maximaler Effizienz übertragen und gespeichert werden können.
+- Akzeptanzkriterium
+    - Das Format wird so geschrieben, dass es die anfallenden Daten in diesem kompakter, übersichtlicher und effizienter übertragen und abspeichern kann. Dieses Format wird als internes Format benutzt, wie beschrieben in der User Story ID 2.
+- Story Points: 8
+
+## Internes Datenformat in Peopleremover einlesen
+- Beschreibung
+    - Als Nutzer möchte ich die Möglichkeit haben, das auf Effizienz ausgelegte interne Datenformat mit dem Peopleremover nutzen zu können.
+- Akzeptanz
+    - der Peopleremover liest Daten aus dem internen Dateienformat korrekt ein.
+    - der Peopleremover schreibt Daten in das interne Datenformat aus.
+- Story Points 8
+## Effizientes Verarbeiten von Scans aus vielen verschiedenen Positionen
+- Beschreibung
+    - Wenn ich dem People Remover Lidar Frames aus vielen verschiedenen Positionen gebe, kann dieser diese Frames problemfrei und effizient verarbeiten.
+- Akzeptanz
+    - Die Zeitkomplexität des Peopleremovers steigt nur um O(n) mit der Anzahl der Lidar Frames.
+- Story Points 8
+- 
+## Serializer für internes Datenformat
+- Beschreibung
+    - Als Nutzer kann ich meine LIDAR Frame Daten, nach der Vorbearbeitung, als das durch ID:2 definierte  Datenformat speichern. Das speichern der Daten geschieht möglichst schnell und ich kann einstellen wie viele Threads genutzt werden sollen um das speichern zu beschleunigen. 
+- Akzeptanzkriterium
+    - Die Daten werde so wie spezifiziert gespeichert. Es werden alle Punkte korrekt und ohne Verlust gespeichert. Alle gewünschten/möglichen Threads werden bestmöglich ausgenutzt. 
+- Story Points: 5
+- 
+## Parser für internes Datenformat
+- ID: 423
+- Beschreibung
+    - Als Nutzer, möchte ich, dass die benötigte Informationen aus Lidar Frame Daten automatisch eingelesen werden
+- Akzeptanzkriterium
+    - Die Daten werden korrekt und vollständig geparst.
+- Story Points: 5
