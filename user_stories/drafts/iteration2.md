@@ -1,6 +1,6 @@
 
 ## CLI Argumente Parser
-- ID: 5
+- ID: 695
 - Beschreibung
 	- Als User muss es mir möglich sein verschiedene Parameter und Einstellungen des Programms zu verändern, indem ich CLI Argumente beim Start des Programms übergebe, um den Output des Programms anzupassen zu können, ohne das Programm dafür neu kompilieren zu müssen.
 - Akzeptanzkriterium
@@ -8,7 +8,7 @@
 - Story Points: 5
 
 ## Entfernen von Nick- und Schwankbewegungen aus Scans
-- ID: 6
+- ID: 696
 - Beschreibung
 	- Als User ist es mir wichtig, dass bei der Erstellung der Karte aus den Frames, Nick- und Schwankbewegungen der Bahn mit beachtet und kompensiert werden, um eine Karte von höherer Genauigkeit zu erhalten.
 - Akzeptanzkriterium
@@ -16,7 +16,7 @@
 - Story Points: 5
 
 ## Export zu segmentierten Karten Format
-- ID: 7
+- ID: 697
 - Beschreibung
 	- Als Nutzer bietet mir das System die Möglichkeit, ausgewählte Scans zu einer Karte zu kombinieren, die das effiziente Zugreifen auf einzelne Segmente der Karte ermöglicht.
 - Akzeptanzkriterium
@@ -27,11 +27,11 @@
 - Story Points: 8
 
 # Viability von Pplremover evaluaten und ggf. Alternative finden
-- ID: 422
+- ID: 698
 - Beschreibung
 
 ## Datenformat entwickeln
-- ID: 421
+- ID: 699
 - Beschreibung
 	- Als Nutzer benötige ich ein internes Zwischenformat, dass speziell auf die Problemstellung des Erstellens einer dynamischen Straßenkarte angepasst ist, damit die anfallenden Daten mit maximaler Effizienz übertragen und gespeichert werden können.
 - Akzeptanzkriterium
@@ -39,6 +39,7 @@
 - Story Points: 8
 
 ## Internes Datenformat in Peopleremover einlesen
+- ID: 6910
 - Beschreibung
 	- Als Nutzer möchte ich die Möglichkeit haben, das auf Effizienz ausgelegte interne Datenformat mit dem Peopleremover nutzen zu können.
 - Akzeptanz
@@ -46,6 +47,7 @@
 	- der Peopleremover schreibt Daten in das interne Datenformat aus.
 - Story Points 8
 ## Effizientes Verarbeiten von Scans aus vielen verschiedenen Positionen
+- ID: 6911
 - Beschreibung
 	- Wenn ich dem People Remover Lidar Frames aus vielen verschiedenen Positionen gebe, kann dieser diese Frames problemfrei und effizient verarbeiten.
 - Akzeptanz
@@ -53,6 +55,7 @@
 - Story Points 8
 - 
 ## Serializer für internes Datenformat
+- ID: 6912
 - Beschreibung
 	- Als Nutzer kann ich meine LIDAR Frame Daten, nach der Vorbearbeitung, als das durch ID:2 definierte  Datenformat speichern. Das speichern der Daten geschieht möglichst schnell und ich kann einstellen wie viele Threads genutzt werden sollen um das speichern zu beschleunigen. 
 - Akzeptanzkriterium
@@ -60,7 +63,7 @@
 - Story Points: 5
 - 
 ## Parser für internes Datenformat
-- ID: 423
+- ID: 6913
 - Beschreibung
 	- Als Nutzer, möchte ich, dass die benötigte Informationen aus Lidar Frame Daten automatisch eingelesen werden
 - Akzeptanzkriterium
