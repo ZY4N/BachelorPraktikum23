@@ -15,7 +15,6 @@
     - Alle Punkte von Objekten, die sich zwischen den Scans signifikant bewegt haben, werden entfernt.
     -  Das Untersystem gibt die Scans wieder im Eingabeformat aus.
 - Story Points: 3
-
 ## Format zur Zwischenspeicherung von Scans
 - ID: 2
 - Beschreibung
