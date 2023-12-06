@@ -69,7 +69,6 @@ Wichtig:
 Unwichtig:
 - Benutzbarkeit
 - Datensicherheit
-- Kompatibilität
 - Vollständigkeit
 - Zuverlässigkeit
 

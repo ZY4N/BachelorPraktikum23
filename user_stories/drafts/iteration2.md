@@ -12,7 +12,7 @@
 - Beschreibung
 	- Als User ist es mir wichtig, dass bei der Erstellung der Karte aus den Frames, Nick- und Schwankbewegungen der Bahn mit beachtet und kompensiert werden, um eine Karte von höherer Genauigkeit zu erhalten.
 - Akzeptanzkriterium
-	- Die Position der Punkte wird entsprechend der IMU Daten angepasst.
+	- Die Position der Punkte wird entsprechend der IMU Daten angepasst. Wenn die IMU zum Beispiel eine Neigung von x° in eine Richtung erkennt, werden die Punkte, die zu diesem Zeitpunkt aufgenommen wurden, um x° um die Sensorposition in die Gegenrichtung gedreht.
 - Story Points: 5
 
 ## Export zu segmentierten Karten Format
@@ -63,7 +63,7 @@
 - Story Points: 5
 - 
 ## Parser für internes Datenformat
-- ID: 6913
+																- ID: 6913
 - Beschreibung
 	- Als Nutzer, möchte ich, dass die benötigte Informationen aus Lidar Frame Daten automatisch eingelesen werden
 - Akzeptanzkriterium
