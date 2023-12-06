@@ -1,6 +1,5 @@
-
 ## CLI Argumente Parser
-- ID: 695
+- ID: 5
 - Beschreibung
 	- Als User muss es mir möglich sein unten aufgelistete Parameter und Einstellungen des Programms zu verändern, indem ich CLI Argumente beim Start des Programms übergebe, um den Output des Programms anzupassen zu können, ohne das Programm dafür neu kompilieren zu müssen.
 - Akzeptanzkriterium
@@ -18,12 +17,21 @@
 - Story Points: 5
 
 ## Entfernen von Nick- und Schwankbewegungen aus Scans
-- ID: 696
+- ID: 6
 - Beschreibung
 	- Als User ist es mir wichtig, dass bei der Erstellung der Karte aus den Frames, Nick- und Schwankbewegungen der Bahn mit beachtet und kompensiert werden, um eine Karte von höherer Genauigkeit zu erhalten.
 - Akzeptanzkriterium
 	- Die Position der Punkte wird entsprechend der IMU Daten angepasst. Wenn die IMU zum Beispiel eine Neigung von x° in eine Richtung erkennt, werden die Punkte, die zu diesem Zeitpunkt aufgenommen wurden, um x° um die Sensorposition in die Gegenrichtung gedreht.
 - Story Points: 8
+
+## Entfernung dynamischer Objekte
+- ID: 1
+- Beschreibung
+    - Als ein Nutzer, kann ich diesem Untersystem eine beliebige Anzahl von Scans geben, aus denen das Untersystem alle Punkte von Objekten entfernt, die sich zwischen den Scans signifikant bewegt haben.
+- Akzeptanzkriterium
+    - Alle Punkte von Objekten, die sich zwischen den Scans signifikant bewegt haben, werden entfernt.
+    -  Das Untersystem gibt die Scans wieder im Eingabeformat aus.
+- Story Points: 21
 
 ## Export zu segmentierten Karten Format
 - ID: 697
@@ -81,11 +89,3 @@
 - Story Points: 5
 
 
-## Entfernung dynamischer Objekte
-- ID: 1
-- Beschreibung
-    - Als ein Nutzer, kann ich diesem Untersystem eine beliebige Anzahl von Scans geben, aus denen das Untersystem alle Punkte von Objekten entfernt, die sich zwischen den Scans signifikant bewegt haben.
-- Akzeptanzkriterium
-    - Alle Punkte von Objekten, die sich zwischen den Scans signifikant bewegt haben, werden entfernt.
-    -  Das Untersystem gibt die Scans wieder im Eingabeformat aus.
-- Story Points: 21
