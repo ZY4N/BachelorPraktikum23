@@ -5,3 +5,6 @@
 - Akzeptanzkriterium
     - Es lassen sich weitere Datenbereinigungsalgorithmen mittels C++ Klassen hinzufügen, sofern diese ein bestimmtes Interface implementieren.
 - Story Points: 5
+
+
+Ich bin jetzt auch dabei -S
