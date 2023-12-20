@@ -8,7 +8,7 @@
 - Entscheidung für Removert (dazu später mehr)
 - Argument Parser noch nicht fertig integriert
 - Parsen von Lidar Topics ist jetzt Modular
-	- Alexander empfiehlt Ibeo Lidar, wegen hoher Komplexität, nicht zu nutzen
+	- Alexander empfiehlt Ibeo LiDAR, wegen hoher Komplexität, nicht zu nutzen
 - Leos Krankheitsfall (hatte keinen Einfluss auf die Entwicklung)
 
 # Verbesserungsvorschläge für Sprintplanung
@@ -42,19 +42,19 @@
 # Programm zur Entfernung dynamischer Objekte
 - Simon und Greys stellen Optionen vor
 	- [Dynablocks](https://github.com/ethz-asl/dynablox)
-		- leider Rosbags
+		- benötigt Rosbags mit anderer Struktur 
 	- [Removert](https://github.com/irapkaist/removert)
 		- Von KIT für Autos mit LiDAR Scannern 
 		- Multi Threaded
-		- ganz toll (...)
-	- [3DTK Peopleremover](https://github.com/3DTK/3DTK/tree/master/src/peopleremover)
+		- Behauptet effizient zu sein
+	- [3DTK People Remover](https://github.com/3DTK/3DTK/tree/master/src/peopleremover)
 		- ineffizientes Dateienformat
 		- Teils Single Threaded Execution
 		- Code Qualitäts Probleme
 - Alexander's Feedback
 	- Removert ist angemessene Wahl
 	- KITTI Format ist Industry Standard und kann in Projekt verwendet werden
-	- Removert sollte ggf. modular austauschbar sein (z.b.: durch 3DTK pplreomver)
+	- Removert sollte ggf. modular austauschbar sein (z.b.: durch 3DTK People Remover)
 	- Lizenz
 		- Removert Lizenz ist nicht besonders wichtig solange Removert nicht angepasst werden muss
 		- Projekt muss nicht zwingend EUPL nutzen
@@ -65,26 +65,25 @@
 - Kann vorgezogen werden, da dies auch ohne perfekt korrigierte Datensätze möglich ist
 - Datensätze können in darauf folgenden Iterationen noch korrigiert werden.
 - CI Pipeline wird ausgearbeitet
-- Argparser wird fertig integriert
+- Argument Parser wird fertig integriert
 - Implementation von Exporter zu KITTI Format (bereits implementiert)
 
 # Frage nach (CI-Pipeline) Hardware
-- Frage von Team: Auf welcher Hardware läuft CI Pipeline
+- Frage von Team: Auf welcher Hardware läuft CI-Pipeline?
 	- Er findet noch raus auf was es läuft
 	- Wenn es darauf in angemessener Zeit läuft, läuft es auch auf Ziel Hardware
-	- Docker wäre gut
-	- Leo setzt sich mit CI Pipeline auseinander
-	- Bitte Docker erstellen
 	- Zur Orientierung Alexanders Arbeits PC hat
 		- Eine Ryzen 12 Kern CPU
 		- 16GB RAM
 		- eine RTX 2070
 	- CUDA kann erwartet werden, OpenCL wäre aber besser
+- Leo setzt sich mit CI-Pipeline auseinander
+- Alexander hätte gerne das Docker Image für Deployment
 
 # Data Vault
 - Alexander fragt ob Emails mit OpenVPN Zugangsdaten (an Greys und Severin) angekommen sind
-- Greys und Severin meinen keine Emails bekommen zu haben
-- Alexander möchte nochmal nachfragen was daraus wird
+- Greys und Severin meinen keine Emails erhalten zu haben
+- Alexander möchte nochmal nachfragen aus den Logins wird
 - (Zugriff auf Server wäre zur Zeit selbst mit OpenVPN Zugangsdaten noch nicht möglich)
 
 # Kleinigkeiten
