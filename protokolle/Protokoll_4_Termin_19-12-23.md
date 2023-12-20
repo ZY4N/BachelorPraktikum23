@@ -44,12 +44,15 @@
 # Programm zur Entfernung dynamischer Objekte
 - Simon und Greys stellen Optionen vor
 	 - [Dynablocks](https://github.com/ethz-asl/dynablox)
-		  - benötigt Rosbags mit anderer Struktur 
+		  - benötigt Rosbags mit anderer Struktur
+		  - Multithreaded
+		  - Eigener Visualizer
 	 - [Removert](https://github.com/irapkaist/removert)
 		  - Von KIT für Autos mit LiDAR Scannern 
-		  - Multithreaded
+		  - Multithreaded mit OpenMP
 		  - 10Hz Verarbeitungs Geschwindigkeit
 	 - [3DTK People Remover](https://github.com/3DTK/3DTK/tree/master/src/peopleremover)
+		  - wahrscheinlich genauestes Ergebnis 
 		  - ineffizientes Datenformat
 		  - Teils Singlethreaded Execution
 		  - Code Qualitäts Probleme
