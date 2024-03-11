@@ -21,6 +21,10 @@ Die Zeitpunkte lassen sich als Zeit Literale angeben, also als Wert mit den Suff
 Ein Beispiel wäre `--relative-begin 5min` für einen Startzeitpunkt bei 5 Minuten in allen angegebenen Rosbags.
 Der Default Wert für den Startzeitpunkt ist der Minimale Zeit Wert von Ros, nähmlich 1ns.
 Der Default Wert für den Endzeitpunkt ist der Maximale Zeit Wert von Ros, nähmlich 4294967295999999999ns.
+
+## Splines bilden 
+Um Splines zu bilden werden Daten innerhalb eines festgelegten Zeitabschnitts vor und nach den Blöcken mit geladen werden.
+Diese ist mit `--spline-time-padding` als Zeit Literal wie bei [Zeitabschnitte innerhalb eines Rosbags](#Zeitabschnitte) anzugeben und der Default Wert liegt bei 10s.
 <a name="chunksize"></a>
 ## Größe der Abschnitte, in die die Karte aufgeteilt wird
 Die Karte wird in Abschnitte geteilt, dessen physische Größe bei Programmstart als sogenannte Chunk Größe festgelegt werden kann. Diese wird mit dem Flag `--chunk-size`in Metern übergeben. Der Default Wert liegt bei 30m, wodurch die Chunks eine Größe von 30x30m haben.
