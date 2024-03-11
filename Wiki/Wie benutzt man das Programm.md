@@ -2,6 +2,7 @@
 
 ## Hilfeoption
 Über die Eingabe `--help` als Parameter wird eine Liste aller Parameter mit einer kurzen Beschreibung und, falls vorhanden, Default Wert des Parameters ausgegeben. Zusätzlich wird eine kurze Beispiel Eingabe angegeben. Das Programm wir daraufhin beendet.
+![[Help-image.png]]
 
 ## Datenspeicherorte zum Einlesen von Rosbags, Ausgeben der Ergebnisse
 Die Datenspeicherorte der Rosbags werden als Input Path in das Programm eingegeben. Diese werden als Positional Arguments, also ohne Flagge, übergeben.
