@@ -1,0 +1,14 @@
+- Reden über Hardwere 
+	- Kein Wissen auf welcher Hardware es genau laufen wird.
+	- Unsere allgemeine Lösung ist darum völlig in Ordnung
+- Removert kaput
+	- Fokusieren auf das Chunkformat
+- Severin erklärt Chunkformat
+- Vorstellung von unseren Ideen von semi Dynaimischer Objekte
+- ##### Sehr wichtig: gutes Wiki, gute Doku
+- Noch mal People remover testen ist okay, aber Fokus auf wiki und aufräumen.
+- Ausgabe der Chunks in ein Sinnvolles Format:
+	- Converter ins PCL Format
+	- Platz für mehr Metadaten (z.B.: Schlechtes Wetter)
+- Vorstellung des Pitchses
+- Nächster Termin: DO 10 Uhr 22.02
