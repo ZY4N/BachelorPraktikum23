@@ -36,7 +36,7 @@
 - Daten abschneiden nach x Meter
 -  Annehmen, dass Karte flach ist, ist viable. (Lokale Fehler sind sehr gering)
 	- Koordinatensystem der 2D-Map (siehe oben) nimmt Erdkrümmung nicht mit
-- Ganze Rog-Bags reinladen (erstmal) ist sinnvoller.
+- Ganze Ros-Bags reinladen (erstmal) ist sinnvoller.
 - LIZENZ ist verhandelbar. Veröffentlichung wäre cool. Schauen, was geht und dann mit AG absprechen. (Bezug: Angedachte Lizenz unseres Projekt ist nicht kompatible mit PPL-Remover)
 - Einbezug von mehreren Lidar ist nice to have
 - Müssen nicht jeden Edgecase sofort abfangen.

@@ -1,4 +1,3 @@
-
 # Ergebnisse letzter Iteration
 - Arbeit an User Story `ID 6: Entfernen von Nick- und Schwenkbewegungen aus Scans` nicht abgeschlossen
 	 - Im IMU Topic befinden sich keine Rotations Daten
