@@ -1,3 +1,3 @@
 # Statusmeeting Protokolle
-
-Da noch keine User Stories geplant wurden, wurden auch keine Code Buddys zugeteilt.
+In Iteration 1 wurden noch keine User Stories geplant, da die Iteration für grundsätzliche Einarbeitung in das Projekt genutzt wurde. 
+Dementsprechend wurden keine Code Buddys zugewiesen.
