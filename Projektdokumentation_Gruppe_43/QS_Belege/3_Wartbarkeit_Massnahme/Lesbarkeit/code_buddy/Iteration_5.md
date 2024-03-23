@@ -14,7 +14,7 @@ geplante Userstories:
 - Beispiel:
 - Diagnose:
 - Aktion:
-- Sonstiges:
+- Sonstiges: Enthält keinen Code
 
 ## Statusmeeting 1 zu User Story 16. Export zu segmentierten Karten Format 
 - Datum: 15.1.2024 15:30 Uhr - 16:15 Uhr
@@ -50,28 +50,28 @@ geplante Userstories:
 - Datum: 20.1.2024 12:30 Uhr - 14 Uhr
 - Entwickler\*innen: Severin Pelikan, Greys Fankyeyeva
 - Code Buddy: Simon Riese
-- [ ] alle besprochenen Änderungen wurden umgesetzt 
+- [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 - Beispiel:
 - Diagnose:
 - Aktion:
 - Sonstiges:
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
-	- kein Merge, da User Story in die nächste Iteration übernommen. Änderungen umgesetzt am \<hier Datum einsetzten\>
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+	- User Story wurde in die nächste Iteration übernommen. Änderungen wurden umgesetzt am \<hier Datum einsetzten\>
 
 ## Statusmeeting 2 zu User Story 16. Export zu segmentierten Karten Format 
 - Datum: 19.1.2024 14 Uhr - 15 Uhr
 - Entwickler\*innen: Severin Pelikan, Alicia Gleichmann
 - Code Buddy: Greys Fankyeyeva
-- [ ] alle besprochenen Änderungen wurden umgesetzt
+- [x] alle besprochenen Änderungen wurden umgesetzt
 - Kontext:
 - Beispiel:
 - Diagnose:
 - Aktion:
 - Sonstiges: 
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 
 ## Statusmeeting 2 zu User Story 17. Sammeln von Metadaten 
 - Datum: Ausgefallen da Leonhard krank wurde
@@ -85,18 +85,18 @@ geplante Userstories:
 - Sonstiges: 
 	- Leonhards implementation war fertig bevor er krank wurde und Simon hat die Lesbarkeitsänderungen für ihn übernommen, welche von Alicia Gleichmann überprüft und im Statusmeeting zu User Story 18 kurz angesprochen wurden
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 
 ## Statusmeeting 2 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 - Datum: 19.1.2024 16 Uhr - 16:45 Uhr
 - Entwickler\*innen: Simon Riese
 - Code Buddy: Ersatz durch Alicia Gleichmann
-- [ ] alle besprochenen Änderungen wurden umgesetzt 
+- [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 - Beispiel:
 - Diagnose:
 - Aktion:
 - Sonstiges:
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
-	- kein Merge, da Userstory in die nächste Iteration übernommen. Änderungen umgesetzt am \<hier Datum einsetzten\>
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+	- User Story wurde in die nächste Iteration übernommen. Änderungen wurden umgesetzt am \<hier Datum einsetzten\>

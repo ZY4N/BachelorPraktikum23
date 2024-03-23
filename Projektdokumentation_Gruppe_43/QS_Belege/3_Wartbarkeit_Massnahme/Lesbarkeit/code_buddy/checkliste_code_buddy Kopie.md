@@ -63,6 +63,7 @@
 - [ ] Es wurde `#pragma once` anstatt explizit eingebundenen Guards verwendet
 - [ ] In den includes wurde `<>` für Standard Bibliothek und `""` für den Rest verwendet 
 - [ ] `using namespace` wurde nur in kleinen Namespaces, über die die volle Kontrolle bestand, verwendet
+- [ ] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
 - [ ] Code Formatter ist am Code angewendet worden

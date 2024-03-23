@@ -1,138 +1,180 @@
 # Statusmeeting Protokolle
 
 geplante Userstories:
-0. Einlese-Option für Rosbag-Dateien
-1. Distanzfilterung von Punktdaten 
-2. Geschwindigkeits-Entzerrung 
-3. Integration von dynamischem Logging-System
-4. Integration von 3DTK People Remover in Scan Combiner 
-5. Entfernung dynamischer Objekte mittels 3DTK People Remover
+0. Einlese-Option für Rosbag-Dateien x 2 Push
+1. Distanzfilterung von Punktdaten x 2 Push
+2. Geschwindigkeits-Entzerrung x 3 Push
+3. Integration von dynamischem Logging-System x 2 Push
+4. Integration von 3DTK People Remover in Scan Combiner x 2 Push
+5. Entfernung dynamischer Objekte mittels 3DTK People Remover x 0 Push
 
 ## Statusmeeting 1 zu User Story 0. Einlese-Option für Rosbag-Dateien
 - Datum: 20.11.2023 16 Uhr - 17:30 Uhr
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Severin Pelikan
 - Kontext:
-	- Beispiel:
-	- Problem 1 ...
-	- Problem 2 ...
-	- ...
+	- Ausgeschaltet das alle Warnungen als Error betrachtet werden
 - Beispiel:
-	- Problem 1 ...
-	- problem 2 ...
-	- ...
+	- frame_exporter.cpp - wenn keine Rosbags angegeben werden gibt es eine Warnung aber diese wird nicht als Error behandelt
 - Diagnose:
-	- Problem 1 ...
-	- Problem 2 ...
+	- Wenn keine Rosbags angegeben werden macht es keinen Sinn zu versuchen diese zu unbaggen.
 - Aktion:
-	- Problem 1 ...
-	- Problem 2 ...
+	- Schalte das wieder an!
 - Sonstiges: 
-	- Was auch immer inhaltlich noch besprochen wurde, z.B. Frage was der andere zu einer Umsetzung denkt
+	- Code grob besprochen 
+	- Einige Fragen zu C++ geklärt
 
 ## Statusmeeting 1 zu User Story 1. Distanzfilterung von Punktdaten 
 - Datum: 20.11.2023 15:30 Uhr - 16:30 Uhr
 - Entwickler\*innen: Greys Fankyeyeva
 - Code Buddy: Simon Riese
-- Kontext:
-- Beispiel:
+- Kontext: 
+	- Variable nicht const gesetzt
+- Beispiel
+	- distance_filtering.ipp distance_sq, peripheral_distance_sq, radial_distance_sq
 - Diagnose:
+	- Schlechtere Performance wenn Variablen nicht als Konstant markiert sind
 - Aktion:
+	- die Variablen const setzen
 - Sonstiges:
+	- Implementation ist schon fertig
+	- Variablen direkt Konstant gesetzt
+	- Kein weiteres Statusmeeting notwendig
+---
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 20.11.2023
 
 ## Statusmeeting 1 zu User Story 2. Geschwindigkeits-Entzerrung und 3. Integration von dynamischem Logging-System
 - Datum: 21.11.2023 14 Uhr - 15:30 Uhr
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Leonhard Steinecke
 - Kontext:
+	- Rechtschreibfehler 
+	- Leerzeile in Dokumentation von Funktion vergessen
 - Beispiel:
+	- Logger.hpp
+	- Refraimer.hpp refraime_to_closest_scan_position
 - Diagnose:
+	- -
+	- Verschlechtert die Lesbarkeit
 - Aktion:
+	- korrektur der Rechtschreibung
+	- Leerzeile einfügen
 - Sonstiges:
+	- Code durchgesprochen von beiden User Storys
+	- Geklärt ob Informationen zur Anzahl der Transformationsmatrizen vom Logger ausgegeben werden sollten, sind zum Schluss gekommen ja
+	- Rechtschreibfehler Korrektur und Leerzeile direkt eingefügt
 
 ## Statusmeeting 1 zu User Story 4. Integration von 3DTK People Remover in Scan Combiner 
 - Datum: 20.11.2023 18 Uhr - 19:15 Uhr
 - Entwickler\*innen: Greys Fankyeyeva, Simon Riese
 - Code Buddy: Alicia Gleichmann
-- Kontext:
+- Kontext: 
+	- Am Ende Datei wurde die Leerzeile vergessen
 - Beispiel:
+	- frame_exporter.cpp 
 - Diagnose:
+	- -
 - Aktion:
-- Sonstiges:
+	- Leerzeile einfügen
+- Sonstiges
+	- Code wurde durchgegangen
+	- Leerzeile wurde direkt eingefügt
 
 ## Statusmeeting 1 zu User Story 5. Entfernung dynamischer Objekte mittels 3DTK People Remover
-- Datum: 21.11.2023 13:30 Uhr - 15:30 Uhr
+- Datum: 21.11.2023 13:30 Uhr - 14:30 Uhr
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Greys Fankyeyeva
 - Kontext:
+	- -
 - Beispiel:
+	- -
 - Diagnose:
+	- -
 - Aktion:
+	- -
 - Sonstiges:
+	- Probleme beim Einrichten durch falsche Hardware von Alicia, dann Wechsel
+	- Programm scheint richtig Heruntergeladen und auf Gerät eingerichtet
+	- User Story 4 noch nicht fertig, deshalb noch keine Tests möglich
 
 ## Statusmeeting 2 zu User Story 0. Einlese-Option für Rosbag-Dateien
 - Datum: 26.11.2023 15 Uhr - 18:30 Uhr
 - Entwickler\*innen:  Leonhard Steinecke
 - Code Buddy: Severin Pelikan
-- [ ] alle besprochenen Änderungen wurden umgesetzt 
-- Kontext:
-- Beispiel:
-- Diagnose:
+- [x] alle besprochenen Änderungen wurden umgesetzt 
+- Kontext: 
+	- Rechtschreibfehler
+- Beispiel: 
+	- Unbagger 
+- Diagnose: 
+	- -
 - Aktion:
+	- Korrektur dieser
 - Sonstiges:
+	- Tests laufen nicht durch, deshalb haben wir beide den Code durchgeschaut, allerdings keine Fehler gefunden. Dadurch kann die User Story nicht abgenommen werden und wird mit in die nächste Iteration übernommen.
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
-	- kein Merge, da User Story in die nächste Iteration übernommen. Änderungen umgesetzt am \<hier Datum einsetzten\>
-
-## Statusmeeting 2 zu User Story 1. Distanzfilterung von Punktdaten 
-- Datum: 26.11.2023 10 Uhr - 10:30 Uhr
-- Entwickler\*innen: Greys Fankyeyeva
-- Code Buddy: Simon Riese
-- [ ] alle besprochenen Änderungen wurden umgesetzt 
-- Kontext:
-- Beispiel:
-- Diagnose:
-- Aktion:
-- Sonstiges:
----
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+	- User Story wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt.
 
 ## Statusmeeting 2 zu User Story 2. Geschwindigkeits-Entzerrung und 3. Integration von dynamischem Logging-System
 - Datum: 26.11.2024 12:30 Uhr - 14:30 Uhr
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Leonhard Steinecke
-- [ ] alle besprochenen Änderungen wurden umgesetzt 
-- Kontext:
+- [x] alle besprochenen Änderungen wurden umgesetzt 
+- Kontext: 
+	- std Typ nicht genutzt
 - Beispiel:
+	- refraimer.cpp num_points_in_pose
 - Diagnose:
+	- std Typen sind effizienter
 - Aktion:
+	- size_t zu std::size_t ändern
 - Sonstiges:
+	- Demo des Loggers
+	- Code durchgegangen
+	- Typ direkt geändert
+	- Keine Probleme im Code
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 26.11.2024
 
 ## Statusmeeting 2 zu User Story 4. Integration von 3DTK People Remover in Scan Combiner 
-- Datum: 26.11.2024 12:30 Uhr - 14 Uhr
+- Datum: 25.11.2024 12:30 Uhr - 13 Uhr
 - Entwickler\*innen: Greys Fankyeyeva, Simon Riese
 - Code Buddy: Alicia Gleichmann
-- [ ] alle besprochenen Änderungen wurden umgesetzt 
+- [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
+	- -
 - Beispiel:
+	- -
 - Diagnose:
+	- -
 - Aktion:
+	- -
 - Sonstiges:
+	- Fertigen Code durchgegangen
+	- Sieht alles gut aus
+	- Keine weiteren Anmerkungen
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ## Statusmeeting 2 zu User Story 5. Entfernung dynamischer Objekte mittels 3DTK People Remover
 - Datum: 27.11.2023 15:30 Uhr - 18 Uhr
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Greys Fankyeyeva
-- [ ] alle besprochenen Änderungen wurden umgesetzt 
-- Kontext:
-- Beispiel:
-- Diagnose:
-- Aktion:
+- [x] alle besprochenen Änderungen wurden umgesetzt 
+- Kontext: 
+	- -
+- Beispiel: 
+	- -
+- Diagnose: 
+	- -
+- Aktion: 
+	- -
 - Sonstiges:
+	- Programm scheint mit den eigenen Testdatensätzen gut zu funktionieren
+	- Programm stürzt entweder ab oder erzeugt ungültige Outputs mit unseren Daten
+	- Verschiedene Kombinationen der Variablen noch mal jetzt ausprobiert, selbes Ergebnis
+	- Wird verworfen, da keine brauchbaren Resultate
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
-	- kein Merge und keine Änderungen, da die User Story nicht übernommen wird.
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+	- kein Abschluss der User Story und keine Änderungen, da die User Story nicht übernommen wird.

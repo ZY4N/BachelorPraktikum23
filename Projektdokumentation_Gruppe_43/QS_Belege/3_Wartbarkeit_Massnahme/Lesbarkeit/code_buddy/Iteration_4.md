@@ -38,7 +38,7 @@ geplante Userstories:
 - Beispiel:
 - Diagnose:
 - Aktion:
-- Sonstiges:
+- Sonstiges: Enthält keinen Code
 
 ## Statusmeeting 1 zu User Story 11. Docker integration für Zielsystem 
 - Datum: 29.12.2023 12:30 Uhr - 13 Uhr
@@ -64,64 +64,64 @@ geplante Userstories:
 - Datum: 6.1.2024 12:30 Uhr - 13 Uhr
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Leonhard Steinecke
-- [ ] alle besprochenen Änderungen wurden umgesetzt 
+- [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 - Beispiel:
 - Diagnose:
 - Aktion:
 - Sonstiges:
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 
 ## Statusmeeting 2 zu User Story 9. Integration von Removert in Scan Combiner
 - Datum: 6.1.2024 10 Uhr - 10:30 Uhr
 - Entwickler\*innen: Simon Riese
 - Code Buddy: Greys Fankyeyeva
-- [ ] alle besprochenen Änderungen wurden umgesetzt 
+- [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 - Beispiel:
 - Diagnose:
 - Aktion:
 - Sonstiges:
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 
 ## Statusmeeting 2 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
 - Datum: 7.1.2024 12:30 Uhr - 14 Uhr
 - Entwickler\*innen: Severin Pelikan, Greys Fankyeyeva
 - Code Buddy: Simon Riese
-- [ ] alle besprochenen Änderungen wurden umgesetzt 
+- [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 - Beispiel:
 - Diagnose:
 - Aktion:
 - Sonstiges:
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
-	- kein Merge, da User Story in die nächste Iteration übernommen. Änderungen umgesetzt am \<hier Datum einsetzten\>
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+	- User Story wurde in die nächste Iteration übernommen. Änderungen umgesetzt am \<hier Datum einsetzten\>
 
 ## Statusmeeting 2 zu User Story 11. Docker integration für Zielsystem 
 - Datum: 6.1.2024 14 Uhr - 14:30 Uhr
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Alicia Gleichmann
-- [ ] alle besprochenen Änderungen wurden umgesetzt 
+- [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 - Beispiel:
 - Diagnose:
 - Aktion:
 - Sonstiges:
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 
 ## Statusmeeting 2 zu User Story 12. Dynamisches Anpassen des Ausgabeformats über CLI, 13. Dynamisches Anpassen der Loggerkonfiguration über CLI, 14. Anpassung der Arbeitsspeicherauslastung über CLI und 15. Dynamisches Anpassen der maximalen radialen und peripheren Distanzen über CLI
 - Datum: 6.1.2024 15 Uhr - 15:30 Uhr
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Severin Pelikan
-- [ ] alle besprochenen Änderungen wurden umgesetzt 
+- [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 - Beispiel:
 - Diagnose:
 - Aktion:
 - Sonstiges:
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
