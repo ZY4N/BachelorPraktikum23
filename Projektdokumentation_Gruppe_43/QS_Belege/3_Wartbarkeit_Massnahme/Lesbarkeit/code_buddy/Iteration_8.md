@@ -7,6 +7,9 @@ geplante Userstories:
 34. Wiki-Einträge zu der Entfernung dynamischer und semi-dynamischer Objekte
 35. Wiki-Einträge für Code- und Stilrichtlinien
 
+kein Code deshalb keine Code Buddys?
+oder nur für Rechtschreibung und Grammatik zuständig? Eventuell in Sonstiges erwähnt in Protokollen und dann nur 1 Protokoll?
+
 ## Statusmeeting 1 zu User Story 31. Wiki-Einträge zur Installation und Nutzung 
 - Datum:
 - Entwickler\*innen: Leonhard Steinecke

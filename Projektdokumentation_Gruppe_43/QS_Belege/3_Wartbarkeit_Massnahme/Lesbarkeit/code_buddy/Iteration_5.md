@@ -58,7 +58,7 @@ geplante Userstories:
 - Sonstiges:
 ---
 - Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
-	- kein Merge, da Userstory in die nächste Iteration übernommen. Änderungen umgesetzt am \<hier Datum einsetzten\>
+	- kein Merge, da User Story in die nächste Iteration übernommen. Änderungen umgesetzt am \<hier Datum einsetzten\>
 
 ## Statusmeeting 2 zu User Story 16. Export zu segmentierten Karten Format 
 - Datum: 19.1.2024 14 Uhr - 15 Uhr
@@ -99,3 +99,4 @@ geplante Userstories:
 - Sonstiges:
 ---
 - Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
+	- kein Merge, da Userstory in die nächste Iteration übernommen. Änderungen umgesetzt am \<hier Datum einsetzten\>
