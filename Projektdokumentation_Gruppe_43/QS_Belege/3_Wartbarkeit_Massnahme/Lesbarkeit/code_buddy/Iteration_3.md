@@ -7,9 +7,9 @@ geplante Userstories:
 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
 
 ## Statusmeeting 1 zu User Story 0. Einlese-Option für Rosbag-Dateien
-- Datum:
+- Datum: 8.12.2023 15 Uhr - 16 Uhr
 - Entwickler\*innen: Leonhard Steinecke
-- Code Buddy:
+- Code Buddy: Severin Pelikan
 - Kontext:
 - Beispiel:
 - Diagnose:
@@ -17,9 +17,9 @@ geplante Userstories:
 - Sonstiges:
 
 ## Statusmeeting 1 zu User Story 3. Integration von dynamischem Logging-System und 6. Verringerung von Aufnahmetransformationen
-- Datum:
+- Datum: 8.12.2023 16:30 Uhr - 18:45 Uhr
 - Entwickler\*innen: Severin Pelikan
-- Code Buddy:
+- Code Buddy: Leonhard Steinecke
 - Kontext:
 - Beispiel:
 - Diagnose:
@@ -27,9 +27,9 @@ geplante Userstories:
 - Sonstiges:
 
 ## Statusmeeting 1 zu User Story 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
-- Datum:
+- Datum: 9.12.2023 12:30 Uhr - 13:15 Uhr
 - Entwickler\*innen: Alicia Gleichmann, Severin Pelikan
-- Code Buddy:
+- Code Buddy: Simon Riese
 - Kontext:
 - Beispiel:
 - Diagnose:
@@ -37,9 +37,9 @@ geplante Userstories:
 - Sonstiges:
 
 ## Statusmeeting 2 zu User Story 0. Einlese-Option für Rosbag-Dateien
-- Datum:
+- Datum: 15.12.2023 15 Uhr - 15:30 Uhr
 - Entwickler\*innen: Leonhard Steinecke
-- Code Buddy:
+- Code Buddy: Severin Pelikan
 - [ ] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 - Beispiel:
@@ -50,9 +50,9 @@ geplante Userstories:
 - Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
 
 ## Statusmeeting 2 zu User Story 3. Integration von dynamischem Logging-System und 6. Verringerung von Aufnahmetransformationen
-- Datum:
+- Datum: 15.12.2023 16 Uhr - 17 Uhr
 - Entwickler\*innen: Severin Pelikan
-- Code Buddy:
+- Code Buddy: Leonhard Steinecke
 - [ ] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 - Beispiel:
@@ -63,9 +63,9 @@ geplante Userstories:
 - Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
 
 ## Statusmeeting 2 zu User Story 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
-- Datum:
+- Datum: 16.12:2023 12:30 Uhr - 13 Uhr
 - Entwickler\*innen: Alicia Gleichmann, Severin Pelikan
-- Code Buddy:
+- Code Buddy: Simon Riese
 - [ ] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 - Beispiel:
