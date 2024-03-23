@@ -11,7 +11,7 @@ geplante Userstories:
 ## Statusmeeting 1 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
 - Datum:
 - Entwickler\*innen: Severin Pelikan, Greys Fankyeyeva
-- Code Buddy:
+- Code Buddy: Simon Riese
 - Kontext:
 - Beispiel:
 - Diagnose:
@@ -51,7 +51,7 @@ geplante Userstories:
 ## Statusmeeting 2 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
 - Datum:
 - Entwickler\*innen: Severin Pelikan, Greys Fankyeyeva
-- Code Buddy:
+- Code Buddy: Simon Riese
 - [ ] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 - Beispiel:

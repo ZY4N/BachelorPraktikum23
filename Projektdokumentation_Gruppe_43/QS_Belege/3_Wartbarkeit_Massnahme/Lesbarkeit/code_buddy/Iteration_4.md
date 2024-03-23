@@ -97,7 +97,8 @@ geplante Userstories:
 - Aktion:
 - Sonstiges:
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: kein Merge, da Userstory in die nächste Iteration übernommen. Änderungen umgesetzt am \<hier Datum einsetzten\>
+- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
+	- kein Merge, da Userstory in die nächste Iteration übernommen. Änderungen umgesetzt am \<hier Datum einsetzten\>
 
 ## Statusmeeting 2 zu User Story 11. Docker integration für Zielsystem 
 - Datum: 6.1.2024 14 Uhr - 14:30 Uhr
