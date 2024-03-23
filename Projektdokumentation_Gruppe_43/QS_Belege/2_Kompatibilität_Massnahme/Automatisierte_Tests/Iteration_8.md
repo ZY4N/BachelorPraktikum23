@@ -1,0 +1,1 @@
+Keiner der Abgeschlossenen Userstories enthalten Code womit es zu keine Pipeline Durchläufen kam.
