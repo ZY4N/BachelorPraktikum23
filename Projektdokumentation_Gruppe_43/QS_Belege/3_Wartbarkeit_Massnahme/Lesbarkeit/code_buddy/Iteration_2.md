@@ -81,7 +81,7 @@ geplante Userstories:
 - Aktion:
 - Sonstiges:
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: kein Merge, da Userstory in die nächste Iteration übernommen. Änderungen umgesetzt am <hier Datum einsetzten>
+- Umsetzung der besprochenen Änderungen vor nächstem Merge am: kein Merge, da Userstory in die nächste Iteration übernommen. Änderungen umgesetzt am \<hier Datum einsetzten\>
 
 ## Statusmeeting 2 zu User Story 1. Distanzfilterung von Punktdaten 
 - Datum: 26.11.2023 10 Uhr - 10:30 Uhr
