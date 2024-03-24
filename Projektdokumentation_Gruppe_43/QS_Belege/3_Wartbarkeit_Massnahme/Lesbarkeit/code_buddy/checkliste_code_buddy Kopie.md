@@ -69,3 +69,23 @@
 ### Code Formatter und Linter
 - [ ] Code Formatter ist am Code angewendet worden
 - [ ] Linter ist am Code angewendet worden
+
+
+
+
+
+Iteration 4
+- CLI 12, 13, 14, 15
+
+Iteration 5
+- Removert 10
+- Segmentierte Karte 16
+- Sammeln von Metadaten 17
+- Lesen und Schreiben von Metadaten 18
+
+Iteration 6
+- Lesen und schreiben von Metadaten 18
+- Ausarbeitung semi-dynamische Objekte 19
+- CLI 20, 21, 22
+
+Iteration 7

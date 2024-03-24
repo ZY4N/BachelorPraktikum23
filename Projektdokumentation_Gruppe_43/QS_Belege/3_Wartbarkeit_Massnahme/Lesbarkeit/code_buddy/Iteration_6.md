@@ -14,10 +14,21 @@ geplante Userstories:
 - Entwickler\*innen: Severin Pelikan, Greys Fankyeyeva
 - Code Buddy: Simon Riese
 - Kontext:
+	- -
 - Beispiel:
+	- -
 - Diagnose:
+	- -
 - Aktion:
-- Sonstiges: Enthält keinen Code
+	- -
+- Sonstiges: 
+	- auch mit kleineren Datensätzen bleiben Fragmente erhalten
+	- Unterschiedliche Gewichtungen der Parameter getestet, keine anderen Ergebnisse
+	- Demonstration der Fragmente
+	- kein weiteres Statusmeeting notwendig
+---
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+	- kein Abschluss der User Story und keine Änderungen, da die User Story nicht übernommen wird.
 
 ## Statusmeeting 1 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 - Datum: 27.1.2024 15 Uhr - 15:30 Uhr
@@ -48,20 +59,6 @@ geplante Userstories:
 - Diagnose:
 - Aktion:
 - Sonstiges:
-
-## Statusmeeting 2 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
-- Datum: 4.2.2024 12:30 Uhr - 13 Uhr
-- Entwickler\*innen: Severin Pelikan, Greys Fankyeyeva
-- Code Buddy: Simon Riese
-- [x] alle besprochenen Änderungen wurden umgesetzt 
-- Kontext:
-- Beispiel:
-- Diagnose:
-- Aktion:
-- Sonstiges: Enthält keinen Code
----
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
-	- kein Abschluss der User Story und keine Änderungen, da die User Story nicht übernommen wird.
 
 ## Statusmeeting 2 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 - Datum: 4.2.2024 15 Uhr - 15:30 Uhr

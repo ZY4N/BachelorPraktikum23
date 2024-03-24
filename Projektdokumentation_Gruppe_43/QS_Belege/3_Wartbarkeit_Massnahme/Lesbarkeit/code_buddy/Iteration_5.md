@@ -15,7 +15,8 @@ geplante Userstories:
 - Beispiel:
 - Diagnose:
 - Aktion:
-- Sonstiges: Enthält keinen Code
+- Sonstiges: 
+	- 
 
 ## Statusmeeting 1 zu User Story 16. Export zu segmentierten Karten Format 
 - Datum: 15.1.2024 15:30 Uhr - 16:15 Uhr
@@ -72,12 +73,18 @@ geplante Userstories:
 - Code Buddy: Greys Fankyeyeva
 - [x] alle besprochenen Änderungen wurden umgesetzt
 - Kontext:
+	- String als Char-Array
 - Beispiel:
+	- Name der Frames in Chunks
 - Diagnose:
+	- Nicht gut, da bei Unvorsichtigkeit Stack Overflow möglich
 - Aktion:
+	- String als std::string oder std::stringview
 - Sonstiges: 
+	- String direkt zu std::stringview geändert
+	- Alles andere ist korrekt, alle Punkte der Checkliste abgehakt
 ---
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 19.1.2024
 
 ## Statusmeeting 2 zu User Story 17. Sammeln von Metadaten 
 - Datum: Ausgefallen da Leonhard krank wurde
