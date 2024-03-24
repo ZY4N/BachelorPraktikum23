@@ -1,7 +1,7 @@
 # Statusmeeting Protokolle
 
 geplante Userstories:
-8. Entfernen von Nick- und Schwankbewegungen aus Scans 2 Push
+8. Entfernen von Nick- und Schwankbewegungen aus Scans 2 Push Abgelehnt weil korrupte Daten
 9. Integration von Removert in Scan Combiner 2 Push
 10. Entfernung dynamischer Objekte mittels Removert 0 Push
 11. Docker integration für Zielsystem -  kein C++ 3 Push

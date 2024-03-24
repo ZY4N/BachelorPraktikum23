@@ -7,3 +7,4 @@
 - [ ] Es wurden keine langen und verschachtelte, sondern kurze und Prägnante, Sätze gebildet.
 - [ ] \[optional] wenn Sinnvoll Links integriert
 - [ ] \[optional] wenn vorhanden Links richtig verlinkt
+- [ ] \[optional] wenn Sinnvoll Übersichtsseiten integriert
