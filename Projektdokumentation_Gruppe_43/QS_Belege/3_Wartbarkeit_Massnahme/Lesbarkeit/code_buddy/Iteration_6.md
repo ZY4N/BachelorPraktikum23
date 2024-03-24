@@ -1,12 +1,12 @@
 # Statusmeeting Protokolle
 
 geplante Userstories:
-10. Entfernung dynamischer Objekte mittels Removert 
-18. Lesen und Schreiben von Metadaten im JSON-Format 
-19. Ausarbeitung von Grundkonzepten zur Enfernung semi-dynamischer Objekte 
-20. Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI 
-21. Dynamisches Anpassen der Zellengröße über CLI 
-22. Dynamisches Anpassen des Metadatenausgabeformats über CLI
+10. Entfernung dynamischer Objekte mittels Removert 0 Push
+18. Lesen und Schreiben von Metadaten im JSON-Format 2 Push
+19. Ausarbeitung von Grundkonzepten zur Enfernung semi-dynamischer Objekte 0 Push
+20. Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI 1 Push
+21. Dynamisches Anpassen der Zellengröße über CLI  1 Push
+22. Dynamisches Anpassen des Metadatenausgabeformats über CLI 2 Push
 
 ## Statusmeeting 1 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
 - Datum: 27.1.2024 12:30 Uhr - 13:30 Uhr

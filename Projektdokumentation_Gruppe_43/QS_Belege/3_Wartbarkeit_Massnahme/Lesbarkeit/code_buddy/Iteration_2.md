@@ -15,14 +15,15 @@ geplante Userstories:
 - Kontext:
 	- Ausgeschaltet das alle Warnungen als Error betrachtet werden
 - Beispiel:
-	- frame_exporter.cpp - wenn keine Rosbags angegeben werden gibt es eine Warnung aber diese wird nicht als Error behandelt
+	- alte Version von Eigen verwendet
 - Diagnose:
-	- Wenn keine Rosbags angegeben werden macht es keinen Sinn zu versuchen diese zu unbaggen.
+	- z.B. Funktionen der alten Version von Eigen sind deprecated und werfen warnings 
 - Aktion:
-	- Schalte das wieder an!
+	- Schalte das wieder an! Und nutz die neuere Version von Eigen
 - Sonstiges: 
 	- Code grob besprochen 
-	- Einige Fragen zu C++ geklärt
+	- die aktuelle Version von Eigen runter geladen
+	- Einige Fragen zu C++ geklärt (warum es wichtig ist Werror nicht zu deaktivieren)
 
 ## Statusmeeting 1 zu User Story 1. Distanzfilterung von Punktdaten 
 - Datum: 20.11.2023 15:30 Uhr - 16:30 Uhr

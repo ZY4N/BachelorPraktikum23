@@ -60,6 +60,7 @@
 ### Style Guidelines
 - [ ] Alle Identifiers außer Template Parameter, sind in snake_case geschrieben
 - [ ] Alle Template Parameter sind in PascalCase geschrieben
+- [ ] Alle Identifiers sind passend gewählt
 - [ ] Es wurde `#pragma once` anstatt explizit eingebundenen Guards verwendet
 - [ ] In den includes wurde `<>` für Standard Bibliothek und `""` für den Rest verwendet 
 - [ ] `using namespace` wurde nur in kleinen Namespaces, über die die volle Kontrolle bestand, verwendet

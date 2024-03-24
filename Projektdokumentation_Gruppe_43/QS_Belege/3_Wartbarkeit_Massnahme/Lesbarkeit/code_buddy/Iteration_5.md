@@ -1,10 +1,10 @@
 # Statusmeeting Protokolle
 
 geplante Userstories:
-10. Entfernung dynamischer Objekte mittels Removert
-16. Export zu segmentierten Karten Format 
-17. Sammeln von Metadaten
-18. Lesen und Schreiben von Metadaten im JSON-Format
+10. Entfernung dynamischer Objekte mittels Removert 0 Push
+16. Export zu segmentierten Karten Format 4 Push
+17. Sammeln von Metadaten 1 Push
+18. Lesen und Schreiben von Metadaten im JSON-Format 2 Push
 
 ## Statusmeeting 1 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
 - Datum: 16.1.2024 12:30 Uhr - 13 Uhr
@@ -27,14 +27,19 @@ geplante Userstories:
 - Sonstiges:
 
 ## Statusmeeting 1 zu User Story 17. Sammeln von Metadaten 
-- Datum: 15.1.2024 15:30 Uhr - 16 Uhr
+- Datum: 15.1.2024 15:30 Uhr - 15:40 Uhr
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Simon Riese
 - Kontext:
+	- -
 - Beispiel:
+	- -
 - Diagnose:
+	- -
 - Aktion:
+	- -
 - Sonstiges:
+	- bisher kein Implementationsfortschritt
 
 ## Statusmeeting 1 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 - Datum: 15.1.2024 16:15 Uhr - 17 Uhr
