@@ -1,14 +1,14 @@
 # Statusmeeting Protokolle
 
 geplante Userstories:
-8. Entfernen von Nick- und Schwankbewegungen aus Scans
-9. Integration von Removert in Scan Combiner
-10. Entfernung dynamischer Objekte mittels Removert
-11. Docker integration für Zielsystem 
-12. Dynamisches Anpassen des Ausgabeformats über CLI 
-13. Dynamisches Anpassen der Loggerkonfiguration über CLI 
-14. Anpassung der Arbeitsspeicherauslastung über CLI 
-15. Dynamisches Anpassen der maximalen radialen und peripheren Distanzen über CLI
+8. Entfernen von Nick- und Schwankbewegungen aus Scans 2 Push
+9. Integration von Removert in Scan Combiner 2 Push
+10. Entfernung dynamischer Objekte mittels Removert 0 Push
+11. Docker integration für Zielsystem -  kein C++ 3 Push
+12. Dynamisches Anpassen des Ausgabeformats über CLI 2 Push
+13. Dynamisches Anpassen der Loggerkonfiguration über CLI 1 Push
+14. Anpassung der Arbeitsspeicherauslastung über CLI 2 Push
+15. Dynamisches Anpassen der maximalen radialen und peripheren Distanzen über CLI 1 Push
 
 ## Statusmeeting 1 zu User Story 8. Entfernen von Nick- und Schwankbewegungen aus Scans
 - Datum: 29.12.2023 12:30 Uhr - 13 Uhr
@@ -48,7 +48,8 @@ geplante Userstories:
 - Beispiel:
 - Diagnose:
 - Aktion:
-- Sonstiges:
+- Sonstiges: 
+	- kein C++ Code, deshalb mussten die spezifischen C++ Code Abschnitte in der Checkliste Überspungen werden
 
 ## Statusmeeting 1 zu User Story 12. Dynamisches Anpassen des Ausgabeformats über CLI, 13. Dynamisches Anpassen der Loggerkonfiguration über CLI, 14. Anpassung der Arbeitsspeicherauslastung über CLI und 15. Dynamisches Anpassen der maximalen radialen und peripheren Distanzen über CLI
 - Datum: 28.12.2023 12:30 Uhr - 15 Uhr

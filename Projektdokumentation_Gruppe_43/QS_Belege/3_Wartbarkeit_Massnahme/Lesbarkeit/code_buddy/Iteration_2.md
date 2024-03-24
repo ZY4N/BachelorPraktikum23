@@ -5,7 +5,7 @@ geplante Userstories:
 1. Distanzfilterung von Punktdaten x 2 Push
 2. Geschwindigkeits-Entzerrung x 3 Push
 3. Integration von dynamischem Logging-System x 2 Push
-4. Integration von 3DTK People Remover in Scan Combiner x 2 Push
+4. Integration von 3DTK People Remover in Scan Combiner x 3 Push
 5. Entfernung dynamischer Objekte mittels 3DTK People Remover x 0 Push
 
 ## Statusmeeting 1 zu User Story 0. Einlese-Option für Rosbag-Dateien
@@ -38,6 +38,7 @@ geplante Userstories:
 	- die Variablen const setzen
 - Sonstiges:
 	- Implementation ist schon fertig
+	- Tests gehen durch
 	- Variablen direkt Konstant gesetzt
 	- Kein weiteres Statusmeeting notwendig
 ---
@@ -48,7 +49,7 @@ geplante Userstories:
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Leonhard Steinecke
 - Kontext:
-	- Rechtschreibfehler 
+	- Grammatikfehler
 	- Leerzeile in Dokumentation von Funktion vergessen
 - Beispiel:
 	- Logger.hpp
@@ -57,12 +58,12 @@ geplante Userstories:
 	- -
 	- Verschlechtert die Lesbarkeit
 - Aktion:
-	- korrektur der Rechtschreibung
+	- Korrektur der Grammatik
 	- Leerzeile einfügen
 - Sonstiges:
 	- Code durchgesprochen von beiden User Storys
 	- Geklärt ob Informationen zur Anzahl der Transformationsmatrizen vom Logger ausgegeben werden sollten, sind zum Schluss gekommen ja
-	- Rechtschreibfehler Korrektur und Leerzeile direkt eingefügt
+	- Grammatikfehler Korrektur und Leerzeile direkt eingefügt
 
 ## Statusmeeting 1 zu User Story 4. Integration von 3DTK People Remover in Scan Combiner 
 - Datum: 20.11.2023 18 Uhr - 19:15 Uhr
@@ -79,6 +80,7 @@ geplante Userstories:
 - Sonstiges
 	- Code wurde durchgegangen
 	- Leerzeile wurde direkt eingefügt
+	- Simon ist großteils fertig, Greys ist für Tests zuständig und hat deshalb noch nicht begonnen
 
 ## Statusmeeting 1 zu User Story 5. Entfernung dynamischer Objekte mittels 3DTK People Remover
 - Datum: 21.11.2023 13:30 Uhr - 14:30 Uhr
@@ -103,7 +105,7 @@ geplante Userstories:
 - Code Buddy: Severin Pelikan
 - [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext: 
-	- Rechtschreibfehler
+	- Grammatikfehler
 - Beispiel: 
 	- Unbagger 
 - Diagnose: 
@@ -111,7 +113,9 @@ geplante Userstories:
 - Aktion:
 	- Korrektur dieser
 - Sonstiges:
-	- Tests laufen nicht durch, deshalb haben wir beide den Code durchgeschaut, allerdings keine Fehler gefunden. Dadurch kann die User Story nicht abgenommen werden und wird mit in die nächste Iteration übernommen.
+	- Tests laufen nicht durch
+	- Code durchgeschaut um potetielle Ursachen für die nicht durchlaufenden Tests zu finden
+	- User Story kann nicht abgenommen werden durch die fehlschlagenden Tests und wird mit in die nächste Iteration übernommen.
 ---
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 	- User Story wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt.
@@ -130,12 +134,19 @@ geplante Userstories:
 - Aktion:
 	- size_t zu std::size_t ändern
 - Sonstiges:
-	- Demo des Loggers
-	- Code durchgegangen
-	- Typ direkt geändert
-	- Keine Probleme im Code
+	- Demo des aktuellen Stands des Loggers
+		- Alles ausgeben ist fertig -> debug level
+		- Angeben können ob farbig oder nicht ist fertig
+		- Anderen Level in denen nur eine spezifische Detail Tiefe ausgegeben wird ist nicht fertig
+		- User Story 3 kann nicht abgenommen werden, da die unterschiedlichen Log-Level nicht fertig implementiert sind
+	- Code für Geschwindigkeitsentzerrung durchgegangen
+		- Typ direkt geändert
+		- Keine Probleme im Code
+		- Tests laufen durch
 ---
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 26.11.2024
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+	- User Story 2: 26.11.2024
+	- User Story 3 wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt. 
 
 ## Statusmeeting 2 zu User Story 4. Integration von 3DTK People Remover in Scan Combiner 
 - Datum: 25.11.2024 12:30 Uhr - 13 Uhr
@@ -151,9 +162,9 @@ geplante Userstories:
 - Aktion:
 	- -
 - Sonstiges:
+	- Tests gehen durch
 	- Fertigen Code durchgegangen
 	- Sieht alles gut aus
-	- Keine weiteren Anmerkungen
 ---
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
