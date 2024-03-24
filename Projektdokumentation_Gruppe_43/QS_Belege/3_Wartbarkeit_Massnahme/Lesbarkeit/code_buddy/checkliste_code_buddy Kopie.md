@@ -74,8 +74,6 @@
 
 
 
-Iteration 4
-- CLI 12, 13, 14, 15
 
 Iteration 5
 - Removert 10

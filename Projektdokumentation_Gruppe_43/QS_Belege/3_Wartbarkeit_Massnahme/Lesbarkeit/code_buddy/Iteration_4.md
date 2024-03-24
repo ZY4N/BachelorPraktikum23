@@ -82,17 +82,21 @@ geplante Userstories:
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Severin Pelikan
 - Kontext:
-	- -
+	- Identifier nicht passend gewählt
 - Beispiel:
-	-  -
+	-  --o_format
 - Diagnose:
-	- -
+	- Weniger verständlich was der Parameter macht
 - Aktion:
-	- -
+	- umbenennen
 - Sonstiges: 
 	- Bisher nur Anpassung des Ausgabeformats und Anpassung der Arbeitsspeicherauslastung angefangen
 	- Anpassung des Ausgabeformats fertig bis auf Tests
-	- 
+	- Besprochen wie alle restlichen Parameter heißen sollen: 
+		- --frame-format
+		- --log-level oder -l
+		- --time-per-block
+		- --max-radial-dist und --max-peripheral-dist
 
 ## Statusmeeting 2 zu User Story 8. Entfernen von Nick- und Schwankbewegungen aus Scans
 - Datum: 6.1.2024 12:30 Uhr - 13 Uhr
@@ -188,6 +192,9 @@ geplante Userstories:
 - Aktion:
 	- -
 - Sonstiges:
-	- 
+	- Probleme mit Chrono Integration im arx 
+		- Tests gingen nicht durch
+		- Zusammen fertig implementiert
+	- Die anderen User Stories sind Lesbar Implementiert und Dokumentiert
 ---
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 6.1.2024
