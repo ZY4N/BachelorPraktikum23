@@ -11,9 +11,9 @@ geplante Userstories:
 30. Hinzufügen eines "Help"-Kommandos
 
 ## Statusmeeting 1 zu User Story 23. PCL Converter 
-- Datum:
+- Datum: 11.2.2024 10 Uhr - 10:45 Uhr
 - Entwickler\*innen: Greys Fankyeyeva
-- Code Buddy:
+- Code Buddy: Alicia Gleichmann
 - Kontext:
 - Beispiel:
 - Diagnose:
@@ -21,9 +21,9 @@ geplante Userstories:
 - Sonstiges:
 
 ## Statusmeeting 1 zu User Story 24. Programm parallelisieren 
-- Datum:
+- Datum: 11.2.2024 12:30 Uhr - 13 Uhr
 - Entwickler\*innen: Severin Pelikan
-- Code Buddy:
+- Code Buddy: Greys Fankyeyeva
 - Kontext:
 - Beispiel:
 - Diagnose:
@@ -31,9 +31,9 @@ geplante Userstories:
 - Sonstiges:
 
 ## Statusmeeting 1 zu User Story 25. Unterstützung weiterer LiDAR-Sensoren 
-- Datum:
+- Datum: 12.2.2024 15:30 Uhr - 16 Uhr
 - Entwickler\*innen: Simon Riese, Severin Pelikan
-- Code Buddy:
+- Code Buddy: Greys Fankyeyeva
 - Kontext:
 - Beispiel:
 - Diagnose:
@@ -41,9 +41,9 @@ geplante Userstories:
 - Sonstiges:
 
 ## Statusmeeting 1 zu User Story 26. Erweiterung der Metadaten um Sensortypen und Rosbag-Topic 
-- Datum:
+- Datum: 11.2.2024 12:30 Uhr - 13 Uhr
 - Entwickler\*innen: Simon Riese
-- Code Buddy:
+- Code Buddy: Leonhard Steinecke
 - Kontext:
 - Beispiel:
 - Diagnose:
@@ -51,9 +51,9 @@ geplante Userstories:
 - Sonstiges:
 
 ## Statusmeeting 1 zu User Story 27. Erstellung von Testdatensätzen 
-- Datum:
+- Datum: 11.2.2024 13:30 Uhr - 14:15 Uhr
 - Entwickler\*innen: Leonhard Steinecke
-- Code Buddy:
+- Code Buddy: Simon Riese
 - Kontext:
 - Beispiel:
 - Diagnose:
@@ -61,9 +61,9 @@ geplante Userstories:
 - Sonstiges:
 
 ## Statusmeeting 1 zu User Story 28. Dynamisches Anpassen des LiDAR-Topics und LiDAR-Sensortyps über CLI, 29. Dynamisches Anpassen der Anzahl der verwendeten Threads über CLI und 30. Hinzufügen eines "Help"-Kommandos
-- Datum:
+- Datum: 11.2.2024 15 Uhr - 16 Uhr
 - Entwickler\*innen: Alicia Gleichmann
-- Code Buddy:
+- Code Buddy: Severin Pelikan
 - Kontext:
 - Beispiel:
 - Diagnose:
@@ -71,79 +71,79 @@ geplante Userstories:
 - Sonstiges:
 
 ## Statusmeeting 2 zu User Story 23. PCL Converter 
-- Datum:
+- Datum: 18.2.2024 10 Uhr - 10:45 Uhr
 - Entwickler\*innen: Greys Fankyeyeva
-- Code Buddy:
-- [ ] alle besprochenen Änderungen wurden umgesetzt 
+- Code Buddy: Alicia Gleichmann
+- [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 - Beispiel:
 - Diagnose:
 - Aktion:
 - Sonstiges:
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 
 ## Statusmeeting 2 zu User Story 24. Programm parallelisieren 
-- Datum:
+- Datum: 18.2.2024 12:30 Uhr - 13 Uhr
 - Entwickler\*innen: Severin Pelikan
-- Code Buddy:
-- [ ] alle besprochenen Änderungen wurden umgesetzt 
+- Code Buddy: Greys Fankyeyeva
+- [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 - Beispiel:
 - Diagnose:
 - Aktion:
 - Sonstiges:
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 
 ## Statusmeeting 2 zu User Story 25. Unterstützung weiterer LiDAR-Sensoren 
-- Datum:
+- Datum: 19.2.2024 15:30 Uhr - 16 Uhr
 - Entwickler\*innen: Simon Riese, Severin Pelikan
-- Code Buddy:
-- [ ] alle besprochenen Änderungen wurden umgesetzt 
+- Code Buddy: Greys Fankyeyeva
+- [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 - Beispiel:
 - Diagnose:
 - Aktion:
 - Sonstiges:
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 
 ## Statusmeeting 2 zu User Story 26. Erweiterung der Metadaten um Sensortypen und Rosbag-Topic 
-- Datum:
+- Datum: 18.2.2024 12:30 Uhr - 13 Uhr
 - Entwickler\*innen: Simon Riese
-- Code Buddy:
-- [ ] alle besprochenen Änderungen wurden umgesetzt 
+- Code Buddy: Leonhard Steinecke
+- [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 - Beispiel:
 - Diagnose:
 - Aktion:
 - Sonstiges:
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 
 ## Statusmeeting 2 zu User Story 27. Erstellung von Testdatensätzen 
-- Datum:
+- Datum: 18.2.2024 13:30 Uhr - 14:30 Uhr
 - Entwickler\*innen: Leonhard Steinecke
-- Code Buddy:
-- [ ] alle besprochenen Änderungen wurden umgesetzt 
+- Code Buddy: Simon Riese
+- [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 - Beispiel:
 - Diagnose:
 - Aktion:
 - Sonstiges:
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 
 ## Statusmeeting 2 zu User Story 28. Dynamisches Anpassen des LiDAR-Topics und LiDAR-Sensortyps über CLI, 29. Dynamisches Anpassen der Anzahl der verwendeten Threads über CLI und 30. Hinzufügen eines "Help"-Kommandos
-- Datum:
+- Datum: 11.2.2024 15 Uhr - 15:45 Uhr
 - Entwickler\*innen: Alicia Gleichmann
-- Code Buddy:
-- [ ] alle besprochenen Änderungen wurden umgesetzt
+- Code Buddy: Severin Pelikan
+- [x] alle besprochenen Änderungen wurden umgesetzt
 - Kontext:
 - Beispiel:
 - Diagnose:
 - Aktion:
 - Sonstiges: 
 ---
-- Umsetzung der besprochenen Änderungen vor nächstem Merge am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 

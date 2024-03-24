@@ -26,7 +26,7 @@
 1. Kontext - beschreibe das Problem und die möglichen Konsequenzen
 2. Beispiele - gebe spezifische Beispiele wann und wo die Probleme entstehen 
 3. Diagnose - nutze die Beispiele um zu erläutern warum dieser Ansatz benutzt wurde, was anders getan werden könnte und warum diese Änderungen eine Verbesserung wären
-4. Aktion - frag die Person die Feedback bekommt, wie die diese Probleme in Zukunft verhindern könnte
+4. Aktion - frag die Person die Feedback bekommt, wie sie diese Probleme in Zukunft verhindern könnte
 5. Review - schaue zu einem späterem Zeitpunkt ob und wie das Feedback umgesetzt wurde
 
 Konsistentes Feedback mithilfe eines Templates 
