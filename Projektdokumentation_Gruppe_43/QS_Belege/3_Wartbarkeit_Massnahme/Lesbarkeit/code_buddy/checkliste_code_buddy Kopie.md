@@ -74,13 +74,6 @@
 
 
 
-
-Iteration 5
-- Removert 10
-- Segmentierte Karte 16
-- Sammeln von Metadaten 17
-- Lesen und Schreiben von Metadaten 18
-
 Iteration 6
 - Lesen und schreiben von Metadaten 18
 - Ausarbeitung semi-dynamische Objekte 19

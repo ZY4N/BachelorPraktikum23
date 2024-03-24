@@ -113,7 +113,7 @@ geplante Userstories:
 	- -
 - Sonstiges:
 	- Tests gehen nicht durch
-	- Herausgefunden die benötigten Daten zum Winkel der Tram sind Fehlerhaft, deshalb User Storie verworfen
+	- Herausgefunden die benötigten Daten des IMU-Sensors sind Fehlerhaft, deshalb User Storie verworfen
 ---
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 	- kein Abschluss der User Story und keine Änderungen, da die User Story nicht übernommen wird.
@@ -153,7 +153,6 @@ geplante Userstories:
 - Sonstiges:
 	- Removert läuft auf unseren Daten durch
 	- Braucht ziemlich lange zum durchlaufen
-	- Ist das erste mal abgestürzt
 	- Nach dem durchlauf sind noch semi-dynamische Objekte zu erkennen (Bahn)
 		- Übernahme in nächste Iteration
 ---
