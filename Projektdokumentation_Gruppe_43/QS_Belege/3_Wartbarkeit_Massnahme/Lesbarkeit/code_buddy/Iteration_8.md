@@ -1,5 +1,6 @@
 # Statusmeeting Protokolle
 
+#TODO: geplante Userstories löschen, Rechtschreibung prüfen
 geplante Userstories:
 31. Wiki-Einträge zur Installation und Nutzung
 32. Wiki-Einträge zur internen Funktionsweise des Programms

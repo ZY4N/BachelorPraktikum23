@@ -1,5 +1,6 @@
 # Statusmeeting Protokolle
 
+#TODO: geplante Userstories löschen, Rechtschreibung prüfen
 geplante Userstories:
 0. Einlese-Option für Rosbag-Dateien x 1 Push
 3. Integration von dynamischem Logging-System x 1 Push

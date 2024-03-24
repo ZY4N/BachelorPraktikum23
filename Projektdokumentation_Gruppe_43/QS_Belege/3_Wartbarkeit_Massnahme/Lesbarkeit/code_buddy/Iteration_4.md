@@ -1,5 +1,6 @@
 # Statusmeeting Protokolle
 
+#TODO: geplante Userstories löschen, Rechtschreibung prüfen
 geplante Userstories:
 8. Entfernen von Nick- und Schwankbewegungen aus Scans 2 Push Abgelehnt weil korrupte Daten
 9. Integration von Removert in Scan Combiner 2 Push

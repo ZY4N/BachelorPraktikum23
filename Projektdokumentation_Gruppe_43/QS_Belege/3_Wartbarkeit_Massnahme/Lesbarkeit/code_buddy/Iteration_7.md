@@ -1,5 +1,6 @@
 # Statusmeeting Protokolle
 
+#TODO: geplante Userstories löschen, Rechtschreibung prüfen
 geplante Userstories:
 23. PCL Converter 2 Push
 24. Programm parallelisieren 2 Push

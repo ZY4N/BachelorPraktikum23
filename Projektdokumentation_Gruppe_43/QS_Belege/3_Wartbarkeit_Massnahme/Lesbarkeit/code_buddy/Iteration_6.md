@@ -1,5 +1,6 @@
 # Statusmeeting Protokolle
 
+#TODO: geplante Userstories löschen, Rechtschreibung prüfen
 geplante Userstories:
 10. Entfernung dynamischer Objekte mittels Removert 0 Push
 18. Lesen und Schreiben von Metadaten im JSON-Format 2 Push

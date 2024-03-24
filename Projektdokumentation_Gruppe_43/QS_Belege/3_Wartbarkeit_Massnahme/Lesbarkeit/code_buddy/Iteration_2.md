@@ -1,5 +1,6 @@
 # Statusmeeting Protokolle
 
+#TODO: geplante Userstories löschen, Rechtschreibung prüfen
 geplante Userstories:
 0. Einlese-Option für Rosbag-Dateien x 2 Push
 1. Distanzfilterung von Punktdaten x 2 Push
