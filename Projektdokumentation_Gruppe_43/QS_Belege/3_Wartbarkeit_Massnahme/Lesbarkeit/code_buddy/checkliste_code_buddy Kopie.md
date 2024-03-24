@@ -89,3 +89,9 @@ Iteration 6
 - CLI 20, 21, 22
 
 Iteration 7
+- PCL Converter 23
+- Parallelisieren 24
+- mehr LiDAR Sensoren 25
+- mehr Meta-Daten 26
+- Testdatensätze 27
+- CLI 28, 29, 30

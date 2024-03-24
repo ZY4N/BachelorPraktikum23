@@ -8,7 +8,7 @@ geplante Userstories:
 11. Docker integration für Zielsystem -  kein C++ 3 Push
 12. Dynamisches Anpassen des Ausgabeformats über CLI 2 Push
 13. Dynamisches Anpassen der Loggerkonfiguration über CLI 1 Push
-14. Anpassung der Arbeitsspeicherauslastung über CLI 2 Push
+14. Anpassung der Arbeitsspeicherauslastung über CLI 3 Push
 15. Dynamisches Anpassen der maximalen radialen und peripheren Distanzen über CLI 1 Push
 
 ## Statusmeeting 1 zu User Story 8. Entfernen von Nick- und Schwankbewegungen aus Scans
@@ -82,10 +82,13 @@ geplante Userstories:
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Severin Pelikan
 - Kontext:
-	- 
+	- -
 - Beispiel:
+	-  -
 - Diagnose:
+	- -
 - Aktion:
+	- -
 - Sonstiges: 
 	- Bisher nur Anpassung des Ausgabeformats und Anpassung der Arbeitsspeicherauslastung angefangen
 	- Anpassung des Ausgabeformats fertig bis auf Tests
@@ -187,4 +190,4 @@ geplante Userstories:
 - Sonstiges:
 	- 
 ---
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 6.1.2024
