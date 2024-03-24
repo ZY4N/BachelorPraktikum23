@@ -1,62 +1,68 @@
-> Zu diesem Zeitpunkt ist die CI/CD-Pipeline von unserem Arbeitgeber noch nicht für das   Repository des Dynamic-Railmap-Projekts freigeschaltet worden, weswegen die Tests manuell durchgeführt werden.
+> Zu diesem Zeitpunkt ist die CI/CD-Pipeline von unserem Arbeitgeber noch nicht für das   Repository des Dynamic-Railmap-Projekts freigeschaltet worden, weswegen die Tests (falls schon vorhanden) manuell direkt vor dem pushen durchgeführt werden.
 
 
 # Testdurchläufe:
 
 ## Einlese-Option für Rosbag-Dateien (ID: 0)
+#### Push am:
+Enthält noch keine Tests
+
+#### Push am:
 #TODO Screenshots von Clion mit relevanten Tests
-- Datum:
-- Von:
-- Ergebnis:
-- Konsequenzen:
+- Durchgeführt von: Leonhard Steinecke
+- Ergebnis: Fehlgeschlagen
+- Konsequenzen: Da der Fehler bis zum Ende der Iteration nicht gefunden wurde, wird diese User Story in die nächste Iteration übernommen.
 
 ---
 ## Distanzfilterung von Punktdaten (ID: 1)
+#### Push am:
 #TODO Screenshots von Clion mit relevanten Tests
-- Datum:
-- Von:
-- Ergebnis:
-- Konsequenzen:
+- Durchgeführt von: Greys Fankyeyeva
+- Ergebnis: Erfolgreich
+- Konsequenzen: QS-Maßnahme gilt als bestanden.
+#### Push am:
+#TODO Screenshots von Clion mit relevanten Tests
+- Durchgeführt von: Greys Fankyeyeva
+- Ergebnis: Erfolgreich
+- Konsequenzen: QS-Maßnahme gilt als bestanden.
 
 ---
 ## Geschwindigkeits-Entzerrung (ID: 2)
+#### Push am:
+Enthält noch keine Tests
+#### Push am:
 #TODO Screenshots von Clion mit relevanten Tests
-- Datum:
-- Von:
-- Ergebnis:
-- Konsequenzen:
+- Durchgeführt von: Severin Pelikan
+- Ergebnis: Erfolgreich
+- Konsequenzen: QS-Maßnahme gilt als bestanden.
 
----
-## Integration von dynamischem Logging-System (ID: 3)
+#### Push am:
 #TODO Screenshots von Clion mit relevanten Tests
-- Datum:
-- Von:
-- Ergebnis:
-- Konsequenzen:
+- Durchgeführt von: Severin Pelikan
+- Ergebnis: Erfolgreich
+- Konsequenzen: QS-Maßnahme gilt als bestanden.
+
+
+## Integration von dynamischem Logging-System (ID: 3)
+#### Push am:
+Enthält noch keine Tests
+#### Push am:
+Enthält noch keine Tests
 
 ---
 ## Integration von 3DTK People Remover in Scan Combiner (ID: 4)
+#### Push am:
+Enthält noch keine Tests
+#### Push am:
+Enthält noch keine Tests
+#### Push am:
 #TODO Screenshots von Clion mit relevanten Tests
-- Datum:
-- Von:
-- Ergebnis:
-- Konsequenzen:
+- Durchgeführt von: Greys Fankyeyeva
+- Ergebnis: Erfolgreich
+- Konsequenzen: QS-Maßnahme gilt als bestanden.
+
 
 ---
 ## Entfernung dynamischer Objekte mittels 3DTK People Remover (ID: 5)
-#TODO Screenshots von Clion mit relevanten Tests
-- Datum:
-- Von:
-- Ergebnis:
-- Konsequenzen:
+#### Userstory Enthält keinen Code darum gibt es keine Tests
 
----
-
-## Iterationsabschluss Test:
-(Test der am Ende der Iteration durchgeführt wird, wenn alle in dieser Iteration fertig gewordenen User Stories in den default branch übernommen wurden)
-#TODO Screenshots von Clion mit relevanten Tests
-- Enthält User Stories: 
-- Datum:
-- Von:
-- Ergebnis:
-- Konsequenzen:
