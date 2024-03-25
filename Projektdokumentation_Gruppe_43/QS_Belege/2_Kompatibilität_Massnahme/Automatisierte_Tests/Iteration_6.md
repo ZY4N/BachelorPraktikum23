@@ -12,8 +12,15 @@
 #TODO Falls so weit gekommen: Screenshot der durchgeführten Tests
 - Integrierte User Stories: (?)
 - Gepusht von: Simon Riese
-- Ergebnis:
-- Konsequenzen:
+- Ergebnis: Fehler beim Kompilieren
+- Konsequenzen: Die Version der, für den JSON Export benutzte, Bibliothek ist nicht mit der Compilerversion der Zielhardware kompatibel. Eine ältere Version musste verwendet werden.
+#### Push am:
+#TODO Screenshot Übersicht der Pipeline Stufen
+#TODO Falls so weit gekommen: Screenshot der durchgeführten Tests
+- Integrierte User Stories: (?)
+- Gepusht von: Simon Riese
+- Ergebnis: Erfolgreich
+- Konsequenzen: QS-Maßnahme gilt als bestanden
 
 ---
 
@@ -28,8 +35,8 @@
 #TODO Falls so weit gekommen: Screenshot der durchgeführten Tests
 - Integrierte User Stories: (?)
 - Gepusht von: Alicia Gleichmann
-- Ergebnis:
-- Konsequenzen:
+- Ergebnis: Erfolgreich
+- Konsequenzen: QS-Maßnahme gilt als bestanden
 
 ---
 
@@ -39,8 +46,8 @@
 #TODO Falls so weit gekommen: Screenshot der durchgeführten Tests
 - Integrierte User Stories: (?)
 - Gepusht von: Alicia Gleichmann
-- Ergebnis:
-- Konsequenzen:
+- Ergebnis: Erfolgreich
+- Konsequenzen: QS-Maßnahme gilt als bestanden
 
 ---
 
@@ -50,6 +57,13 @@
 #TODO Falls so weit gekommen: Screenshot der durchgeführten Tests
 - Integrierte User Stories: (?)
 - Gepusht von: Alicia Gleichmann
-- Ergebnis:
-- Konsequenzen:
+- Ergebnis: Fehler beim Kompilieren
+- Konsequenzen: Implementation noch nicht vollständig. Entwicklung muss fortgesetzt werden.
+#### Push am:
+#TODO Screenshot Übersicht der Pipeline Stufen
+#TODO Falls so weit gekommen: Screenshot der durchgeführten Tests
+- Integrierte User Stories: (?)
+- Gepusht von: Alicia Gleichmann
+- Ergebnis: Erfolgreich
+- Konsequenzen: QS-Maßnahme gilt als bestanden
 
