@@ -10,7 +10,7 @@ geplante Userstories:
 5. Entfernung dynamischer Objekte mittels 3DTK People Remover x 0 Push
 
 ## Statusmeeting 1 zu User Story 0. Einlese-Option für Rosbag-Dateien
-- Datum: 20.11.2023 16 Uhr - 17:30 Uhr
+- Datum: 20.11.2023 16:00 Uhr - 17:30 Uhr
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Severin Pelikan
 - Kontext:
@@ -47,7 +47,7 @@ geplante Userstories:
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 20.11.2023
 
 ## Statusmeeting 1 zu User Story 2. Geschwindigkeits-Entzerrung und 3. Integration von dynamischem Logging-System
-- Datum: 21.11.2023 14 Uhr - 15:30 Uhr
+- Datum: 21.11.2023 14:00 Uhr - 15:30 Uhr
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Leonhard Steinecke
 - Kontext:
@@ -64,11 +64,12 @@ geplante Userstories:
 	- Leerzeile einfügen
 - Sonstiges:
 	- Code durchgesprochen von beiden User Storys
+	- Demonstration das 90% der Geschwindigkeiten Duplikate von vorherigen Geschwindigkeiten sind
 	- Geklärt ob Informationen zur Anzahl der Transformationsmatrizen vom Logger ausgegeben werden sollten, sind zum Schluss gekommen ja
 	- Grammatikfehler Korrektur und Leerzeile direkt eingefügt
 
 ## Statusmeeting 1 zu User Story 4. Integration von 3DTK People Remover in Scan Combiner 
-- Datum: 20.11.2023 18 Uhr - 19:15 Uhr
+- Datum: 20.11.2023 18:00 Uhr - 19:15 Uhr
 - Entwickler\*innen: Greys Fankyeyeva, Simon Riese
 - Code Buddy: Alicia Gleichmann
 - Kontext: 
@@ -102,7 +103,7 @@ geplante Userstories:
 	- User Story 4 noch nicht fertig, deshalb noch keine Tests möglich
 
 ## Statusmeeting 2 zu User Story 0. Einlese-Option für Rosbag-Dateien
-- Datum: 26.11.2023 15 Uhr - 18:30 Uhr
+- Datum: 26.11.2023 15:00 Uhr - 18:30 Uhr
 - Entwickler\*innen:  Leonhard Steinecke
 - Code Buddy: Severin Pelikan
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -147,11 +148,11 @@ geplante Userstories:
 		- Tests laufen durch
 ---
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
-	- User Story 2: 26.11.2024
+	- User Story 2: 26.11.2023
 	- User Story 3 wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt. 
 
 ## Statusmeeting 2 zu User Story 4. Integration von 3DTK People Remover in Scan Combiner 
-- Datum: 25.11.2024 12:30 Uhr - 13 Uhr
+- Datum: 25.11.2024 12:30 Uhr - 13:00 Uhr
 - Entwickler\*innen: Greys Fankyeyeva, Simon Riese
 - Code Buddy: Alicia Gleichmann
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -171,7 +172,7 @@ geplante Userstories:
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ## Statusmeeting 2 zu User Story 5. Entfernung dynamischer Objekte mittels 3DTK People Remover
-- Datum: 27.11.2023 15:30 Uhr - 18 Uhr
+- Datum: 27.11.2023 15:30 Uhr - 18:00 Uhr
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Greys Fankyeyeva
 - [x] alle besprochenen Änderungen wurden umgesetzt 

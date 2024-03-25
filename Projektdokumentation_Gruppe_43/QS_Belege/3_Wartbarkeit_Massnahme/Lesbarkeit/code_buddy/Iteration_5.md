@@ -8,7 +8,7 @@ geplante Userstories:
 18. Lesen und Schreiben von Metadaten im JSON-Format 2 Push
 
 ## Statusmeeting 1 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
-- Datum: 16.1.2024 12:30 Uhr - 13 Uhr
+- Datum: 16.01.2024 12:30 Uhr - 13:00 Uhr
 - Entwickler\*innen: Severin Pelikan, Greys Fankyeyeva
 - Code Buddy: Simon Riese
 - Kontext:
@@ -24,7 +24,7 @@ geplante Userstories:
 	- Verschiedene Kombinationen der Parameter bereits ausprobiert
 
 ## Statusmeeting 1 zu User Story 16. Export zu segmentierten Karten Format 
-- Datum: 15.1.2024 15:30 Uhr - 16:15 Uhr
+- Datum: 15.01.2024 15:30 Uhr - 16:15 Uhr
 - Entwickler\*innen: Severin Pelikan, Alicia Gleichmann
 - Code Buddy: Greys Fankyeyeva
 - Kontext:
@@ -36,12 +36,12 @@ geplante Userstories:
 - Aktion:
 	- -
 - Sonstiges:
-	- Aufteilung in Buckets abgeschlossen
+	- Aufteilung in Buckets großteils abgeschlossen
 	- Fehlt Buckts zu Output
 	- Keine Probleme in der Dokumentation und auch keine verbotenen Operationen verwendet
 
 ## Statusmeeting 1 zu User Story 17. Sammeln von Metadaten 
-- Datum: 15.1.2024 15:30 Uhr - 15:40 Uhr
+- Datum: 15.01.2024 15:30 Uhr - 15:40 Uhr
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Simon Riese
 - Kontext:
@@ -56,7 +56,7 @@ geplante Userstories:
 	- bisher kein Implementationsfortschritt
 
 ## Statusmeeting 1 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
-- Datum: 15.1.2024 16:15 Uhr - 17 Uhr
+- Datum: 15.01.2024 16:15 Uhr - 17:00 Uhr
 - Entwickler\*innen: Simon Riese
 - Code Buddy: Leonhard Steinecke
 - Kontext: 
@@ -74,7 +74,7 @@ geplante Userstories:
 	- Zusammen gleich behoben
 
 ## Statusmeeting 2 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
-- Datum: 20.1.2024 12:30 Uhr - 14 Uhr
+- Datum: 20.01.2024 12:30 Uhr - 14:00 Uhr
 - Entwickler\*innen: Severin Pelikan, Greys Fankyeyeva
 - Code Buddy: Simon Riese
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -92,10 +92,10 @@ geplante Userstories:
 		- Übernahme in nächste Iteration
 ---
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
-	- User Story wurde in die nächste Iteration übernommen. Änderungen wurden umgesetzt am \<hier Datum einsetzten\>
+	- User Story wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt.
 
 ## Statusmeeting 2 zu User Story 16. Export zu segmentierten Karten Format 
-- Datum: 19.1.2024 14 Uhr - 15 Uhr
+- Datum: 19.01.2024 14:00 Uhr - 15:00 Uhr
 - Entwickler\*innen: Severin Pelikan, Alicia Gleichmann
 - Code Buddy: Greys Fankyeyeva
 - [x] alle besprochenen Änderungen wurden umgesetzt
@@ -114,7 +114,7 @@ geplante Userstories:
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 19.1.2024
 
 ## Statusmeeting 2 zu User Story 17. Sammeln von Metadaten 
-- Datum: Ausgefallen da Leonhard krank wurde
+- Datum: 19.01.2024 18:00 Uhr - 18:30 Uhr
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Simon Riese
 - [x] alle besprochenen Änderungen wurden umgesetzt
@@ -127,16 +127,15 @@ geplante Userstories:
 - Aktion:
 	- -
 - Sonstiges: 
-	- Leonhards implementation war fertig bevor er krank wurde und deshalb ist dieses Meeting ausgefallen.
-	- Da keine Fehler im Code oder der Implementation waren die die Lesbarkeit beeinträchtigen musste auch nichts korrigiert werden
+	- Da keine Fehler im Code oder der Dokumentation waren die die Lesbarkeit beeinträchtigen musste auch nichts korrigiert werden
 	- Notiert am 19.1.2024 23 Uhr
 ---
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ## Statusmeeting 2 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
-- Datum: 19.1.2024 16 Uhr - 16:45 Uhr
+- Datum: 19.01.2024 16:00 Uhr - 16:30 Uhr
 - Entwickler\*innen: Simon Riese
-- Code Buddy: Ersatz durch Alicia Gleichmann
+- Code Buddy: Leonhard Steinecke
 - [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 	- -
@@ -147,7 +146,6 @@ geplante Userstories:
 - Aktion:
 	- -
 - Sonstiges:
-	- Da ich nicht so tief in das Thema eingearbeitet war wie Leonhard etwas längere Besprechung des Codes
 	- Keine Fehler in der Dokumentation
 	- Da Implementation noch nicht vollständig, Übernahme in die nächste Iteration
 ---

@@ -1,3 +1,4 @@
+
 # Statusmeeting Protokolle
 
 #TODO: geplante Userstories löschen, Rechtschreibung prüfen
@@ -12,7 +13,7 @@ geplante Userstories:
 15. Dynamisches Anpassen der maximalen radialen und peripheren Distanzen über CLI 1 Push
 
 ## Statusmeeting 1 zu User Story 8. Entfernen von Nick- und Schwankbewegungen aus Scans
-- Datum: 29.12.2023 12:30 Uhr - 13 Uhr
+- Datum: 29.12.2023 12:30 Uhr - 13:00 Uhr
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Leonhard Steinecke
 - Kontext:
@@ -29,7 +30,7 @@ geplante Userstories:
 	- Noch fertig dokumentieren, aber da erst Zwischenstand ok
 
 ## Statusmeeting 1 zu User Story 9. Integration von Removert in Scan Combiner
-- Datum: 29.12.2023 10 Uhr - 10:45 Uhr
+- Datum: 29.12.2023 10:00 Uhr - 10:45 Uhr
 - Entwickler\*innen: Simon Riese
 - Code Buddy: Greys Fankyeyeva
 - Kontext:
@@ -45,7 +46,7 @@ geplante Userstories:
 	- Frage zu Kitti Format noch mal nachgeschaut bei KIT wegen Transformationsspeicherung in einem extra Ordner
 
 ## Statusmeeting 1 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
-- Datum: 29.12.2023 15 Uhr - 15:15 Uhr
+- Datum: 29.12.2023 15:00 Uhr - 15:15 Uhr
 - Entwickler\*innen: Severin Pelikan, Greys Fankyeyeva
 - Code Buddy: Simon Riese
 - Kontext:
@@ -61,7 +62,7 @@ geplante Userstories:
 	- Angefangen den externe Testdatensatz auszuprobieren, scheint bisher gut
 
 ## Statusmeeting 1 zu User Story 11. Docker integration für Zielsystem 
-- Datum: 29.12.2023 12:30 Uhr - 13 Uhr
+- Datum: 29.12.2023 12:30 Uhr - 13:00 Uhr
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Alicia Gleichmann
 - Kontext:
@@ -99,7 +100,7 @@ geplante Userstories:
 		- --max-radial-dist und --max-peripheral-dist
 
 ## Statusmeeting 2 zu User Story 8. Entfernen von Nick- und Schwankbewegungen aus Scans
-- Datum: 6.1.2024 12:30 Uhr - 13 Uhr
+- Datum: 06.01.2024 12:30 Uhr - 13:00 Uhr
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Leonhard Steinecke
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -119,7 +120,7 @@ geplante Userstories:
 	- kein Abschluss der User Story und keine Änderungen, da die User Story nicht übernommen wird.
 
 ## Statusmeeting 2 zu User Story 9. Integration von Removert in Scan Combiner
-- Datum: 6.1.2024 10 Uhr - 10:30 Uhr
+- Datum: 06.01.2024 10:00 Uhr - 10:30 Uhr
 - Entwickler\*innen: Simon Riese
 - Code Buddy: Greys Fankyeyeva
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -138,7 +139,7 @@ geplante Userstories:
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ## Statusmeeting 2 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
-- Datum: 7.1.2024 12:30 Uhr - 14 Uhr
+- Datum: 07.01.2024 12:30 Uhr - 14:00 Uhr
 - Entwickler\*innen: Severin Pelikan, Greys Fankyeyeva
 - Code Buddy: Simon Riese
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -160,7 +161,7 @@ geplante Userstories:
 	- User Story wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt. 
 
 ## Statusmeeting 2 zu User Story 11. Docker integration für Zielsystem 
-- Datum: 6.1.2024 14 Uhr - 14:30 Uhr
+- Datum: 06.01.2024 14:00 Uhr - 14:30 Uhr
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Alicia Gleichmann
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -178,7 +179,7 @@ geplante Userstories:
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ## Statusmeeting 2 zu User Story 12. Dynamisches Anpassen des Ausgabeformats über CLI, 13. Dynamisches Anpassen der Loggerkonfiguration über CLI, 14. Anpassung der Arbeitsspeicherauslastung über CLI und 15. Dynamisches Anpassen der maximalen radialen und peripheren Distanzen über CLI
-- Datum: 6.1.2024 15 Uhr - 17:30 Uhr
+- Datum: 06.01.2024 15:00 Uhr - 17:30 Uhr
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Severin Pelikan
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -196,4 +197,4 @@ geplante Userstories:
 		- Zusammen fertig implementiert
 	- Die anderen User Stories sind Lesbar Implementiert und Dokumentiert
 ---
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 6.1.2024
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 06.01.2024

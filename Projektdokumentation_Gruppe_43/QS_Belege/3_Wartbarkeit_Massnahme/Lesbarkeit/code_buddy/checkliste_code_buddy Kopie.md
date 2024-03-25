@@ -75,14 +75,12 @@
 
 
 Iteration 6
-- Lesen und schreiben von Metadaten 18
-- Ausarbeitung semi-dynamische Objekte 19
-- CLI 20, 21, 22
+- Lesen und schreiben von Metadaten 18 2P
+- Ausarbeitung semi-dynamische Objekte 19 0P
+- CLI 20, 21, 22 1, 1, 2P
 
 Iteration 7
-- PCL Converter 23
-- Parallelisieren 24
-- mehr LiDAR Sensoren 25
-- mehr Meta-Daten 26
-- Testdatensätze 27
-- CLI 28, 29, 30
+- PCL Converter 23 2P
+- Parallelisieren 24 2P
+- mehr LiDAR Sensoren 25 2P
+- mehr Meta-Daten 26 2P

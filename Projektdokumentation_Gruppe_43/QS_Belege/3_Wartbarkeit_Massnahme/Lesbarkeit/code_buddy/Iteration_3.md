@@ -8,7 +8,7 @@ geplante Userstories:
 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI x 4 Push
 
 ## Statusmeeting 1 zu User Story 0. Einlese-Option für Rosbag-Dateien
-- Datum: 8.12.2023 15 Uhr - 15:30 Uhr
+- Datum: 07.12.2023 12:30Uhr - 13:00 Uhr
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Severin Pelikan
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -26,9 +26,9 @@ geplante Userstories:
 	- Dementsprechend keine Weiteren Statusmeetings von Nöten
 
 ## Statusmeeting 1 zu User Story 3. Integration von dynamischem Logging-System und 6. Verringerung von Aufnahmetransformationen
-- Datum: 8.12.2023 16 Uhr - 18:15 Uhr
+- Datum: 08.12.2023 16:00 Uhr - 18:15 Uhr
 - Entwickler\*innen: Severin Pelikan
-- Code Buddy: Leonhard Steinecke
+- Code Buddy: Ersatz durch Alicia Gleichmann
 - [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 	- Dokumentation teils noch unvollständig
@@ -39,16 +39,17 @@ geplante Userstories:
 - Aktion:
 	- Dokumentation fertig schreiben
 - Sonstiges:
+	- Leonhard Steinecke wurde krank, deshalb ist Alicia Gleichmann Ersatz Code Buddy
 	- Übrigen Logger Level wurden integriert und vorgeführt
 		- keine Lesbarkeitsfehler im Code und Tests laufen durch
+		- Demo der verschiedenen Logger Level
 		- Dementsprechend keine weiteren Statusmeetings mehr notwendig
 	- Veringerung der Aufnahmetransformationen
-		- Demonstration wie viele der Aufnahmetransformationen nur Kopien der vorherigen Aufnahmetransformationen waren
 		- Implementation fast fertig, Doku und Tests fehlen noch
 		- Vorhandene Dokumentation scheint Richtig, ist aber auch teils noch mehr Stichpunktartig als Fließtext
 
 ## Statusmeeting 1 zu User Story 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
-- Datum: 9.12.2023 12:30 Uhr - 13:15 Uhr
+- Datum: 09.12.2023 12:30 Uhr - 13:15 Uhr
 - Entwickler\*innen: Alicia Gleichmann, Severin Pelikan
 - Code Buddy: Simon Riese
 - Kontext:
@@ -66,9 +67,9 @@ geplante Userstories:
 		- Herausfinden warum
 
 ## Statusmeeting 2 zu User Story 6. Verringerung von Aufnahmetransformationen
-- Datum: 15.12.2023 16 Uhr - 16:30 Uhr
+- Datum: 15.12.2023 16:00 Uhr - 16:30 Uhr
 - Entwickler\*innen: Severin Pelikan
-- Code Buddy: Leonhard Steinecke
+- Code Buddy: Ersatz durch Alicia Gleichmann
 - [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 	- -
@@ -79,6 +80,7 @@ geplante Userstories:
 - Aktion:
 	- -
 - Sonstiges:
+	- Leonhard Steinecke ist krank, deshalb ist Alicia Gleichmann Ersatz Code Buddy
 	- Tests laufen durch
 	- Grob Änderungen noch mal besprochen
 	- alle Punkte der Checkliste konnten abgehakt werden
@@ -86,7 +88,7 @@ geplante Userstories:
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ## Statusmeeting 2 zu User Story 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
-- Datum: 16.12:2023 12:30 Uhr - 13:30 Uhr
+- Datum: 16.12.2023 12:30 Uhr - 13:30 Uhr
 - Entwickler\*innen: Alicia Gleichmann, Severin Pelikan
 - Code Buddy: Simon Riese
 - [x] alle besprochenen Änderungen wurden umgesetzt 

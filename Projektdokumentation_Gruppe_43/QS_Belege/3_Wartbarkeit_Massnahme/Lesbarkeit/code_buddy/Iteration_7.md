@@ -12,7 +12,7 @@ geplante Userstories:
 30. Hinzufügen eines "Help"-Kommandos 2 Push
 
 ## Statusmeeting 1 zu User Story 23. PCL Converter 
-- Datum: 11.2.2024 10 Uhr - 10:45 Uhr
+- Datum: 11.02.2024 10:00 Uhr - 10:45 Uhr
 - Entwickler\*innen: Greys Fankyeyeva
 - Code Buddy: Alicia Gleichmann
 - Kontext:
@@ -22,7 +22,7 @@ geplante Userstories:
 - Sonstiges:
 
 ## Statusmeeting 1 zu User Story 24. Programm parallelisieren 
-- Datum: 11.2.2024 12:30 Uhr - 13 Uhr
+- Datum: 11.02.2024 12:30 Uhr - 13:00 Uhr
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Greys Fankyeyeva
 - Kontext:
@@ -32,7 +32,7 @@ geplante Userstories:
 - Sonstiges:
 
 ## Statusmeeting 1 zu User Story 25. Unterstützung weiterer LiDAR-Sensoren 
-- Datum: 12.2.2024 15:30 Uhr - 16 Uhr
+- Datum: 12.02.2024 15:30 Uhr - 16:00 Uhr
 - Entwickler\*innen: Simon Riese, Severin Pelikan
 - Code Buddy: Greys Fankyeyeva
 - Kontext:
@@ -42,7 +42,7 @@ geplante Userstories:
 - Sonstiges:
 
 ## Statusmeeting 1 zu User Story 26. Erweiterung der Metadaten um Sensortypen und Rosbag-Topic 
-- Datum: 11.2.2024 12:30 Uhr - 13 Uhr
+- Datum: 11.02.2024 12:30 Uhr - 13:00 Uhr
 - Entwickler\*innen: Simon Riese
 - Code Buddy: Leonhard Steinecke
 - Kontext:
@@ -52,27 +52,44 @@ geplante Userstories:
 - Sonstiges:
 
 ## Statusmeeting 1 zu User Story 27. Erstellung von Testdatensätzen 
-- Datum: 11.2.2024 13:30 Uhr - 14:15 Uhr
+- Datum: 11.02.2024 13:30 Uhr - 14:15 Uhr
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Simon Riese
 - Kontext:
+	- -
 - Beispiel:
+	- -
 - Diagnose:
+	- -
 - Aktion:
+	- -
 - Sonstiges:
+	- Da kein Code oder Dokumentation oder Text vorhanden ist, ist Lesbarkeit nicht von Bedarf
+	- Rosbag gefunden der einen Interessanten Output liefert
+	- Demonstration des geplanten Outputs
+	- Zuschneiden des Rosbags zu einem kleineren Zeitabschnitt und Herausschneiden von Daten die zu Problemen mit dem  Datenschutz führen könnten
+		- nur Notwendige Daten zum Ausführen des Programms beibehalten 
 
 ## Statusmeeting 1 zu User Story 28. Dynamisches Anpassen des LiDAR-Topics und LiDAR-Sensortyps über CLI, 29. Dynamisches Anpassen der Anzahl der verwendeten Threads über CLI und 30. Hinzufügen eines "Help"-Kommandos
-- Datum: 11.2.2024 15 Uhr - 16 Uhr
+- Datum: 11.02.2024 15:00 Uhr - 15:30 Uhr
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Severin Pelikan
 - Kontext:
+	- -
 - Beispiel:
+	- -
 - Diagnose:
+	- -
 - Aktion:
+	- -
 - Sonstiges:
+	- Umsetzung der US 28 und 29 wie alle anderen Parameter auch -> keine Lesbarkeitsfehler
+	- US 28 und 29 abgeschlossen 
+		- Tests gehen durch
+	- US 30 noch nicht begonnen
 
 ## Statusmeeting 2 zu User Story 23. PCL Converter 
-- Datum: 18.2.2024 10 Uhr - 10:45 Uhr
+- Datum: 18.02.2024 10:00 Uhr - 10:45 Uhr
 - Entwickler\*innen: Greys Fankyeyeva
 - Code Buddy: Alicia Gleichmann
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -85,7 +102,7 @@ geplante Userstories:
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 
 ## Statusmeeting 2 zu User Story 24. Programm parallelisieren 
-- Datum: 18.2.2024 12:30 Uhr - 13 Uhr
+- Datum: 18.02.2024 12:30 Uhr - 13:00 Uhr
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Greys Fankyeyeva
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -98,7 +115,7 @@ geplante Userstories:
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 
 ## Statusmeeting 2 zu User Story 25. Unterstützung weiterer LiDAR-Sensoren 
-- Datum: 19.2.2024 15:30 Uhr - 16 Uhr
+- Datum: 19.02.2024 15:30 Uhr - 16:00 Uhr
 - Entwickler\*innen: Simon Riese, Severin Pelikan
 - Code Buddy: Greys Fankyeyeva
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -111,7 +128,7 @@ geplante Userstories:
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 
 ## Statusmeeting 2 zu User Story 26. Erweiterung der Metadaten um Sensortypen und Rosbag-Topic 
-- Datum: 18.2.2024 12:30 Uhr - 13 Uhr
+- Datum: 18.02.2024 12:30 Uhr - 13:00 Uhr
 - Entwickler\*innen: Simon Riese
 - Code Buddy: Leonhard Steinecke
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -124,27 +141,42 @@ geplante Userstories:
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 
 ## Statusmeeting 2 zu User Story 27. Erstellung von Testdatensätzen 
-- Datum: 18.2.2024 13:30 Uhr - 14:30 Uhr
+- Datum: 18.02.2024 13:30 Uhr - 14:15 Uhr
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Simon Riese
 - [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
+	- -
 - Beispiel:
+	- -
 - Diagnose:
+	- -
 - Aktion:
+	- -
 - Sonstiges:
+	- Testdatensatz ist Richtig benannt 
+	- Läuft durch das Programm und der Output sieht gut aus
+		- Demo wie das Repo geladen wird und mit dem Testdatensatz durchläuft
 ---
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
-## Statusmeeting 2 zu User Story 28. Dynamisches Anpassen des LiDAR-Topics und LiDAR-Sensortyps über CLI, 29. Dynamisches Anpassen der Anzahl der verwendeten Threads über CLI und 30. Hinzufügen eines "Help"-Kommandos
-- Datum: 11.2.2024 15 Uhr - 15:45 Uhr
+## Statusmeeting 2 zu User Story 30. Hinzufügen eines "Help"-Kommandos
+- Datum: 11.02.2024 15:00 Uhr - 15:45 Uhr
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Severin Pelikan
 - [x] alle besprochenen Änderungen wurden umgesetzt
 - Kontext:
+	- Einrücken der Beschreibung und Standardwerte in der Help Ausgabe
 - Beispiel:
+	- max_scan_position_deviation Beschreibung Standardwert
+	  max_radial_distance Beschreibung Standardwert
 - Diagnose:
-- Aktion:
+	- Die Beschreibungen und Standardwerte sind schlechter zu erkennen
+- Aktion: 
+	- Beschreibungen und Standardwerte so einrücken, sodass alle auf einer Höhe sind.
 - Sonstiges: 
+	- Einrücken der Ausgabe von Help passt zu keinem Punkt in der Checkliste, macht es dennoch lesbarer
+	- Direkt umgesetzt
+	- Restliche Dokumentation und Implementation sind Lesbar
 ---
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 11.02.2024
