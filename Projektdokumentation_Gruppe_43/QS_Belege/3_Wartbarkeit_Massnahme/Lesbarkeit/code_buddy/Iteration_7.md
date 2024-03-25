@@ -1,14 +1,15 @@
 # Statusmeeting Protokolle
 
+#TODO: geplante Userstories löschen, Rechtschreibung prüfen
 geplante Userstories:
-23. PCL Converter 
-24. Programm parallelisieren 
-25. Unterstützung weiterer LiDAR-Sensoren 
-26. Erweiterung der Metadaten um Sensortypen und Rosbag-Topic 
-27. Erstellung von Testdatensätzen 
-28. Dynamisches Anpassen des LiDAR-Topics und LiDAR-Sensortyps über CLI 
-29. Dynamisches Anpassen der Anzahl der verwendeten Threads über CLI 
-30. Hinzufügen eines "Help"-Kommandos
+23. PCL Converter 2 Push
+24. Programm parallelisieren 2 Push
+25. Unterstützung weiterer LiDAR-Sensoren 2 Push
+26. Erweiterung der Metadaten um Sensortypen und Rosbag-Topic 2 Push
+27. Erstellung von Testdatensätzen 1 Push - keine Doku
+28. Dynamisches Anpassen des LiDAR-Topics und LiDAR-Sensortyps über CLI 1 Push
+29. Dynamisches Anpassen der Anzahl der verwendeten Threads über CLI 1 Push
+30. Hinzufügen eines "Help"-Kommandos 2 Push
 
 ## Statusmeeting 1 zu User Story 23. PCL Converter 
 - Datum: 11.2.2024 10 Uhr - 10:45 Uhr

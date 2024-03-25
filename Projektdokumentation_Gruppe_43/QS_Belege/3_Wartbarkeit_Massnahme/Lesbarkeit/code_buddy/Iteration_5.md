@@ -1,50 +1,77 @@
 # Statusmeeting Protokolle
 
+#TODO: geplante Userstories löschen, Rechtschreibung prüfen
 geplante Userstories:
-10. Entfernung dynamischer Objekte mittels Removert
-16. Export zu segmentierten Karten Format 
-17. Sammeln von Metadaten
-18. Lesen und Schreiben von Metadaten im JSON-Format
+10. Entfernung dynamischer Objekte mittels Removert 0 Push
+16. Export zu segmentierten Karten Format 4 Push
+17. Sammeln von Metadaten 1 Push
+18. Lesen und Schreiben von Metadaten im JSON-Format 2 Push
 
 ## Statusmeeting 1 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
 - Datum: 16.1.2024 12:30 Uhr - 13 Uhr
 - Entwickler\*innen: Severin Pelikan, Greys Fankyeyeva
 - Code Buddy: Simon Riese
 - Kontext:
+	- -
 - Beispiel:
+	- -
 - Diagnose:
+	- -
 - Aktion:
-- Sonstiges: Enthält keinen Code
+	- -
+- Sonstiges: 
+	- Fragmente sind immer noch da, allerdings weniger
+	- Verschiedene Kombinationen der Parameter bereits ausprobiert
 
 ## Statusmeeting 1 zu User Story 16. Export zu segmentierten Karten Format 
 - Datum: 15.1.2024 15:30 Uhr - 16:15 Uhr
 - Entwickler\*innen: Severin Pelikan, Alicia Gleichmann
 - Code Buddy: Greys Fankyeyeva
 - Kontext:
+	- -
 - Beispiel:
+	- -
 - Diagnose:
+	- -
 - Aktion:
+	- -
 - Sonstiges:
+	- Aufteilung in Buckets abgeschlossen
+	- Fehlt Buckts zu Output
+	- Keine Probleme in der Dokumentation und auch keine verbotenen Operationen verwendet
 
 ## Statusmeeting 1 zu User Story 17. Sammeln von Metadaten 
-- Datum: 15.1.2024 15:30 Uhr - 16 Uhr
+- Datum: 15.1.2024 15:30 Uhr - 15:40 Uhr
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Simon Riese
 - Kontext:
+	- -
 - Beispiel:
+	- -
 - Diagnose:
+	- -
 - Aktion:
+	- -
 - Sonstiges:
+	- bisher kein Implementationsfortschritt
 
 ## Statusmeeting 1 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 - Datum: 15.1.2024 16:15 Uhr - 17 Uhr
 - Entwickler\*innen: Simon Riese
 - Code Buddy: Leonhard Steinecke
-- Kontext:
-- Beispiel:
-- Diagnose:
+- Kontext: 
+	- Variablen nicht Konstant gesetzt
+- Beispiel: 
+	- frame_exporter.hpp (und frame_exporter.cpp gleiche Variable) directory
+- Diagnose: 
+	- Schlechtere Performance durch nicht konstante Variablen 
 - Aktion:
+	- const einfügen
 - Sonstiges:
+	- Code durchgesprochen
+	- Dokumentation die schon da ist hat alle Punkte der Checkliste abgehakt
+	- Code außer diesem Fehler gut
+	- Zusammen gleich behoben
 
 ## Statusmeeting 2 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
 - Datum: 20.1.2024 12:30 Uhr - 14 Uhr
@@ -52,10 +79,17 @@ geplante Userstories:
 - Code Buddy: Simon Riese
 - [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
+	- -
 - Beispiel:
+	- -
 - Diagnose:
+	- -
 - Aktion:
+	- -
 - Sonstiges:
+	- Fragmente mit unterschiedlichen Kombinationen der Parameter unterschiedlich stark, allerdings immer noch da
+	- In der Dokumentation des KIT wird beschrieben, dass ein zu großer Datensatz potenziell Probleme macht -> Test mit kleineren Datensätzen durch segmentierte Karte
+		- Übernahme in nächste Iteration
 ---
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 	- User Story wurde in die nächste Iteration übernommen. Änderungen wurden umgesetzt am \<hier Datum einsetzten\>
@@ -66,12 +100,18 @@ geplante Userstories:
 - Code Buddy: Greys Fankyeyeva
 - [x] alle besprochenen Änderungen wurden umgesetzt
 - Kontext:
+	- String als Char-Array
 - Beispiel:
+	- Name der Frames in Chunks
 - Diagnose:
+	- Nicht gut, da bei Unvorsichtigkeit Stack Overflow möglich
 - Aktion:
+	- String als std::string oder std::stringview
 - Sonstiges: 
+	- String direkt zu std::stringview geändert
+	- Alles andere ist korrekt, alle Punkte der Checkliste abgehakt
 ---
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 19.1.2024
 
 ## Statusmeeting 2 zu User Story 17. Sammeln von Metadaten 
 - Datum: Ausgefallen da Leonhard krank wurde
@@ -79,13 +119,19 @@ geplante Userstories:
 - Code Buddy: Simon Riese
 - [x] alle besprochenen Änderungen wurden umgesetzt
 - Kontext:
+	- -
 - Beispiel:
+	- -
 - Diagnose:
+	- -
 - Aktion:
+	- -
 - Sonstiges: 
-	- Leonhards implementation war fertig bevor er krank wurde und Simon hat die Lesbarkeitsänderungen für ihn übernommen, welche von Alicia Gleichmann überprüft und im Statusmeeting zu User Story 18 kurz angesprochen wurden
+	- Leonhards implementation war fertig bevor er krank wurde und deshalb ist dieses Meeting ausgefallen.
+	- Da keine Fehler im Code oder der Implementation waren die die Lesbarkeit beeinträchtigen musste auch nichts korrigiert werden
+	- Notiert am 19.1.2024 23 Uhr
 ---
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ## Statusmeeting 2 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 - Datum: 19.1.2024 16 Uhr - 16:45 Uhr
@@ -93,10 +139,17 @@ geplante Userstories:
 - Code Buddy: Ersatz durch Alicia Gleichmann
 - [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
+	- -
 - Beispiel:
+	- -
 - Diagnose:
+	- -
 - Aktion:
+	- -
 - Sonstiges:
+	- Da ich nicht so tief in das Thema eingearbeitet war wie Leonhard etwas längere Besprechung des Codes
+	- Keine Fehler in der Dokumentation
+	- Da Implementation noch nicht vollständig, Übernahme in die nächste Iteration
 ---
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
-	- User Story wurde in die nächste Iteration übernommen. Änderungen wurden umgesetzt am \<hier Datum einsetzten\>
+	- User Story wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt. 

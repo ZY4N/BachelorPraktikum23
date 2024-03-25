@@ -60,6 +60,7 @@
 ### Style Guidelines
 - [ ] Alle Identifiers außer Template Parameter, sind in snake_case geschrieben
 - [ ] Alle Template Parameter sind in PascalCase geschrieben
+- [ ] Alle Identifiers sind passend gewählt
 - [ ] Es wurde `#pragma once` anstatt explizit eingebundenen Guards verwendet
 - [ ] In den includes wurde `<>` für Standard Bibliothek und `""` für den Rest verwendet 
 - [ ] `using namespace` wurde nur in kleinen Namespaces, über die die volle Kontrolle bestand, verwendet
@@ -68,3 +69,20 @@
 ### Code Formatter und Linter
 - [ ] Code Formatter ist am Code angewendet worden
 - [ ] Linter ist am Code angewendet worden
+
+
+
+
+
+Iteration 6
+- Lesen und schreiben von Metadaten 18
+- Ausarbeitung semi-dynamische Objekte 19
+- CLI 20, 21, 22
+
+Iteration 7
+- PCL Converter 23
+- Parallelisieren 24
+- mehr LiDAR Sensoren 25
+- mehr Meta-Daten 26
+- Testdatensätze 27
+- CLI 28, 29, 30

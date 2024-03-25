@@ -1,5 +1,6 @@
 # Statusmeeting Protokolle
 
+#TODO: geplante Userstories löschen, Rechtschreibung prüfen
 geplante Userstories:
 31. Wiki-Einträge zur Installation und Nutzung
 32. Wiki-Einträge zur internen Funktionsweise des Programms
@@ -18,7 +19,7 @@ geplante Userstories:
 	- README, Parameter
 	- Link des Parameters chunk-size hat nicht zum Absatz in dem chunk-size erklärt wurde geführt
 - Diagnose:
-	- 
+	- -
 	- Unübersichtlicher und verwirrend wenn nur ein Link nicht funktioniert
 - Aktion: 
 	- Rechtschreibfehler korrigieren
@@ -34,11 +35,16 @@ geplante Userstories:
 - Code Buddy: Severin Pelikan
 - Kontext:
 	- lange, verschachtelte Sätze
+	- Rechtschreibfehler
 - Beispiel:
-	- 
+	- Funktionsweise
+	- Funktionsweise, Module, 
 - Diagnose:
+	- schlechter Lesbar
 - Aktion:
+	- Satz in mehrere Sätze Umformulieren
 - Sonstiges:
+	- Rest der Textes sind gut 
 ---
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 
@@ -46,35 +52,61 @@ geplante Userstories:
 - Datum: 8.3.2024 15 Uhr - 15:30 Uhr
 - Entwickler\*innen: Simon Riese, Alicia Gleichmann
 - Code Buddy: Greys Fankyeyeva
-- Kontext:
+- Kontext: 
+	- Rechtschreibfehler
 - Beispiel:
+	- -
 - Diagnose:
+	- -
 - Aktion:
+	- noch mal durchgehen
 - Sonstiges:
+	- zusammen durchgegangen und korrigiert
 ---
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 8.3.2024
 
 ## Statusmeeting zu User Story 34. Wiki-Einträge zu der Entfernung dynamischer und semi-dynamischer Objekte
 - Datum: 7.3.2024 16 Uhr - 16:30 Uhr
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Leonhard Steinecke
-- Kontext:
+- Kontext: 
+	- Übersichtsseite
+	- Rechtschreibfehler
 - Beispiel:
-- Diagnose:
+	- Refraimer und People Remover verlinkt über eine Dynamic Objekt Removal Seite
+	- -
+- Diagnose: 
+	- Übersichtlicher das Refraimer und People Remover zu Dynamic Object Removal gehören
+	- -
 - Aktion:
+	- Extra Seite Erstellen nur mit Links dazu
+	- noch mal durchgehen
 - Sonstiges:
+	- Die Einzelnen Seiten sehen gut aus
+	- Rechtschreibfehler zusammen korrigiert
 ---
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 8.3.2024
 
 ## Statusmeeting zu User Story 35. Wiki-Einträge für Code- und Stilrichtlinien
 - Datum: 8.3.2024 12:30 Uhr - 13 Uhr
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Simon Riese
 - Kontext:
+	- Rechtschreibfehler
+	- Noch ein Code Beispiel 
 - Beispiel:
+	- Compilation, Style Guidelines, Documentation
+	- Style Guidelines over-indented function block
 - Diagnose:
+	- -
+	- verständlicher was genau gemeint
 - Aktion:
+	- Noch mal drüber gehen
+	- Beispiel erstellen
 - Sonstiges:
+	- Rechtschreibfehler wurden hier korrigiert
+	- Beispiel macht Severin später
+	- Sonst alles gut
 ---
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 9.3.2024
 
