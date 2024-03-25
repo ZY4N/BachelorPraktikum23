@@ -29,6 +29,10 @@ geplante Userstories:
 	- Dokumentation bei schon implementierten Teilen großteils fertig und korrekt
 	- Noch fertig dokumentieren, aber da erst Zwischenstand ok
 
+hier Checkliste einfügen
+
+---
+
 ## Statusmeeting 1 zu User Story 9. Integration von Removert in Scan Combiner
 - Datum: 29.12.2023 10:00 Uhr - 10:45 Uhr
 - Entwickler\*innen: Simon Riese
@@ -44,6 +48,10 @@ geplante Userstories:
 - Sonstiges:
 	- Umsetzung bis jetzt sehr ähnlich zu User Story 4 -> keine Fehler
 	- Frage zu Kitti Format noch mal nachgeschaut bei KIT wegen Transformationsspeicherung in einem extra Ordner
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 1 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
 - Datum: 29.12.2023 15:00 Uhr - 15:15 Uhr
@@ -61,6 +69,10 @@ geplante Userstories:
 	- Removert wurde heruntergeladen
 	- Angefangen den externe Testdatensatz auszuprobieren, scheint bisher gut
 
+hier Checkliste einfügen
+
+---
+
 ## Statusmeeting 1 zu User Story 11. Docker integration für Zielsystem 
 - Datum: 29.12.2023 12:30 Uhr - 13:00 Uhr
 - Entwickler\*innen: Leonhard Steinecke
@@ -77,6 +89,10 @@ geplante Userstories:
 	- kein C++ Code, deshalb mussten die spezifischen C++ Code Abschnitte in der Checkliste Überspungen werden (gilt auch für zweites Statusmeeting)
 	- Sieht bis jetzt gut aus 
 	- Dokumentation ist bisher nur Stichpunktartig aber scheint korrekt
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 1 zu User Story 12. Dynamisches Anpassen des Ausgabeformats über CLI, 13. Dynamisches Anpassen der Loggerkonfiguration über CLI, 14. Anpassung der Arbeitsspeicherauslastung über CLI und 15. Dynamisches Anpassen der maximalen radialen und peripheren Distanzen über CLI
 - Datum: 28.12.2023 12:30 Uhr - 13:30 Uhr
@@ -99,6 +115,10 @@ geplante Userstories:
 		- --time-per-block
 		- --max-radial-dist und --max-peripheral-dist
 
+hier Checkliste einfügen
+
+---
+
 ## Statusmeeting 2 zu User Story 8. Entfernen von Nick- und Schwankbewegungen aus Scans
 - Datum: 06.01.2024 12:30 Uhr - 13:00 Uhr
 - Entwickler\*innen: Severin Pelikan
@@ -115,9 +135,13 @@ geplante Userstories:
 - Sonstiges:
 	- Tests gehen nicht durch
 	- Herausgefunden die benötigten Daten des IMU-Sensors sind Fehlerhaft, deshalb User Storie verworfen
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 	- kein Abschluss der User Story und keine Änderungen, da die User Story nicht übernommen wird.
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 2 zu User Story 9. Integration von Removert in Scan Combiner
 - Datum: 06.01.2024 10:00 Uhr - 10:30 Uhr
@@ -135,8 +159,12 @@ geplante Userstories:
 - Sonstiges:
 	- Code zusammen durchgegangen
 	- Keine Probleme in der Dokumentation und auch keine verbotenen Operationen verwendet
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 2 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
 - Datum: 07.01.2024 12:30 Uhr - 14:00 Uhr
@@ -156,9 +184,13 @@ geplante Userstories:
 	- Braucht ziemlich lange zum durchlaufen
 	- Nach dem durchlauf sind noch semi-dynamische Objekte zu erkennen (Bahn)
 		- Übernahme in nächste Iteration
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 	- User Story wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt. 
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 2 zu User Story 11. Docker integration für Zielsystem 
 - Datum: 06.01.2024 14:00 Uhr - 14:30 Uhr
@@ -175,8 +207,12 @@ geplante Userstories:
 	- -
 - Sonstiges:
 	- Docker Container läuft und die Dokumentation ist auch korrekt
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 2 zu User Story 12. Dynamisches Anpassen des Ausgabeformats über CLI, 13. Dynamisches Anpassen der Loggerkonfiguration über CLI, 14. Anpassung der Arbeitsspeicherauslastung über CLI und 15. Dynamisches Anpassen der maximalen radialen und peripheren Distanzen über CLI
 - Datum: 06.01.2024 15:00 Uhr - 17:30 Uhr
@@ -196,5 +232,8 @@ geplante Userstories:
 		- Tests gingen nicht durch
 		- Zusammen fertig implementiert
 	- Die anderen User Stories sind Lesbar Implementiert und Dokumentiert
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 06.01.2024
+
+hier Checkliste einfügen
+

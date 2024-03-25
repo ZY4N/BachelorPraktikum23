@@ -26,8 +26,12 @@ geplante Userstories:
 	- überprüfen warum der Link nicht dahin führt wohin er soll
 - Sonstiges:
 	- Rechtschreibfehler im README und im Wiki-Eintrag zu Parametern direkt gefixt
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 09.03.2024
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting zu User Story 32. Wiki-Einträge zur internen Funktionsweise des Programms
 - Datum: 07.03.2024 15:30 - 16:30 Uhr
@@ -45,8 +49,12 @@ geplante Userstories:
 	- Satz in mehrere Sätze Umformulieren
 - Sonstiges:
 	- Rest der Textes sind gut 
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 07.03.2024
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting zu User Story 33. Wiki-Einträge zu den Erweiterungsschnittstellen des Programms
 - Datum: 08.03.2024 15:00 Uhr - 15:30 Uhr
@@ -62,8 +70,12 @@ geplante Userstories:
 	- noch mal durchgehen
 - Sonstiges:
 	- zusammen durchgegangen und korrigiert
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 08.03.2024
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting zu User Story 34. Wiki-Einträge zu der Entfernung dynamischer und semi-dynamischer Objekte
 - Datum: 7.3.2024 16:00 Uhr - 16:30 Uhr
@@ -84,8 +96,12 @@ geplante Userstories:
 - Sonstiges:
 	- Die Einzelnen Seiten sehen gut aus
 	- Rechtschreibfehler zusammen korrigiert
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 08.03.2024
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting zu User Story 35. Wiki-Einträge für Code- und Stilrichtlinien
 - Datum: 08.03.2024 12:30 Uhr - 13:00 Uhr
@@ -107,6 +123,9 @@ geplante Userstories:
 	- Rechtschreibfehler wurden hier korrigiert
 	- Beispiel macht Severin später
 	- Sonst alles gut
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 09.03.2024
+
+hier Checkliste einfügen
+
 

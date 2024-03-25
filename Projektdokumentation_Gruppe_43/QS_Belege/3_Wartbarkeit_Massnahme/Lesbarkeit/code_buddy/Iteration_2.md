@@ -26,6 +26,10 @@ geplante Userstories:
 	- die aktuelle Version von Eigen runter geladen
 	- Einige Fragen zu C++ geklärt (warum es wichtig ist Werror nicht zu deaktivieren)
 
+hier Checkliste einfügen
+
+---
+
 ## Statusmeeting 1 zu User Story 1. Distanzfilterung von Punktdaten 
 - Datum: 20.11.2023 15:30 Uhr - 16:30 Uhr
 - Entwickler\*innen: Greys Fankyeyeva
@@ -43,8 +47,12 @@ geplante Userstories:
 	- Tests gehen durch
 	- Variablen direkt Konstant gesetzt
 	- Kein weiteres Statusmeeting notwendig
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 20.11.2023
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 1 zu User Story 2. Geschwindigkeits-Entzerrung und 3. Integration von dynamischem Logging-System
 - Datum: 21.11.2023 14:00 Uhr - 15:30 Uhr
@@ -68,6 +76,10 @@ geplante Userstories:
 	- Geklärt ob Informationen zur Anzahl der Transformationsmatrizen vom Logger ausgegeben werden sollten, sind zum Schluss gekommen ja
 	- Grammatikfehler Korrektur und Leerzeile direkt eingefügt
 
+hier Checkliste einfügen
+
+---
+
 ## Statusmeeting 1 zu User Story 4. Integration von 3DTK People Remover in Scan Combiner 
 - Datum: 20.11.2023 18:00 Uhr - 19:15 Uhr
 - Entwickler\*innen: Greys Fankyeyeva, Simon Riese
@@ -84,6 +96,10 @@ geplante Userstories:
 	- Code wurde durchgegangen
 	- Leerzeile wurde direkt eingefügt
 	- Simon ist großteils fertig, Greys ist für Tests zuständig und hat deshalb noch nicht begonnen
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 1 zu User Story 5. Entfernung dynamischer Objekte mittels 3DTK People Remover
 - Datum: 21.11.2023 13:30 Uhr - 14:30 Uhr
@@ -102,6 +118,10 @@ geplante Userstories:
 	- Programm scheint richtig Heruntergeladen und auf Gerät eingerichtet
 	- User Story 4 noch nicht fertig, deshalb noch keine Tests möglich
 
+hier Checkliste einfügen
+
+---
+
 ## Statusmeeting 2 zu User Story 0. Einlese-Option für Rosbag-Dateien
 - Datum: 26.11.2023 15:00 Uhr - 18:30 Uhr
 - Entwickler\*innen:  Leonhard Steinecke
@@ -119,9 +139,13 @@ geplante Userstories:
 	- Tests laufen nicht durch
 	- Code durchgeschaut um potetielle Ursachen für die nicht durchlaufenden Tests zu finden
 	- User Story kann nicht abgenommen werden durch die fehlschlagenden Tests und wird mit in die nächste Iteration übernommen.
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 	- User Story wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt.
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 2 zu User Story 2. Geschwindigkeits-Entzerrung und 3. Integration von dynamischem Logging-System
 - Datum: 26.11.2024 12:30 Uhr - 14:30 Uhr
@@ -146,10 +170,14 @@ geplante Userstories:
 		- Typ direkt geändert
 		- Keine Probleme im Code
 		- Tests laufen durch
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 	- User Story 2: 26.11.2023
 	- User Story 3 wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt. 
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 2 zu User Story 4. Integration von 3DTK People Remover in Scan Combiner 
 - Datum: 25.11.2024 12:30 Uhr - 13:00 Uhr
@@ -168,8 +196,12 @@ geplante Userstories:
 	- Tests gehen durch
 	- Fertigen Code durchgegangen
 	- Sieht alles gut aus
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 2 zu User Story 5. Entfernung dynamischer Objekte mittels 3DTK People Remover
 - Datum: 27.11.2023 15:30 Uhr - 18:00 Uhr
@@ -189,6 +221,8 @@ geplante Userstories:
 	- Programm stürzt entweder ab oder erzeugt ungültige Outputs mit unseren Daten
 	- Verschiedene Kombinationen der Variablen noch mal jetzt ausprobiert, selbes Ergebnis
 	- Wird verworfen, da keine brauchbaren Resultate
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 	- kein Abschluss der User Story und keine Änderungen, da die User Story nicht übernommen wird.
+
+hier Checkliste einfügen

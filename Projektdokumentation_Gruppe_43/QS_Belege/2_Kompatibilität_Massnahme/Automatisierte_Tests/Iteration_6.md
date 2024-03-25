@@ -7,14 +7,14 @@
 ---
 
 ## Lesen und Schreiben von Metadaten im JSON-Format (ID: 18)
-#### Push am:
+#### Push am 27.01.2024 um 11:16 Uhr
 #TODO Screenshot Übersicht der Pipeline Stufen
 #TODO Falls so weit gekommen: Screenshot der durchgeführten Tests
 - Integrierte User Stories: (?)
 - Gepusht von: Simon Riese
 - Ergebnis: Fehler beim Kompilieren
 - Konsequenzen: Die Version der, für den JSON Export benutzte, Bibliothek ist nicht mit der Compilerversion der Zielhardware kompatibel. Eine ältere Version musste verwendet werden.
-#### Push am:
+#### Push am 03.02.2024 um 23:49 Uhr
 #TODO Screenshot Übersicht der Pipeline Stufen
 #TODO Falls so weit gekommen: Screenshot der durchgeführten Tests
 - Integrierte User Stories: (?)
@@ -30,7 +30,7 @@
 ---
 
 ## Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI (ID: 20)
-#### Push am:
+#### Push am 03.02.2024 um 13:56 Uhr 
 #TODO Screenshot Übersicht der Pipeline Stufen
 #TODO Falls so weit gekommen: Screenshot der durchgeführten Tests
 - Integrierte User Stories: (?)
@@ -41,7 +41,7 @@
 ---
 
 ## Dynamisches Anpassen der Zellengröße über CLI (ID: 21)
-#### Push am:
+#### Push am 31.1.2024 um 19:22 Uhr
 #TODO Screenshot Übersicht der Pipeline Stufen
 #TODO Falls so weit gekommen: Screenshot der durchgeführten Tests
 - Integrierte User Stories: (?)
@@ -52,14 +52,14 @@
 ---
 
 ## 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI (ID: 22)
-#### Push am:
+#### Push am 26.01.2024 um 22:28 Uhr
 #TODO Screenshot Übersicht der Pipeline Stufen
 #TODO Falls so weit gekommen: Screenshot der durchgeführten Tests
 - Integrierte User Stories: (?)
 - Gepusht von: Alicia Gleichmann
 - Ergebnis: Fehler beim Kompilieren
 - Konsequenzen: Implementation noch nicht vollständig. Entwicklung muss fortgesetzt werden.
-#### Push am:
+#### Push am 27.01.2024 um 21:34 Uhr
 #TODO Screenshot Übersicht der Pipeline Stufen
 #TODO Falls so weit gekommen: Screenshot der durchgeführten Tests
 - Integrierte User Stories: (?)

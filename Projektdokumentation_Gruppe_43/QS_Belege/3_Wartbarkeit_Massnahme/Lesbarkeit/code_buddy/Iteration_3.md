@@ -25,6 +25,10 @@ geplante Userstories:
 	- Rest des Codes hat sich nicht mehr verändert
 	- Dementsprechend keine Weiteren Statusmeetings von Nöten
 
+hier Checkliste einfügen
+
+---
+
 ## Statusmeeting 1 zu User Story 3. Integration von dynamischem Logging-System und 6. Verringerung von Aufnahmetransformationen
 - Datum: 08.12.2023 16:00 Uhr - 18:15 Uhr
 - Entwickler\*innen: Severin Pelikan
@@ -48,6 +52,10 @@ geplante Userstories:
 		- Implementation fast fertig, Doku und Tests fehlen noch
 		- Vorhandene Dokumentation scheint Richtig, ist aber auch teils noch mehr Stichpunktartig als Fließtext
 
+hier Checkliste einfügen
+
+---
+
 ## Statusmeeting 1 zu User Story 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
 - Datum: 09.12.2023 12:30 Uhr - 13:15 Uhr
 - Entwickler\*innen: Alicia Gleichmann, Severin Pelikan
@@ -65,6 +73,10 @@ geplante Userstories:
 	- Was an Dokumentation schon da ist sieht gut aus
 	- Kompiliert bei Severin, aber nicht bei Alicia
 		- Herausfinden warum
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 2 zu User Story 6. Verringerung von Aufnahmetransformationen
 - Datum: 15.12.2023 16:00 Uhr - 16:30 Uhr
@@ -84,8 +96,12 @@ geplante Userstories:
 	- Tests laufen durch
 	- Grob Änderungen noch mal besprochen
 	- alle Punkte der Checkliste konnten abgehakt werden
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 2 zu User Story 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
 - Datum: 16.12.2023 12:30 Uhr - 13:30 Uhr
@@ -104,5 +120,7 @@ geplante Userstories:
 	- Hatte nicht kompiliert weil Alicia gcc 10 und nicht 11 nutzt, deshalb andere Implementation von Span was zu Problemen geführt hat
 		- Höchst mögliche Version in Ubuntu 20, deshalb Code angepasst 
 	- Input über Positional Arguments angeben im Meeting umgesetzt
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 16.12.2023
+
+hier Checkliste einfügen

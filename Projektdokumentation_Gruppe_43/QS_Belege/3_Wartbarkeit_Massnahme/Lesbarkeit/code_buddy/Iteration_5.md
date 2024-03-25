@@ -23,6 +23,10 @@ geplante Userstories:
 	- Fragmente sind immer noch da, allerdings weniger
 	- Verschiedene Kombinationen der Parameter bereits ausprobiert
 
+hier Checkliste einfügen
+
+---
+
 ## Statusmeeting 1 zu User Story 16. Export zu segmentierten Karten Format 
 - Datum: 15.01.2024 15:30 Uhr - 16:15 Uhr
 - Entwickler\*innen: Severin Pelikan, Alicia Gleichmann
@@ -40,6 +44,10 @@ geplante Userstories:
 	- Fehlt Buckts zu Output
 	- Keine Probleme in der Dokumentation und auch keine verbotenen Operationen verwendet
 
+hier Checkliste einfügen
+
+---
+
 ## Statusmeeting 1 zu User Story 17. Sammeln von Metadaten 
 - Datum: 15.01.2024 15:30 Uhr - 15:40 Uhr
 - Entwickler\*innen: Leonhard Steinecke
@@ -54,6 +62,10 @@ geplante Userstories:
 	- -
 - Sonstiges:
 	- bisher kein Implementationsfortschritt
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 1 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 - Datum: 15.01.2024 16:15 Uhr - 17:00 Uhr
@@ -73,6 +85,10 @@ geplante Userstories:
 	- Code außer diesem Fehler gut
 	- Zusammen gleich behoben
 
+hier Checkliste einfügen
+
+---
+
 ## Statusmeeting 2 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
 - Datum: 20.01.2024 12:30 Uhr - 14:00 Uhr
 - Entwickler\*innen: Severin Pelikan, Greys Fankyeyeva
@@ -90,9 +106,13 @@ geplante Userstories:
 	- Fragmente mit unterschiedlichen Kombinationen der Parameter unterschiedlich stark, allerdings immer noch da
 	- In der Dokumentation des KIT wird beschrieben, dass ein zu großer Datensatz potenziell Probleme macht -> Test mit kleineren Datensätzen durch segmentierte Karte
 		- Übernahme in nächste Iteration
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 	- User Story wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt.
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 2 zu User Story 16. Export zu segmentierten Karten Format 
 - Datum: 19.01.2024 14:00 Uhr - 15:00 Uhr
@@ -110,8 +130,12 @@ geplante Userstories:
 - Sonstiges: 
 	- String direkt zu std::stringview geändert
 	- Alles andere ist korrekt, alle Punkte der Checkliste abgehakt
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 19.1.2024
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 2 zu User Story 17. Sammeln von Metadaten 
 - Datum: 19.01.2024 18:00 Uhr - 18:30 Uhr
@@ -127,10 +151,14 @@ geplante Userstories:
 - Aktion:
 	- -
 - Sonstiges: 
-	- Da keine Fehler im Code oder der Dokumentation waren die die Lesbarkeit beeinträchtigen musste auch nichts korrigiert werden
-	- Notiert am 19.1.2024 23 Uhr
----
+	- Keine Fehler im Code oder der Dokumentation die die Lesbarkeit beeinträchtigen
+	- Tests gehen durch
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 2 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 - Datum: 19.01.2024 16:00 Uhr - 16:30 Uhr
@@ -148,6 +176,9 @@ geplante Userstories:
 - Sonstiges:
 	- Keine Fehler in der Dokumentation
 	- Da Implementation noch nicht vollständig, Übernahme in die nächste Iteration
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 	- User Story wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt. 
+
+hier Checkliste einfügen
+

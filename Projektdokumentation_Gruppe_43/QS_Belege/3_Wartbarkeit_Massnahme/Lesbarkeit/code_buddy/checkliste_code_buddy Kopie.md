@@ -72,13 +72,3 @@
 
 
 
-
-
-Iteration 6
-- Lesen und schreiben von Metadaten 18 2P
-
-Iteration 7
-- PCL Converter 23 2P
-- Parallelisieren 24 2P
-- mehr LiDAR Sensoren 25 2P
-- mehr Meta-Daten 26 2P

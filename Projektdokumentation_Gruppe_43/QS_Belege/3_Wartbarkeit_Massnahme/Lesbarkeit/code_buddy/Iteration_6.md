@@ -26,9 +26,13 @@ geplante Userstories:
 	- Unterschiedliche Gewichtungen der Parameter getestet, keine anderen Ergebnisse
 	- Demonstration der Fragmente
 	- kein weiteres Statusmeeting notwendig
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 	- kein Abschluss der User Story und keine Änderungen, da die User Story nicht übernommen wird.
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 1 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 - Datum: 27.01.2024 15:00 Uhr - 15:30 Uhr
@@ -45,6 +49,10 @@ geplante Userstories:
 - Sonstiges:
 	- Der Rest ist bisher gut 
 	- && im Meeting ersetzt
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 1 zu User Story 19. Ausarbeitung von Grundkonzepten zur Enfernung semi-dynamischer Objekte 
 - Datum: 28.01.2024 12:30 Uhr - 13:15 Uhr
@@ -64,6 +72,10 @@ geplante Userstories:
 	- Alle Möglichkeiten kurz durchgesprochen
 	- Dokumentation sieht gut aus
 
+hier Checkliste einfügen
+
+---
+
 ## Statusmeeting 1 zu User Story 20. Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI, 21. Dynamisches Anpassen der Zellengröße über CLI und 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI
 - Datum: 27.01.2024 15:00 Uhr - 15:30 Uhr
 - Entwickler\*innen: Alicia Gleichmann
@@ -79,6 +91,10 @@ geplante Userstories:
 - Sonstiges:
 	- US 22 ist abgesehen von dem Rechtschreibfehler Lesbar und abgeschlossen
 	- US 20 und 21 sind noch nicht angefangen
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 2 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 - Datum: 04.02.2024 15:00 Uhr - 15:30 Uhr
@@ -97,8 +113,12 @@ geplante Userstories:
 	- Alles Lesbar
 	- Code durchgesprochen
 	- keine weiteren Anmerkungen
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 2 zu User Story 19. Ausarbeitung von Grundkonzepten zur Enfernung semi-dynamischer Objekte 
 - Datum:04.02.2024 12:30 Uhr - 13:00 Uhr
@@ -116,8 +136,12 @@ geplante Userstories:
 - Sonstiges: 
 	- Dokumentation ist gut Strukturiert und Fehlerfrei
 	- Umfang der Umsetzung aller Alternativen ist sehr hoch 
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
+
+hier Checkliste einfügen
+
+---
 
 ## Statusmeeting 2 zu User Story 20. Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI, 21. Dynamisches Anpassen der Zellengröße über CLI und 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI
 - Datum: 04.02.2024 15:00 Uhr - 15:30 Uhr
@@ -135,5 +159,5 @@ geplante Userstories:
 - Sonstiges: 
 	- Rechtschreibfehler aus US 22 wurde behoben und US 20 und 21 hatten keine Fehler
 	- Code noch mal ganz kurz durchgesprochen
----
+
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
