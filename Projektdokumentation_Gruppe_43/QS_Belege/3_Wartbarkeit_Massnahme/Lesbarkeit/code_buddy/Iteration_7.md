@@ -257,7 +257,7 @@ hier Checkliste einfügen
 ---
 
 ## Statusmeeting 2 zu User Story 30. Hinzufügen eines "Help"-Kommandos
-- Datum: 11.02.2024 15:00 Uhr - 15:45 Uhr
+- Datum: 18.02.2024 15:00 Uhr - 15:45 Uhr
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Severin Pelikan
 - [x] alle besprochenen Änderungen wurden umgesetzt
@@ -275,4 +275,4 @@ hier Checkliste einfügen
 	- Direkt umgesetzt
 	- Restliche Dokumentation und Implementation sind Lesbar
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 11.02.2024
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 18.02.2024
