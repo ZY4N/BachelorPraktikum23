@@ -35,13 +35,19 @@ geplante Userstories:
 - Entwickler\*innen: Simon Riese
 - Code Buddy: Leonhard Steinecke
 - Kontext:
+	- && statt and 
 - Beispiel:
+	- metadata_jason.hpp
 - Diagnose:
+	- schlechter verständlich
 - Aktion:
+	- && austauschen zu and
 - Sonstiges:
+	- Der Rest ist bisher gut 
+	- && im Meeting ersetzt
 
 ## Statusmeeting 1 zu User Story 19. Ausarbeitung von Grundkonzepten zur Enfernung semi-dynamischer Objekte 
-- Datum: 28.01.2024 12:30 Uhr - 12:45 Uhr
+- Datum: 28.01.2024 12:30 Uhr - 13:15 Uhr
 - Entwickler\*innen: Simon Riese, Leonhard Steinecke
 - Code Buddy: Greys Fankyeyeva 
 - Kontext:
@@ -53,48 +59,65 @@ geplante Userstories:
 - Aktion:
 	- -
 - Sonstiges: 
-	- 
+	- Möglichkeiten scheinen nicht so gut
+		- schwer umsetzbar, Umfang eines eigenen Projekts
+	- Alle Möglichkeiten kurz durchgesprochen
+	- Dokumentation sieht gut aus
 
 ## Statusmeeting 1 zu User Story 20. Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI, 21. Dynamisches Anpassen der Zellengröße über CLI und 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI
 - Datum: 27.01.2024 15:00 Uhr - 15:30 Uhr
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Severin Pelikan
 - Kontext:
-	- -
+	- Rechtschreibfehler
 - Beispiel:
-	- -
+	- trancoding
 - Diagnose:
 	- -
 - Aktion:
-	- -
+	- transcoding ...
 - Sonstiges:
-	- 
+	- US 22 ist abgesehen von dem Rechtschreibfehler Lesbar und abgeschlossen
+	- US 20 und 21 sind noch nicht angefangen
 
 ## Statusmeeting 2 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 - Datum: 04.02.2024 15:00 Uhr - 15:30 Uhr
 - Entwickler\*innen: Simon Riese
 - Code Buddy:  Leonhard Steinecke
 - [x] alle besprochenen Änderungen wurden umgesetzt 
-- Kontext:
+- Kontext
+	-
 - Beispiel:
+	- -
 - Diagnose:
+	- -
 - Aktion:
+	- -
 - Sonstiges:
+	- Alles Lesbar
+	- Code durchgesprochen
+	- keine weiteren Anmerkungen
 ---
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ## Statusmeeting 2 zu User Story 19. Ausarbeitung von Grundkonzepten zur Enfernung semi-dynamischer Objekte 
-- Datum:04.02.2024 12:30 Uhr - 13:15 Uhr
+- Datum:04.02.2024 12:30 Uhr - 13:00 Uhr
 - Entwickler\*innen: Simon Riese, Leonhard Steinecke
 - Code Buddy: Greys Fankyeyeva
 - [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
+	- -
 - Beispiel:
+	- -
 - Diagnose:
+	- -
 - Aktion:
-- Sonstiges: Enthält keinen Code
+	- -
+- Sonstiges: 
+	- Dokumentation ist gut Strukturiert und Fehlerfrei
+	- Umfang der Umsetzung aller Alternativen ist sehr hoch 
 ---
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ## Statusmeeting 2 zu User Story 20. Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI, 21. Dynamisches Anpassen der Zellengröße über CLI und 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI
 - Datum: 04.02.2024 15:00 Uhr - 15:30 Uhr
@@ -102,9 +125,15 @@ geplante Userstories:
 - Code Buddy: Severin Pelikan
 - [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
+	- -
 - Beispiel:
+	- -
 - Diagnose:
+	- -
 - Aktion:
-- Sonstiges:
+	- -
+- Sonstiges: 
+	- Rechtschreibfehler aus US 22 wurde behoben und US 20 und 21 hatten keine Fehler
+	- Code noch mal ganz kurz durchgesprochen
 ---
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
