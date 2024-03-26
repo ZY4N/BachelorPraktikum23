@@ -34,8 +34,8 @@
 
 ## Sammeln von Metadaten (ID: 17)
 #### Push am: 19.01.2024 um 13:57 Uhr
-#TODO Screenshot Übersicht der Pipeline Stufen
-#TODO Falls so weit gekommen: Screenshot der durchgeführten Tests
+![](metadata_p1.png)
+![](metadata_t1.png)
 - Gepusht von: Leonhard Steinecke
 - Ergebnis: Erfolgreich
 - Konsequenzen: QS-Maßnahme gilt als bestanden
@@ -45,15 +45,11 @@
 ## Lesen und Schreiben von Metadaten im JSON-Format  (ID: 18)
 #### Push am: 14.01.2024 um 22:32 Uhr
 ![](json_p1.png)
-#TODO Screenshot Übersicht der Pipeline Stufen
-#TODO Falls so weit gekommen: Screenshot der durchgeführten Tests
 - Gepusht von: Simon Riese
 - Ergebnis: Fehler beim Kompilieren
 - Konsequenzen: Implementation noch nicht vollständig. Entwicklung muss fortgesetzt werden.
 #### Push am: 19.01.2024 um 14:37 Uhr
 ![](json_p2.png)
-#TODO Screenshot Übersicht der Pipeline Stufen
-#TODO Falls so weit gekommen: Screenshot der durchgeführten Tests
 - Gepusht von: Simon Riese
 - Ergebnis: Fehler beim Kompilieren
 - Konsequenzen: Implementation noch nicht vollständig. Unser Story wird in nächste Iteration übernommen.
