@@ -1,14 +1,80 @@
-# Statusmeeting Protokolle
+# Statusmeeting Protokolle Iteration 3
+---
 
-#TODO: geplante Userstories löschen, Rechtschreibung prüfen
-geplante Userstories:
-0. Einlese-Option für Rosbag-Dateien x 1 Push
-3. Integration von dynamischem Logging-System x 1 Push
-6. Verringerung von Aufnahmetransformationen 2 Push
-7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI x 4 Push
+## Checkliste 1 zu User Storie 0. Einlese-Option für Rosbag-Dateien
+### C API
+- [x] Keine manuelle Heapallokation benutzt
+- [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
+- [x] Keine Strings als null-terminierende char Pointer umgesetzt
+- [x] Casting nur durch Casting Operationen durchgeführt
+- [x] Keine Funktionen von cstdlib, sondern von STL Funktionen verwendet
+- [x] Keine raw Pointer, sondern Referenzen benutzen
+- [x] Logische Operatoren nur in der ausgeschriebenen Bezeichnung benutzt
+- [x] Keine Macros, sondern Templates und andere moderne Compile-time Konstruktionen verwendet
+
+### Kompilieren
+- [x] nur CMake 3.16 verwendet
+- [x] kein Undefined Behavior vorhanden
+- [x] Alle Warnungen werden als Error behandelt
+- [x] Build -0fast ist aktiviert und funktioniert
+
+### Dokumentation
+- ##### Kommentare in Funktionen sind: 
+	- [x] in englischer Spreche 
+	- [x] als ganze Sätze umgesetzt
+	- [x] mit korrekter Grammatik und Rechtschreibung geschrieben
+	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
+- ##### Dokumentationen von Funktionen 
+	- [x] sind in englischer Sprache
+	- [x] sind als ganze Sätze umgesetzt
+	- [x] sind mit korrekter Grammatik und Rechtschreibung geschrieben
+	- [x] Kurze und präzise Beschreibung der Funktionalität nach `@brief` 
+	- [x] \[optional] Detailliertere Beschreibung, in der die Funktionsschritte durchgegangen und wichtige Implementationsdetails erklärt werden
+	- [x] \[optional] Folge von Extrainformationen, wie die Funktion benutzt werden sollte nach `@note` 
+	- [x] Folge der Parameter, in denen in einem kurzem Satz die Bedeutung des Parameters im Kontext der Funktion erklärt wird nach `@tparam` und `@param` geschrieben
+	- [x] \[falls die Funktion einen Rückgabewert hat] Bedeutung des Rückgabewerts wird im Kontext der Funktion nach `@return` beschrieben 
+	- [x] Die Reihenfolge der Dokumentation ist: `@brief`, \[optional] detailliertere Beschreibung, \[optional] `@note`, `@tparam` und `@param`, \[falls die Funktion einen Rückgabewert hat] `@return`
+	- [x] Alle Blöcke in der Dokumentation sind durch genau eine Leerzeile getrennt
+	- [x] Die Dokumentation ist in einem Kommentarblock (/* ... \*/)
+	- [x] Wenn C++ Typen referenziert werden, wird der Name monospaced nach `@c` geschrieben
+- ##### Dokumentation von Klassen, Strukturen, Enumerations, Namespaces etc.
+	- [x] sind in englischer Sprache
+	- [x] sind als ganze Sätze umgesetzt
+	- [x] sind mit korrekter Grammatik und Rechtschreibung geschrieben
+	- [x] Kurze und präzise Beschreibung der Funktionalität nach `@brief` 
+	- [x] \[optional] Detailliertere Beschreibung, in der die Funktionalitätsschritte durchgegangen und wichtige Implementation Details erklärt werden
+	- [x] \[optional] Folge von Extrainformationen, wie die Funktion benutzt werden sollte nach `@note` 
+	- [x] Die Reihenfolge der Dokumentation ist: `@brief`, \[optional] detailliertere Beschreibung, \[optional] `@note`
+	- [x] Alle Blöcke in der Dokumentation sind durch genau eine Leerzeile getrennt
+	- [x] Die Dokumentation ist in einem Kommentarblock (/* ... \*/)
+	- [x] Wenn C++ Typen referenziert werden, wird der Name monospaced nach `@c` geschrieben
+
+### Modernes C++
+- [x] `auto` benutzt bei Speicherung oder Referenz eines Rückgabewerts
+- [x] `auto` benutzt bei Variablendeklarationen
+- [x] In Schleifen nur Iterationen über Mengen genutzt
+- [x] Wenn existent STL Implementation verwändet
+- [x] Lambda statt benannter Funktion in STL API's verwendet
+- [x] Lambda statt Code Duplikation benutzt
+- [x] Variablen, wenn möglich konstant durch `const` gemacht
+- [x] Ausdrücke, wenn möglich konstant durch `constexpr` gemacht
+
+### Style Guidelines
+- [x] Alle Identifiers außer Template Parameter sind in snake_case geschrieben
+- [x] Alle Template Parameter sind in PascalCase geschrieben
+- [x] Alle Identifiers sind passend gewählt
+- [x] Es wurde `#pragma once` anstatt explizit eingebundenen Guards verwendet
+- [x] In den includes wurde `<>` für Standard Bibliothek und `""` für den Rest verwendet 
+- [x] `using namespace` wurde nur in kleinen Namespaces, über die die volle Kontrolle bestand, verwendet
+- [x] Am Ende jeder Datei ist eine Leerzeile
+
+### Code Formatter und Linter
+- [x] Code Formatter ist korrekt am Code angewendet worden
+- [x] Linter ist korrekt am Code angewendet worden
+
 
 ## Statusmeeting 1 zu User Story 0. Einlese-Option für Rosbag-Dateien
-- Datum: 8.12.2023 15 Uhr - 15:30 Uhr
+- Datum: 07.12.2023 12:30Uhr - 13:00 Uhr
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Severin Pelikan
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -25,30 +91,251 @@ geplante Userstories:
 	- Rest des Codes hat sich nicht mehr verändert
 	- Dementsprechend keine Weiteren Statusmeetings von Nöten
 
+---
+
+## Checkliste 1 zu User Storie 3. Integration von dynamischem Logging-System
+### C API
+- [x] Keine manuelle Heapallokation benutzt
+- [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
+- [x] Keine Strings als null-terminierende char Pointer umgesetzt
+- [x] Casting nur durch Casting Operationen durchgeführt
+- [x] Keine Funktionen von cstdlib, sondern von STL Funktionen verwendet
+- [x] Keine raw Pointer, sondern Referenzen benutzen
+- [x] Logische Operatoren nur in der ausgeschriebenen Bezeichnung benutzt
+- [x] Keine Macros, sondern Templates und andere moderne Compile-time Konstruktionen verwendet
+
+### Kompilieren
+- [x] nur CMake 3.16 verwendet
+- [x] kein Undefined Behavior vorhanden
+- [x] Alle Warnungen werden als Error behandelt
+- [x] Build -0fast ist aktiviert und funktioniert
+
+### Dokumentation
+- ##### Kommentare in Funktionen sind: 
+	- [x] in englischer Spreche 
+	- [x] als ganze Sätze umgesetzt
+	- [x] mit korrekter Grammatik und Rechtschreibung geschrieben
+	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
+- ##### Dokumentationen von Funktionen 
+	- [x] sind in englischer Sprache
+	- [x] sind als ganze Sätze umgesetzt
+	- [x] sind mit korrekter Grammatik und Rechtschreibung geschrieben
+	- [x] Kurze und präzise Beschreibung der Funktionalität nach `@brief` 
+	- [x] \[optional] Detailliertere Beschreibung, in der die Funktionsschritte durchgegangen und wichtige Implementationsdetails erklärt werden
+	- [x] \[optional] Folge von Extrainformationen, wie die Funktion benutzt werden sollte nach `@note` 
+	- [x] Folge der Parameter, in denen in einem kurzem Satz die Bedeutung des Parameters im Kontext der Funktion erklärt wird nach `@tparam` und `@param` geschrieben
+	- [x] \[falls die Funktion einen Rückgabewert hat] Bedeutung des Rückgabewerts wird im Kontext der Funktion nach `@return` beschrieben 
+	- [x] Die Reihenfolge der Dokumentation ist: `@brief`, \[optional] detailliertere Beschreibung, \[optional] `@note`, `@tparam` und `@param`, \[falls die Funktion einen Rückgabewert hat] `@return`
+	- [x] Alle Blöcke in der Dokumentation sind durch genau eine Leerzeile getrennt
+	- [x] Die Dokumentation ist in einem Kommentarblock (/* ... \*/)
+	- [x] Wenn C++ Typen referenziert werden, wird der Name monospaced nach `@c` geschrieben
+- ##### Dokumentation von Klassen, Strukturen, Enumerations, Namespaces etc.
+	- [x] sind in englischer Sprache
+	- [x] sind als ganze Sätze umgesetzt
+	- [x] sind mit korrekter Grammatik und Rechtschreibung geschrieben
+	- [x] Kurze und präzise Beschreibung der Funktionalität nach `@brief` 
+	- [x] \[optional] Detailliertere Beschreibung, in der die Funktionalitätsschritte durchgegangen und wichtige Implementation Details erklärt werden
+	- [x] \[optional] Folge von Extrainformationen, wie die Funktion benutzt werden sollte nach `@note` 
+	- [x] Die Reihenfolge der Dokumentation ist: `@brief`, \[optional] detailliertere Beschreibung, \[optional] `@note`
+	- [x] Alle Blöcke in der Dokumentation sind durch genau eine Leerzeile getrennt
+	- [x] Die Dokumentation ist in einem Kommentarblock (/* ... \*/)
+	- [x] Wenn C++ Typen referenziert werden, wird der Name monospaced nach `@c` geschrieben
+
+### Modernes C++
+- [x] `auto` benutzt bei Speicherung oder Referenz eines Rückgabewerts
+- [x] `auto` benutzt bei Variablendeklarationen
+- [x] In Schleifen nur Iterationen über Mengen genutzt
+- [x] Wenn existent STL Implementation verwändet
+- [x] Lambda statt benannter Funktion in STL API's verwendet
+- [x] Lambda statt Code Duplikation benutzt
+- [x] Variablen, wenn möglich konstant durch `const` gemacht
+- [x] Ausdrücke, wenn möglich konstant durch `constexpr` gemacht
+
+### Style Guidelines
+- [x] Alle Identifiers außer Template Parameter sind in snake_case geschrieben
+- [x] Alle Template Parameter sind in PascalCase geschrieben
+- [x] Alle Identifiers sind passend gewählt
+- [x] Es wurde `#pragma once` anstatt explizit eingebundenen Guards verwendet
+- [x] In den includes wurde `<>` für Standard Bibliothek und `""` für den Rest verwendet 
+- [x] `using namespace` wurde nur in kleinen Namespaces, über die die volle Kontrolle bestand, verwendet
+- [x] Am Ende jeder Datei ist eine Leerzeile
+
+### Code Formatter und Linter
+- [x] Code Formatter ist korrekt am Code angewendet worden
+- [x] Linter ist korrekt am Code angewendet worden
+
+## Checkliste 1 zu User Storie 6. Verringerung von Aufnahmetransformationen
+### C API
+- [x] Keine manuelle Heapallokation benutzt
+- [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
+- [x] Keine Strings als null-terminierende char Pointer umgesetzt
+- [x] Casting nur durch Casting Operationen durchgeführt
+- [x] Keine Funktionen von cstdlib, sondern von STL Funktionen verwendet
+- [x] Keine raw Pointer, sondern Referenzen benutzen
+- [x] Logische Operatoren nur in der ausgeschriebenen Bezeichnung benutzt
+- [x] Keine Macros, sondern Templates und andere moderne Compile-time Konstruktionen verwendet
+
+### Kompilieren
+- [x] nur CMake 3.16 verwendet
+- [x] kein Undefined Behavior vorhanden
+- [x] Alle Warnungen werden als Error behandelt
+- [x] Build -0fast ist aktiviert und funktioniert
+
+### Dokumentation
+- ##### Kommentare in Funktionen sind: 
+	- [x] in englischer Spreche 
+	- [ ] als ganze Sätze umgesetzt
+	- [ ] mit korrekter Grammatik und Rechtschreibung geschrieben
+	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
+- ##### Dokumentationen von Funktionen 
+	- [x] sind in englischer Sprache
+	- [ ] sind als ganze Sätze umgesetzt
+	- [ ] sind mit korrekter Grammatik und Rechtschreibung geschrieben
+	- [ ] Kurze und präzise Beschreibung der Funktionalität nach `@brief` 
+	- [ ] \[optional] Detailliertere Beschreibung, in der die Funktionsschritte durchgegangen und wichtige Implementationsdetails erklärt werden
+	- [ ] \[optional] Folge von Extrainformationen, wie die Funktion benutzt werden sollte nach `@note` 
+	- [ ] Folge der Parameter, in denen in einem kurzem Satz die Bedeutung des Parameters im Kontext der Funktion erklärt wird nach `@tparam` und `@param` geschrieben
+	- [ ] \[falls die Funktion einen Rückgabewert hat] Bedeutung des Rückgabewerts wird im Kontext der Funktion nach `@return` beschrieben 
+	- [x] Die Reihenfolge der Dokumentation ist: `@brief`, \[optional] detailliertere Beschreibung, \[optional] `@note`, `@tparam` und `@param`, \[falls die Funktion einen Rückgabewert hat] `@return`
+	- [x] Alle Blöcke in der Dokumentation sind durch genau eine Leerzeile getrennt
+	- [x] Die Dokumentation ist in einem Kommentarblock (/* ... \*/)
+	- [x] Wenn C++ Typen referenziert werden, wird der Name monospaced nach `@c` geschrieben
+- ##### Dokumentation von Klassen, Strukturen, Enumerations, Namespaces etc.
+	- [x] sind in englischer Sprache
+	- [ ] sind als ganze Sätze umgesetzt
+	- [ ] sind mit korrekter Grammatik und Rechtschreibung geschrieben
+	- [ ] Kurze und präzise Beschreibung der Funktionalität nach `@brief` 
+	- [ ] \[optional] Detailliertere Beschreibung, in der die Funktionalitätsschritte durchgegangen und wichtige Implementation Details erklärt werden
+	- [ ] \[optional] Folge von Extrainformationen, wie die Funktion benutzt werden sollte nach `@note` 
+	- [ ] Die Reihenfolge der Dokumentation ist: `@brief`, \[optional] detailliertere Beschreibung, \[optional] `@note`
+	- [x] Alle Blöcke in der Dokumentation sind durch genau eine Leerzeile getrennt
+	- [x] Die Dokumentation ist in einem Kommentarblock (/* ... \*/)
+	- [x] Wenn C++ Typen referenziert werden, wird der Name monospaced nach `@c` geschrieben
+
+### Modernes C++
+- [x] `auto` benutzt bei Speicherung oder Referenz eines Rückgabewerts
+- [x] `auto` benutzt bei Variablendeklarationen
+- [x] In Schleifen nur Iterationen über Mengen genutzt
+- [x] Wenn existent STL Implementation verwändet
+- [x] Lambda statt benannter Funktion in STL API's verwendet
+- [x] Lambda statt Code Duplikation benutzt
+- [x] Variablen, wenn möglich konstant durch `const` gemacht
+- [x] Ausdrücke, wenn möglich konstant durch `constexpr` gemacht
+
+### Style Guidelines
+- [x] Alle Identifiers außer Template Parameter sind in snake_case geschrieben
+- [x] Alle Template Parameter sind in PascalCase geschrieben
+- [x] Alle Identifiers sind passend gewählt
+- [x] Es wurde `#pragma once` anstatt explizit eingebundenen Guards verwendet
+- [x] In den includes wurde `<>` für Standard Bibliothek und `""` für den Rest verwendet 
+- [x] `using namespace` wurde nur in kleinen Namespaces, über die die volle Kontrolle bestand, verwendet
+- [x] Am Ende jeder Datei ist eine Leerzeile
+
+### Code Formatter und Linter
+- [x] Code Formatter ist korrekt am Code angewendet worden
+- [x] Linter ist korrekt am Code angewendet worden
+
+
 ## Statusmeeting 1 zu User Story 3. Integration von dynamischem Logging-System und 6. Verringerung von Aufnahmetransformationen
-- Datum: 8.12.2023 16 Uhr - 18:15 Uhr
+- Datum: 08.12.2023 16:00 Uhr - 18:15 Uhr
 - Entwickler\*innen: Severin Pelikan
-- Code Buddy: Leonhard Steinecke
+- Code Buddy: Ersatz durch Alicia Gleichmann
 - [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 	- Dokumentation teils noch unvollständig
 - Beispiel:
 	- eig. überall
 - Diagnose:
-	- Dokumentation ist wichtig fürs Code Verständis
+	- Dokumentation ist wichtig fürs Codeverständnis
 - Aktion:
 	- Dokumentation fertig schreiben
 - Sonstiges:
+	- Leonhard Steinecke wurde krank, deshalb ist Alicia Gleichmann Ersatz Code Buddy
 	- Übrigen Logger Level wurden integriert und vorgeführt
 		- keine Lesbarkeitsfehler im Code und Tests laufen durch
+		- Demo der verschiedenen Logger Level
 		- Dementsprechend keine weiteren Statusmeetings mehr notwendig
-	- Veringerung der Aufnahmetransformationen
-		- Demonstration wie viele der Aufnahmetransformationen nur Kopien der vorherigen Aufnahmetransformationen waren
+	- Verringerung der Aufnahmetransformationen
 		- Implementation fast fertig, Doku und Tests fehlen noch
-		- Vorhandene Dokumentation scheint Richtig, ist aber auch teils noch mehr Stichpunktartig als Fließtext
+		- Vorhandene Dokumentation scheint Richtig, ist aber auch teils noch mehr stichpunktartig als Fließtext
+- Nächstes Meeting am: 15.12.2023 um 16:00 Uhr
+
+---
+
+## Checkliste 1 zu User Storie 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
+### C API
+- [x] Keine manuelle Heapallokation benutzt
+- [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
+- [x] Keine Strings als null-terminierende char Pointer umgesetzt
+- [x] Casting nur durch Casting Operationen durchgeführt
+- [x] Keine Funktionen von cstdlib, sondern von STL Funktionen verwendet
+- [x] Keine raw Pointer, sondern Referenzen benutzen
+- [x] Logische Operatoren nur in der ausgeschriebenen Bezeichnung benutzt
+- [x] Keine Macros, sondern Templates und andere moderne Compile-time Konstruktionen verwendet
+
+### Kompilieren
+- [x] nur CMake 3.16 verwendet
+- [x] kein Undefined Behavior vorhanden
+- [x] Alle Warnungen werden als Error behandelt
+- [x] Build -0fast ist aktiviert und funktioniert
+
+### Dokumentation
+- ##### Kommentare in Funktionen sind: 
+	- [x] in englischer Spreche 
+	- [ ] als ganze Sätze umgesetzt
+	- [ ] mit korrekter Grammatik und Rechtschreibung geschrieben
+	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
+- ##### Dokumentationen von Funktionen 
+	- [x] sind in englischer Sprache
+	- [ ] sind als ganze Sätze umgesetzt
+	- [ ] sind mit korrekter Grammatik und Rechtschreibung geschrieben
+	- [ ] Kurze und präzise Beschreibung der Funktionalität nach `@brief` 
+	- [ ] \[optional] Detailliertere Beschreibung, in der die Funktionsschritte durchgegangen und wichtige Implementationsdetails erklärt werden
+	- [ ] \[optional] Folge von Extrainformationen, wie die Funktion benutzt werden sollte nach `@note` 
+	- [ ] Folge der Parameter, in denen in einem kurzem Satz die Bedeutung des Parameters im Kontext der Funktion erklärt wird nach `@tparam` und `@param` geschrieben
+	- [ ] \[falls die Funktion einen Rückgabewert hat] Bedeutung des Rückgabewerts wird im Kontext der Funktion nach `@return` beschrieben 
+	- [ ] Die Reihenfolge der Dokumentation ist: `@brief`, \[optional] detailliertere Beschreibung, \[optional] `@note`, `@tparam` und `@param`, \[falls die Funktion einen Rückgabewert hat] `@return`
+	- [x] Alle Blöcke in der Dokumentation sind durch genau eine Leerzeile getrennt
+	- [x] Die Dokumentation ist in einem Kommentarblock (/* ... \*/)
+	- [x] Wenn C++ Typen referenziert werden, wird der Name monospaced nach `@c` geschrieben
+- ##### Dokumentation von Klassen, Strukturen, Enumerations, Namespaces etc.
+	- [x] sind in englischer Sprache
+	- [ ] sind als ganze Sätze umgesetzt
+	- [ ] sind mit korrekter Grammatik und Rechtschreibung geschrieben
+	- [ ] Kurze und präzise Beschreibung der Funktionalität nach `@brief` 
+	- [ ] \[optional] Detailliertere Beschreibung, in der die Funktionalitätsschritte durchgegangen und wichtige Implementation Details erklärt werden
+	- [ ] \[optional] Folge von Extrainformationen, wie die Funktion benutzt werden sollte nach `@note` 
+	- [ ] Die Reihenfolge der Dokumentation ist: `@brief`, \[optional] detailliertere Beschreibung, \[optional] `@note`
+	- [x] Alle Blöcke in der Dokumentation sind durch genau eine Leerzeile getrennt
+	- [x] Die Dokumentation ist in einem Kommentarblock (/* ... \*/)
+	- [x] Wenn C++ Typen referenziert werden, wird der Name monospaced nach `@c` geschrieben
+
+### Modernes C++
+- [x] `auto` benutzt bei Speicherung oder Referenz eines Rückgabewerts
+- [x] `auto` benutzt bei Variablendeklarationen
+- [x] In Schleifen nur Iterationen über Mengen genutzt
+- [x] Wenn existent STL Implementation verwändet
+- [x] Lambda statt benannter Funktion in STL API's verwendet
+- [x] Lambda statt Code Duplikation benutzt
+- [x] Variablen, wenn möglich konstant durch `const` gemacht
+- [x] Ausdrücke, wenn möglich konstant durch `constexpr` gemacht
+
+### Style Guidelines
+- [x] Alle Identifiers außer Template Parameter sind in snake_case geschrieben
+- [x] Alle Template Parameter sind in PascalCase geschrieben
+- [x] Alle Identifiers sind passend gewählt
+- [x] Es wurde `#pragma once` anstatt explizit eingebundenen Guards verwendet
+- [x] In den includes wurde `<>` für Standard Bibliothek und `""` für den Rest verwendet 
+- [x] `using namespace` wurde nur in kleinen Namespaces, über die die volle Kontrolle bestand, verwendet
+- [x] Am Ende jeder Datei ist eine Leerzeile
+
+### Code Formatter und Linter
+- [x] Code Formatter ist korrekt am Code angewendet worden
+- [x] Linter ist korrekt am Code angewendet worden
+
 
 ## Statusmeeting 1 zu User Story 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
-- Datum: 9.12.2023 12:30 Uhr - 13:15 Uhr
+- Datum: 09.12.2023 12:30 Uhr - 13:15 Uhr
 - Entwickler\*innen: Alicia Gleichmann, Severin Pelikan
 - Code Buddy: Simon Riese
 - Kontext:
@@ -61,14 +348,89 @@ geplante Userstories:
 	- fertig Dokumentieren
 - Sonstiges:
 	- arx Parser vollständig implementiert, Dokumentation noch unvollständig
-	- Was an Dokumentation schon da ist sieht gut aus
+	- Was an Dokumentation schon da ist, sieht gut aus
 	- Kompiliert bei Severin, aber nicht bei Alicia
 		- Herausfinden warum
+- Nächstes Meeting am: 16.12.2023 um 12:30 Uhr
+
+---
+
+## Checkliste 1 zu User Storie 6. Verringerung von Aufnahmetransformationen
+### C API
+- [x] Keine manuelle Heapallokation benutzt
+- [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
+- [x] Keine Strings als null-terminierende char Pointer umgesetzt
+- [x] Casting nur durch Casting Operationen durchgeführt
+- [x] Keine Funktionen von cstdlib, sondern von STL Funktionen verwendet
+- [x] Keine raw Pointer, sondern Referenzen benutzen
+- [x] Logische Operatoren nur in der ausgeschriebenen Bezeichnung benutzt
+- [x] Keine Macros, sondern Templates und andere moderne Compile-time Konstruktionen verwendet
+
+### Kompilieren
+- [x] nur CMake 3.16 verwendet
+- [x] kein Undefined Behavior vorhanden
+- [x] Alle Warnungen werden als Error behandelt
+- [x] Build -0fast ist aktiviert und funktioniert
+
+### Dokumentation
+- ##### Kommentare in Funktionen sind: 
+	- [x] in englischer Spreche 
+	- [x] als ganze Sätze umgesetzt
+	- [x] mit korrekter Grammatik und Rechtschreibung geschrieben
+	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
+- ##### Dokumentationen von Funktionen 
+	- [x] sind in englischer Sprache
+	- [x] sind als ganze Sätze umgesetzt
+	- [x] sind mit korrekter Grammatik und Rechtschreibung geschrieben
+	- [x] Kurze und präzise Beschreibung der Funktionalität nach `@brief` 
+	- [x] \[optional] Detailliertere Beschreibung, in der die Funktionsschritte durchgegangen und wichtige Implementationsdetails erklärt werden
+	- [x] \[optional] Folge von Extrainformationen, wie die Funktion benutzt werden sollte nach `@note` 
+	- [x] Folge der Parameter, in denen in einem kurzem Satz die Bedeutung des Parameters im Kontext der Funktion erklärt wird nach `@tparam` und `@param` geschrieben
+	- [x] \[falls die Funktion einen Rückgabewert hat] Bedeutung des Rückgabewerts wird im Kontext der Funktion nach `@return` beschrieben 
+	- [x] Die Reihenfolge der Dokumentation ist: `@brief`, \[optional] detailliertere Beschreibung, \[optional] `@note`, `@tparam` und `@param`, \[falls die Funktion einen Rückgabewert hat] `@return`
+	- [x] Alle Blöcke in der Dokumentation sind durch genau eine Leerzeile getrennt
+	- [x] Die Dokumentation ist in einem Kommentarblock (/* ... \*/)
+	- [x] Wenn C++ Typen referenziert werden, wird der Name monospaced nach `@c` geschrieben
+- ##### Dokumentation von Klassen, Strukturen, Enumerations, Namespaces etc.
+	- [x] sind in englischer Sprache
+	- [x] sind als ganze Sätze umgesetzt
+	- [x] sind mit korrekter Grammatik und Rechtschreibung geschrieben
+	- [x] Kurze und präzise Beschreibung der Funktionalität nach `@brief` 
+	- [x] \[optional] Detailliertere Beschreibung, in der die Funktionalitätsschritte durchgegangen und wichtige Implementation Details erklärt werden
+	- [x] \[optional] Folge von Extrainformationen, wie die Funktion benutzt werden sollte nach `@note` 
+	- [x] Die Reihenfolge der Dokumentation ist: `@brief`, \[optional] detailliertere Beschreibung, \[optional] `@note`
+	- [x] Alle Blöcke in der Dokumentation sind durch genau eine Leerzeile getrennt
+	- [x] Die Dokumentation ist in einem Kommentarblock (/* ... \*/)
+	- [x] Wenn C++ Typen referenziert werden, wird der Name monospaced nach `@c` geschrieben
+
+### Modernes C++
+- [x] `auto` benutzt bei Speicherung oder Referenz eines Rückgabewerts
+- [x] `auto` benutzt bei Variablendeklarationen
+- [x] In Schleifen nur Iterationen über Mengen genutzt
+- [x] Wenn existent STL Implementation verwändet
+- [x] Lambda statt benannter Funktion in STL API's verwendet
+- [x] Lambda statt Code Duplikation benutzt
+- [x] Variablen, wenn möglich konstant durch `const` gemacht
+- [x] Ausdrücke, wenn möglich konstant durch `constexpr` gemacht
+
+### Style Guidelines
+- [x] Alle Identifiers außer Template Parameter sind in snake_case geschrieben
+- [x] Alle Template Parameter sind in PascalCase geschrieben
+- [x] Alle Identifiers sind passend gewählt
+- [x] Es wurde `#pragma once` anstatt explizit eingebundenen Guards verwendet
+- [x] In den includes wurde `<>` für Standard Bibliothek und `""` für den Rest verwendet 
+- [x] `using namespace` wurde nur in kleinen Namespaces, über die die volle Kontrolle bestand, verwendet
+- [x] Am Ende jeder Datei ist eine Leerzeile
+
+### Code Formatter und Linter
+- [x] Code Formatter ist korrekt am Code angewendet worden
+- [x] Linter ist korrekt am Code angewendet worden
+
 
 ## Statusmeeting 2 zu User Story 6. Verringerung von Aufnahmetransformationen
-- Datum: 15.12.2023 16 Uhr - 16:30 Uhr
+- Datum: 15.12.2023 16:00 Uhr - 16:30 Uhr
 - Entwickler\*innen: Severin Pelikan
-- Code Buddy: Leonhard Steinecke
+- Code Buddy: Ersatz durch Alicia Gleichmann
 - [x] alle besprochenen Änderungen wurden umgesetzt 
 - Kontext:
 	- -
@@ -79,14 +441,90 @@ geplante Userstories:
 - Aktion:
 	- -
 - Sonstiges:
+	- Leonhard Steinecke ist krank, deshalb ist Alicia Gleichmann Ersatz Code Buddy
 	- Tests laufen durch
 	- Grob Änderungen noch mal besprochen
 	- alle Punkte der Checkliste konnten abgehakt werden
+
+
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
+
 ---
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
+
+## Checkliste 1 zu User Storie 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
+### C API
+- [x] Keine manuelle Heapallokation benutzt
+- [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
+- [x] Keine Strings als null-terminierende char Pointer umgesetzt
+- [x] Casting nur durch Casting Operationen durchgeführt
+- [x] Keine Funktionen von cstdlib, sondern von STL Funktionen verwendet
+- [x] Keine raw Pointer, sondern Referenzen benutzen
+- [x] Logische Operatoren nur in der ausgeschriebenen Bezeichnung benutzt
+- [x] Keine Macros, sondern Templates und andere moderne Compile-time Konstruktionen verwendet
+
+### Kompilieren
+- [x] nur CMake 3.16 verwendet
+- [x] kein Undefined Behavior vorhanden
+- [x] Alle Warnungen werden als Error behandelt
+- [x] Build -0fast ist aktiviert und funktioniert
+
+### Dokumentation
+- ##### Kommentare in Funktionen sind: 
+	- [x] in englischer Spreche 
+	- [x] als ganze Sätze umgesetzt
+	- [x] mit korrekter Grammatik und Rechtschreibung geschrieben
+	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
+- ##### Dokumentationen von Funktionen 
+	- [x] sind in englischer Sprache
+	- [x] sind als ganze Sätze umgesetzt
+	- [x] sind mit korrekter Grammatik und Rechtschreibung geschrieben
+	- [x] Kurze und präzise Beschreibung der Funktionalität nach `@brief` 
+	- [x] \[optional] Detailliertere Beschreibung, in der die Funktionsschritte durchgegangen und wichtige Implementationsdetails erklärt werden
+	- [x] \[optional] Folge von Extrainformationen, wie die Funktion benutzt werden sollte nach `@note` 
+	- [x] Folge der Parameter, in denen in einem kurzem Satz die Bedeutung des Parameters im Kontext der Funktion erklärt wird nach `@tparam` und `@param` geschrieben
+	- [x] \[falls die Funktion einen Rückgabewert hat] Bedeutung des Rückgabewerts wird im Kontext der Funktion nach `@return` beschrieben 
+	- [x] Die Reihenfolge der Dokumentation ist: `@brief`, \[optional] detailliertere Beschreibung, \[optional] `@note`, `@tparam` und `@param`, \[falls die Funktion einen Rückgabewert hat] `@return`
+	- [x] Alle Blöcke in der Dokumentation sind durch genau eine Leerzeile getrennt
+	- [x] Die Dokumentation ist in einem Kommentarblock (/* ... \*/)
+	- [x] Wenn C++ Typen referenziert werden, wird der Name monospaced nach `@c` geschrieben
+- ##### Dokumentation von Klassen, Strukturen, Enumerations, Namespaces etc.
+	- [x] sind in englischer Sprache
+	- [x] sind als ganze Sätze umgesetzt
+	- [x] sind mit korrekter Grammatik und Rechtschreibung geschrieben
+	- [x] Kurze und präzise Beschreibung der Funktionalität nach `@brief` 
+	- [x] \[optional] Detailliertere Beschreibung, in der die Funktionalitätsschritte durchgegangen und wichtige Implementation Details erklärt werden
+	- [x] \[optional] Folge von Extrainformationen, wie die Funktion benutzt werden sollte nach `@note` 
+	- [x] Die Reihenfolge der Dokumentation ist: `@brief`, \[optional] detailliertere Beschreibung, \[optional] `@note`
+	- [x] Alle Blöcke in der Dokumentation sind durch genau eine Leerzeile getrennt
+	- [x] Die Dokumentation ist in einem Kommentarblock (/* ... \*/)
+	- [x] Wenn C++ Typen referenziert werden, wird der Name monospaced nach `@c` geschrieben
+
+### Modernes C++
+- [x] `auto` benutzt bei Speicherung oder Referenz eines Rückgabewerts
+- [x] `auto` benutzt bei Variablendeklarationen
+- [x] In Schleifen nur Iterationen über Mengen genutzt
+- [x] Wenn existent STL Implementation verwändet
+- [x] Lambda statt benannter Funktion in STL API's verwendet
+- [x] Lambda statt Code Duplikation benutzt
+- [x] Variablen, wenn möglich konstant durch `const` gemacht
+- [x] Ausdrücke, wenn möglich konstant durch `constexpr` gemacht
+
+### Style Guidelines
+- [x] Alle Identifiers außer Template Parameter sind in snake_case geschrieben
+- [x] Alle Template Parameter sind in PascalCase geschrieben
+- [ ] Alle Identifiers sind passend gewählt
+- [x] Es wurde `#pragma once` anstatt explizit eingebundenen Guards verwendet
+- [x] In den includes wurde `<>` für Standard Bibliothek und `""` für den Rest verwendet 
+- [x] `using namespace` wurde nur in kleinen Namespaces, über die die volle Kontrolle bestand, verwendet
+- [x] Am Ende jeder Datei ist eine Leerzeile
+
+### Code Formatter und Linter
+- [x] Code Formatter ist korrekt am Code angewendet worden
+- [x] Linter ist korrekt am Code angewendet worden
+
 
 ## Statusmeeting 2 zu User Story 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
-- Datum: 16.12:2023 12:30 Uhr - 13:30 Uhr
+- Datum: 16.12.2023 12:30 Uhr - 13:30 Uhr
 - Entwickler\*innen: Alicia Gleichmann, Severin Pelikan
 - Code Buddy: Simon Riese
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -95,12 +533,12 @@ geplante Userstories:
 - Beispiel:
 	- --input und -i
 - Diagnose:
-	- da Input und Output immer angegeben werden müssen und der Input aus mehreren Rosbags bestehen kann, sollten diese über die positional Arguments angegeben werden
+	- Da Input und Output immer angegeben werden müssen und der Input aus mehreren Rosbags bestehen kann, sollten diese über die positional Arguments angegeben werden
 - Aktion:
-	- input Pfade über positional Arguments angeben
+	- Input Pfade über positional Arguments angeben
 - Sonstiges:
-	- Hatte nicht kompiliert weil Alicia gcc 10 und nicht 11 nutzt, deshalb andere Implementation von Span was zu Problemen geführt hat
+	- Hatte nicht kompiliert, weil Alicia gcc 10 und nicht 11 nutzt, deshalb andere Implementation von Span was zu Problemen geführt hat
 		- Höchst mögliche Version in Ubuntu 20, deshalb Code angepasst 
 	- Input über Positional Arguments angeben im Meeting umgesetzt
----
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 16.12.2023
+
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 16.12.2023
