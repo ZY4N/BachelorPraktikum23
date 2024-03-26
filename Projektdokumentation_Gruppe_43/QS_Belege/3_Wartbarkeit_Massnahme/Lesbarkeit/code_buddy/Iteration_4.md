@@ -141,7 +141,8 @@
 	- Tests gehen nicht durch
 	- Herausgefunden die benötigten Daten des IMU-Sensors sind fehlerhaft, deshalb User Storie verworfen
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 	- kein Abschluss der User Story und keine Änderungen, da die User Story nicht übernommen wird.
 
 ---
@@ -167,7 +168,8 @@
 	- Code zusammen durchgegangen
 	- Keine Probleme in der Dokumentation und auch keine verbotenen Operationen verwendet
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
+
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
 
@@ -190,7 +192,8 @@
 	- Nach dem Durchlauf sind noch semi-dynamische Objekte zu erkennen (Bahn)
 		- Übernahme in nächste Iteration
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 	- User Story wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt. 
 
 ---
@@ -215,7 +218,8 @@
 - Sonstiges:
 	- Docker Container läuft und die Dokumentation ist auch korrekt
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
+
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
 
@@ -254,4 +258,5 @@
 		- Zusammen fertig implementiert
 	- Die anderen User Stories sind Lesbar implementiert und dokumentiert
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 06.01.2024
+
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 06.01.2024

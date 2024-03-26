@@ -1,12 +1,9 @@
-# Statusmeeting Protokolle
+# Statusmeeting Protokolle Iteration 8
+---
 
-#TODO: geplante Userstories löschen, Rechtschreibung prüfen
-geplante Userstories:
-31. Wiki-Einträge zur Installation und Nutzung
-32. Wiki-Einträge zur internen Funktionsweise des Programms
-33. Wiki-Einträge zu den Erweiterungsschnittstellen des Programms
-34. Wiki-Einträge zu der Entfernung dynamischer und semi-dynamischer Objekte
-35. Wiki-Einträge für Code- und Stilrichtlinien
+## Checkliste zu User Storie 31. Wiki-Einträge zur Installation und Nutzung 
+
+
 
 ## Statusmeeting zu User Story 31. Wiki-Einträge zur Installation und Nutzung 
 - Datum: 07.03.2024 15:00 Uhr - 15:30 Uhr
@@ -20,41 +17,49 @@ geplante Userstories:
 	- Link des Parameters chunk-size hat nicht zum Absatz in dem chunk-size erklärt wurde geführt
 - Diagnose:
 	- -
-	- Unübersichtlicher und verwirrend wenn nur ein Link nicht funktioniert
+	- Unübersichtlicher und verwirrend, wenn nur ein Link nicht funktioniert
 - Aktion: 
 	- Rechtschreibfehler korrigieren
-	- überprüfen warum der Link nicht dahin führt wohin er soll
+	- Überprüfen, warum der Link nicht dahin führt, wohin er soll
 - Sonstiges:
 	- Rechtschreibfehler im README und im Wiki-Eintrag zu Parametern direkt gefixt
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 09.03.2024
 
-hier Checkliste einfügen
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 09.03.2024
 
 ---
+
+## Checkliste zu User Storie 32. Wiki-Einträge zur internen Funktionsweise des Programms
+
+
 
 ## Statusmeeting zu User Story 32. Wiki-Einträge zur internen Funktionsweise des Programms
 - Datum: 07.03.2024 15:30 - 16:30 Uhr
 - Entwickler\*innen: Greys Fankyeyeva
 - Code Buddy: Severin Pelikan
 - Kontext:
-	- lange, verschachtelte Sätze
+	- Lange, verschachtelte Sätze
 	- Rechtschreibfehler
 - Beispiel:
 	- Funktionsweise
-	- Funktionsweise, Module, 
+	- Funktionsweise, Module
 - Diagnose:
-	- schlechter Lesbar
+	- Schlechter Lesbar
+	- -
 - Aktion:
 	- Satz in mehrere Sätze Umformulieren
+	- -
 - Sonstiges:
-	- Rest der Textes sind gut 
+	- Rest der Texte sind gut 
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 07.03.2024
 
-hier Checkliste einfügen
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 07.03.2024
 
 ---
+
+## Checkliste zu User Storie 33. Wiki-Einträge zu den Erweiterungsschnittstellen des Programms
+
+
 
 ## Statusmeeting zu User Story 33. Wiki-Einträge zu den Erweiterungsschnittstellen des Programms
 - Datum: 08.03.2024 15:00 Uhr - 15:30 Uhr
@@ -67,15 +72,18 @@ hier Checkliste einfügen
 - Diagnose:
 	- -
 - Aktion:
-	- noch mal durchgehen
+	- Noch mal durchgehen
 - Sonstiges:
-	- zusammen durchgegangen und korrigiert
+	- Zusammen durchgegangen und korrigiert
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 08.03.2024
 
-hier Checkliste einfügen
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 08.03.2024
 
 ---
+
+## Checkliste zu User Storie 34. Wiki-Einträge zu der Entfernung dynamischer und semi-dynamischer Objekte
+
+
 
 ## Statusmeeting zu User Story 34. Wiki-Einträge zu der Entfernung dynamischer und semi-dynamischer Objekte
 - Datum: 7.3.2024 16:00 Uhr - 16:30 Uhr
@@ -91,17 +99,20 @@ hier Checkliste einfügen
 	- Übersichtlicher das Refraimer und People Remover zu Dynamic Object Removal gehören
 	- -
 - Aktion:
-	- Extra Seite Erstellen nur mit Links dazu
-	- noch mal durchgehen
+	- Extra Seite erstellen nur mit Links dazu
+	- Noch mal durchgehen
 - Sonstiges:
-	- Die Einzelnen Seiten sehen gut aus
+	- Die einzelnen Seiten sehen gut aus
 	- Rechtschreibfehler zusammen korrigiert
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 08.03.2024
 
-hier Checkliste einfügen
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 08.03.2024
 
 ---
+
+## Checkliste zu User Storie 35. Wiki-Einträge für Code- und Stilrichtlinien
+
+
 
 ## Statusmeeting zu User Story 35. Wiki-Einträge für Code- und Stilrichtlinien
 - Datum: 08.03.2024 12:30 Uhr - 13:00 Uhr
@@ -115,7 +126,7 @@ hier Checkliste einfügen
 	- Style Guidelines over-indented function block
 - Diagnose:
 	- -
-	- verständlicher was genau gemeint
+	- Verständlicher, was genau gemeint ist
 - Aktion:
 	- Noch mal drüber gehen
 	- Beispiel erstellen
@@ -124,8 +135,5 @@ hier Checkliste einfügen
 	- Beispiel macht Severin später
 	- Sonst alles gut
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 09.03.2024
 
-hier Checkliste einfügen
-
-
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 09.03.2024

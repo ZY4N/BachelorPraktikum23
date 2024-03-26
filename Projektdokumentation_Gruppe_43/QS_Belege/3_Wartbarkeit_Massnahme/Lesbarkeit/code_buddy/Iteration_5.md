@@ -105,7 +105,8 @@
 	- In der Dokumentation des KIT wird beschrieben, dass ein zu großer Datensatz potenziell Probleme macht -> Test mit kleineren Datensätzen durch segmentierte Karte
 		- Übernahme in nächste Iteration
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 	- User Story wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt.
 
 ---
@@ -131,7 +132,8 @@
 	- String direkt zu std::stringview geändert
 	- Alles andere ist korrekt, alle Punkte der Checkliste abgehakt
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 19.1.2024
+
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 19.1.2024
 
 ---
 
@@ -156,7 +158,8 @@
 	- Keine Fehler im Code oder der Dokumentation, die die Lesbarkeit beeinträchtigen
 	- Tests gehen durch
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
+
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
 
@@ -181,5 +184,6 @@
 	- Keine Fehler in der Dokumentation
 	- Da Implementation noch nicht vollständig Übernahme in die nächste Iteration
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 	- User Story wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt. 

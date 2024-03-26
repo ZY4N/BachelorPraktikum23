@@ -1,15 +1,9 @@
-# Statusmeeting Protokolle
+# Statusmeeting Protokolle Iteration 7
+---
 
-#TODO: geplante Userstories löschen, Rechtschreibung prüfen
-geplante Userstories:
-23. PCL Converter 2 Push
-24. Programm parallelisieren 2 Push
-25. Unterstützung weiterer LiDAR-Sensoren 2 Push
-26. Erweiterung der Metadaten um Sensortypen und Rosbag-Topic 2 Push
-27. Erstellung von Testdatensätzen 1 Push - keine Doku
-28. Dynamisches Anpassen des LiDAR-Topics und LiDAR-Sensortyps über CLI 1 Push
-29. Dynamisches Anpassen der Anzahl der verwendeten Threads über CLI 1 Push
-30. Hinzufügen eines "Help"-Kommandos 2 Push
+## Checkliste 1 zu User Storie 23. PCL Converter 
+
+
 
 ## Statusmeeting 1 zu User Story 23. PCL Converter 
 - Datum: 11.02.2024 10:00 Uhr - 10:30 Uhr
@@ -27,10 +21,13 @@ geplante Userstories:
 	- Bisherige Dokumentation und Implementation ist korrekt bis auf den Eigennamen-Fehler
 		- Direkt korrigiert
 	- Code noch nicht sonderlich weit, was da ist besprochen
-
-hier Checkliste einfügen
+- Nächstes Meeting am: 18.02.2024 um 10:00 Uhr
 
 ---
+
+## Checkliste 1 zu User Storie 24. Programm parallelisieren 
+
+
 
 ## Statusmeeting 1 zu User Story 24. Programm parallelisieren 
 - Datum: 11.02.2024 12:30 Uhr - 13:00 Uhr
@@ -48,10 +45,13 @@ hier Checkliste einfügen
 	- System läuft schneller durch
 	- Parallelisierung des Auslesens der Rosbags noch nicht abgeschlossen
 	- Keine Lesbarkeitsfehler in Dokumentation oder Code
-
-hier Checkliste einfügen
+- Nächstes Meeting am: 18.02.2024 um 12:30 Uhr
 
 ---
+
+## Checkliste 1 zu User Storie 25. Unterstützung weiterer LiDAR-Sensoren 
+
+
 
 ## Statusmeeting 1 zu User Story 25. Unterstützung weiterer LiDAR-Sensoren 
 - Datum: 12.02.2024 15:30 Uhr - 16:00 Uhr
@@ -68,17 +68,20 @@ hier Checkliste einfügen
 - Sonstiges:
 	- Keine Lesbarkeitsfehler in Dokumentation oder Code
 	- Severin hat seinen Teil schon fertig, Simon macht seinem Teil in der zweiten Hälfte der Iteration
-
-hier Checkliste einfügen
+- Nächstes Meeting am: 19.02.2024 um 15:30 Uhr
 
 ---
+
+## Checkliste 1 zu User Storie 26. Erweiterung der Metadaten um Sensortypen und Rosbag-Topic 
+
+
 
 ## Statusmeeting 1 zu User Story 26. Erweiterung der Metadaten um Sensortypen und Rosbag-Topic 
 - Datum: 11.02.2024 12:30 Uhr - 13:00 Uhr
 - Entwickler\*innen: Simon Riese
 - Code Buddy: Leonhard Steinecke
 - Kontext:
-	- Logigoperator nicht ausgeschrieben
+	- Logikoperator nicht ausgeschrieben
 - Beispiel:
 	- ! statt not in metadata_jason.hpp
 - Diagnose:
@@ -87,9 +90,8 @@ hier Checkliste einfügen
 	- Austauschen
 - Sonstiges:
 	- Lesbarkeitsanforderungen sind erfüllt für den jetzigen Stand der Implementation
-	- Kurz noch mal angesprochen wo in die Metadaten die Rosbag-Topics geschrieben werden sollen
-
-hier Checkliste einfügen
+	- Kurz noch mal angesprochen, wo in die Metadaten die Rosbag-Topics geschrieben werden sollen
+- Nächstes Meeting am: 18.02.2024 um 12:30 Uhr
 
 ---
 
@@ -107,14 +109,21 @@ hier Checkliste einfügen
 	- -
 - Sonstiges:
 	- Da kein Code oder Dokumentation oder Text vorhanden ist, ist Lesbarkeit nicht von Bedarf
-	- Rosbag gefunden der einen Interessanten Output liefert
+	- Rosbag gefunden, der einen interessanten Output liefert
 	- Demonstration des geplanten Outputs
-	- Zuschneiden des Rosbags zu einem kleineren Zeitabschnitt und Herausschneiden von Daten die zu Problemen mit dem  Datenschutz führen könnten
-		- nur Notwendige Daten zum Ausführen des Programms beibehalten 
-
-hier Checkliste einfügen
+	- Zuschneiden des Rosbags zu einem kleineren Zeitabschnitt und Herausschneiden von Daten, die zu Problemen mit dem Datenschutz führen könnten
+		- nur notwendige Daten zum Ausführen des Programms beibehalten 
+- Nächstes Meeting am: 18.02.2024 um 13:30 Uhr
 
 ---
+
+## Checkliste 1 zu User Storie 28. Dynamisches Anpassen des LiDAR-Topics und LiDAR-Sensortyps über CLI
+
+
+
+## Checkliste 1 zu User Storie 29. Dynamisches Anpassen der Anzahl der verwendeten Threads über CLI
+
+
 
 ## Statusmeeting 1 zu User Story 28. Dynamisches Anpassen des LiDAR-Topics und LiDAR-Sensortyps über CLI, 29. Dynamisches Anpassen der Anzahl der verwendeten Threads über CLI und 30. Hinzufügen eines "Help"-Kommandos
 - Datum: 11.02.2024 15:00 Uhr - 15:30 Uhr
@@ -133,10 +142,13 @@ hier Checkliste einfügen
 	- US 28 und 29 abgeschlossen 
 		- Tests gehen durch
 	- US 30 noch nicht begonnen
-
-hier Checkliste einfügen
+- Nächstes Meeting am: 18.02.2024 um 15:00 Uhr
 
 ---
+
+## Checkliste 2 zu User Storie 23. PCL Converter 
+
+
 
 ## Statusmeeting 2 zu User Story 23. PCL Converter 
 - Datum: 18.02.2024 10:00 Uhr - 10:45 Uhr
@@ -154,13 +166,16 @@ hier Checkliste einfügen
 - Sonstiges:
 	- In der Checkliste alles abgehakt
 	- Alle Tests gehen durch
-	- Demonstration eines pcl viewer Angewandt an Convertierte kitti Daten und Vergleich der der Ausgabe
+	- Demonstration eines pcl Viewer Angewandt an konvertierte kitti Daten und Vergleich der Ausgabe
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
-hier Checkliste einfügen
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
+
+## Checkliste 2 zu User Storie 24. Programm parallelisieren 
+
+
 
 ## Statusmeeting 2 zu User Story 24. Programm parallelisieren 
 - Datum: 18.02.2024 12:30 Uhr - 13:00 Uhr
@@ -179,11 +194,14 @@ hier Checkliste einfügen
 	- Checklist Punkte alle abgehackt 
 	- Demonstration der CPU Auslastung
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
-hier Checkliste einfügen
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
+
+## Checkliste 2 zu User Storie 25. Unterstützung weiterer LiDAR-Sensoren 
+
+
 
 ## Statusmeeting 2 zu User Story 25. Unterstützung weiterer LiDAR-Sensoren 
 - Datum: 19.02.2024 15:30 Uhr - 16:00 Uhr
@@ -202,11 +220,14 @@ hier Checkliste einfügen
 	- Keine Lesbarkeitsfehler in Dokumentation oder Code
 	- Besprechung der Implementation
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
-hier Checkliste einfügen
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
+
+## Checkliste 1 zu User Storie 26. Erweiterung der Metadaten um Sensortypen und Rosbag-Topic 
+
+
 
 ## Statusmeeting 2 zu User Story 26. Erweiterung der Metadaten um Sensortypen und Rosbag-Topic 
 - Datum: 18.02.2024 12:30 Uhr - 13:00 Uhr
@@ -226,9 +247,8 @@ hier Checkliste einfügen
 	- Code kurz besprochen
 	- Alle Tests laufen durch
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
-hier Checkliste einfügen
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
 
@@ -246,15 +266,18 @@ hier Checkliste einfügen
 - Aktion:
 	- -
 - Sonstiges:
-	- Testdatensatz ist Richtig benannt 
+	- Testdatensatz ist richtig benannt 
 	- Läuft durch das Programm und der Output sieht gut aus
-		- Demo wie das Repo geladen wird und mit dem Testdatensatz durchläuft
+		- Demo, wie das Repo geladen wird und mit dem Testdatensatz durchläuft
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
-hier Checkliste einfügen
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
+
+## Checkliste 1 zu User Storie 30. Hinzufügen eines "Help"-Kommandos
+
+
 
 ## Statusmeeting 2 zu User Story 30. Hinzufügen eines "Help"-Kommandos
 - Datum: 18.02.2024 15:00 Uhr - 15:45 Uhr
@@ -269,10 +292,11 @@ hier Checkliste einfügen
 - Diagnose:
 	- Die Beschreibungen und Standardwerte sind schlechter zu erkennen
 - Aktion: 
-	- Beschreibungen und Standardwerte so einrücken, sodass alle auf einer Höhe sind.
+	- Beschreibungen und Standardwerte so einrücken, sodass alle auf einer Höhe sind
 - Sonstiges: 
 	- Einrücken der Ausgabe von Help passt zu keinem Punkt in der Checkliste, macht es dennoch lesbarer
 	- Direkt umgesetzt
 	- Restliche Dokumentation und Implementation sind Lesbar
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 18.02.2024
+
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 18.02.2024

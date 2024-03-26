@@ -35,3 +35,20 @@ geplante Userstories Iteration 6:
 20. Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI 1 Push
 21. Dynamisches Anpassen der Zellengröße über CLI  1 Push
 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI 2 Push
+
+geplante Userstories Iteration 7:
+23. PCL Converter 2 Push
+24. Programm parallelisieren 2 Push
+25. Unterstützung weiterer LiDAR-Sensoren 2 Push
+26. Erweiterung der Metadaten um Sensortypen und Rosbag-Topic 2 Push
+27. Erstellung von Testdatensätzen 1 Push - keine Doku
+28. Dynamisches Anpassen des LiDAR-Topics und LiDAR-Sensortyps über CLI 1 Push
+29. Dynamisches Anpassen der Anzahl der verwendeten Threads über CLI 1 Push
+30. Hinzufügen eines "Help"-Kommandos 2 Push
+
+geplante Userstories Iteration 8:
+31. Wiki-Einträge zur Installation und Nutzung
+32. Wiki-Einträge zur internen Funktionsweise des Programms
+33. Wiki-Einträge zu den Erweiterungsschnittstellen des Programms
+34. Wiki-Einträge zu der Entfernung dynamischer und semi-dynamischer Objekte
+35. Wiki-Einträge für Code- und Stilrichtlinien

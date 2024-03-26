@@ -1,4 +1,4 @@
-# Statusmeeting Protokolle
+# Statusmeeting Protokolle Iteration 6
 ---
 
 ## Statusmeeting 1 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
@@ -118,9 +118,8 @@
 	- Code durchgesprochen
 	- keine weiteren Anmerkungen
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
-hier Checkliste einfügen
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
 
@@ -144,7 +143,8 @@ hier Checkliste einfügen
 	- Dokumentation ist gut strukturiert und fehlerfrei
 	- Umfang der Umsetzung aller Alternativen ist sehr hoch 
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
+
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
 
@@ -178,4 +178,5 @@ hier Checkliste einfügen
 	- Rechtschreibfehler aus US 22 wurde behoben und US 20 und 21 hatten keine Fehler
 	- Code noch mal ganz kurz durchgesprochen
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
+
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
