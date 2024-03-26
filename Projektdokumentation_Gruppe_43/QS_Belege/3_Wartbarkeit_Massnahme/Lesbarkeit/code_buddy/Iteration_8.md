@@ -2,7 +2,16 @@
 ---
 
 ## Checkliste zu User Storie 31. Wiki-Einträge zur Installation und Nutzung 
-
+- [ ] keine Rechtschreibfehler
+- [x] kein Grammatikfehler
+- [x] Text ist gut strukturiert  
+- [x] Text ist in nachvollziehbare Sinnabschnitte unterteilt
+- [x] \[optional] Wenn sinnvoll, wurden Bilder oder Code-Beispiele integriert
+- [x] Text hat keine inhaltlichen Fehler
+- [x] Es wurden keine langen und verschachtelte, sondern kurze und prägnante Sätze gebildet.
+- [x] \[optional] wenn sinnvoll Links integriert
+- [ ] \[optional] wenn vorhanden Links richtig verlinkt
+- [x] \[optional] wenn sinnvoll Übersichtsseiten integriert
 
 
 ## Statusmeeting zu User Story 31. Wiki-Einträge zur Installation und Nutzung 
@@ -30,7 +39,16 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 09.03.20
 ---
 
 ## Checkliste zu User Storie 32. Wiki-Einträge zur internen Funktionsweise des Programms
-
+- [ ] keine Rechtschreibfehler
+- [x] kein Grammatikfehler
+- [x] Text ist gut strukturiert  
+- [x] Text ist in nachvollziehbare Sinnabschnitte unterteilt
+- [x] \[optional] Wenn sinnvoll, wurden Bilder oder Code-Beispiele integriert
+- [x] Text hat keine inhaltlichen Fehler
+- [ ] Es wurden keine langen und verschachtelte, sondern kurze und prägnante Sätze gebildet.
+- [x] \[optional] wenn sinnvoll Links integriert
+- [x] \[optional] wenn vorhanden Links richtig verlinkt
+- [x] \[optional] wenn sinnvoll Übersichtsseiten integriert
 
 
 ## Statusmeeting zu User Story 32. Wiki-Einträge zur internen Funktionsweise des Programms
@@ -58,7 +76,16 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 07.03.20
 ---
 
 ## Checkliste zu User Storie 33. Wiki-Einträge zu den Erweiterungsschnittstellen des Programms
-
+- [ ] keine Rechtschreibfehler
+- [x] kein Grammatikfehler
+- [x] Text ist gut strukturiert  
+- [x] Text ist in nachvollziehbare Sinnabschnitte unterteilt
+- [x] \[optional] Wenn sinnvoll, wurden Bilder oder Code-Beispiele integriert
+- [x] Text hat keine inhaltlichen Fehler
+- [x] Es wurden keine langen und verschachtelte, sondern kurze und prägnante Sätze gebildet.
+- [x] \[optional] wenn sinnvoll Links integriert
+- [x] \[optional] wenn vorhanden Links richtig verlinkt
+- [x] \[optional] wenn sinnvoll Übersichtsseiten integriert
 
 
 ## Statusmeeting zu User Story 33. Wiki-Einträge zu den Erweiterungsschnittstellen des Programms
@@ -82,7 +109,16 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 08.03.20
 ---
 
 ## Checkliste zu User Storie 34. Wiki-Einträge zu der Entfernung dynamischer und semi-dynamischer Objekte
-
+- [ ] keine Rechtschreibfehler
+- [x] kein Grammatikfehler
+- [x] Text ist gut strukturiert  
+- [x] Text ist in nachvollziehbare Sinnabschnitte unterteilt
+- [x] \[optional] Wenn sinnvoll, wurden Bilder oder Code-Beispiele integriert
+- [x] Text hat keine inhaltlichen Fehler
+- [x] Es wurden keine langen und verschachtelte, sondern kurze und prägnante Sätze gebildet.
+- [x] \[optional] wenn sinnvoll Links integriert
+- [x] \[optional] wenn vorhanden Links richtig verlinkt
+- [ ] \[optional] wenn sinnvoll Übersichtsseiten integriert
 
 
 ## Statusmeeting zu User Story 34. Wiki-Einträge zu der Entfernung dynamischer und semi-dynamischer Objekte
@@ -111,7 +147,16 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 08.03.20
 ---
 
 ## Checkliste zu User Storie 35. Wiki-Einträge für Code- und Stilrichtlinien
-
+- [ ] keine Rechtschreibfehler
+- [x] kein Grammatikfehler
+- [x] Text ist gut strukturiert  
+- [x] Text ist in nachvollziehbare Sinnabschnitte unterteilt
+- [ ] \[optional] Wenn sinnvoll, wurden Bilder oder Code-Beispiele integriert
+- [x] Text hat keine inhaltlichen Fehler
+- [x] Es wurden keine langen und verschachtelte, sondern kurze und prägnante Sätze gebildet.
+- [x] \[optional] wenn sinnvoll Links integriert
+- [x] \[optional] wenn vorhanden Links richtig verlinkt
+- [x] \[optional] wenn sinnvoll Übersichtsseiten integriert
 
 
 ## Statusmeeting zu User Story 35. Wiki-Einträge für Code- und Stilrichtlinien
