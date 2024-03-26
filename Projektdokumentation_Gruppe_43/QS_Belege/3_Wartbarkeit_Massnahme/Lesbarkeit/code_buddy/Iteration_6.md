@@ -1,13 +1,5 @@
 # Statusmeeting Protokolle
-
-#TODO: geplante Userstories löschen, Rechtschreibung prüfen
-geplante Userstories:
-10. Entfernung dynamischer Objekte mittels Removert 0 Push
-18. Lesen und Schreiben von Metadaten im JSON-Format 2 Push
-19. Ausarbeitung von Grundkonzepten zur Enfernung semi-dynamischer Objekte 0 Push
-20. Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI 1 Push
-21. Dynamisches Anpassen der Zellengröße über CLI  1 Push
-22. Dynamisches Anpassen des Metadatenausgabeformats über CLI 2 Push
+---
 
 ## Statusmeeting 1 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
 - Datum: 27.01.2024 12:30 Uhr - 13:30 Uhr
@@ -23,16 +15,18 @@ geplante Userstories:
 	- -
 - Sonstiges: 
 	- auch mit kleineren Datensätzen bleiben Fragmente erhalten
-	- Unterschiedliche Gewichtungen der Parameter getestet, keine anderen Ergebnisse
+	- Unterschiedliche Gewichtungen der Parameter getestet keine anderen Ergebnisse
 	- Demonstration der Fragmente
 	- kein weiteres Statusmeeting notwendig
 
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 	- kein Abschluss der User Story und keine Änderungen, da die User Story nicht übernommen wird.
 
-hier Checkliste einfügen
-
 ---
+
+## Checkliste 1 zu User Storie 18. Lesen und Schreiben von Metadaten im JSON-Format
+
+
 
 ## Statusmeeting 1 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 - Datum: 27.01.2024 15:00 Uhr - 15:30 Uhr
@@ -49,10 +43,13 @@ hier Checkliste einfügen
 - Sonstiges:
 	- Der Rest ist bisher gut 
 	- && im Meeting ersetzt
-
-hier Checkliste einfügen
+- Nächstes Meeting am: 04.02.2024 um 15:00 Uhr
 
 ---
+
+## Checkliste 1 zu User Storie 19. Ausarbeitung von Grundkonzepten zur Enfernung semi-dynamischer Objekte 
+
+
 
 ## Statusmeeting 1 zu User Story 19. Ausarbeitung von Grundkonzepten zur Enfernung semi-dynamischer Objekte 
 - Datum: 28.01.2024 12:30 Uhr - 13:15 Uhr
@@ -71,10 +68,13 @@ hier Checkliste einfügen
 		- schwer umsetzbar, Umfang eines eigenen Projekts
 	- Alle Möglichkeiten kurz durchgesprochen
 	- Dokumentation sieht gut aus
-
-hier Checkliste einfügen
+- Nächstes Meeting am: 04.02.2024 um 12:30 Uhr
 
 ---
+
+## Checkliste 1 zu User Storie 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI
+
+
 
 ## Statusmeeting 1 zu User Story 20. Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI, 21. Dynamisches Anpassen der Zellengröße über CLI und 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI
 - Datum: 27.01.2024 15:00 Uhr - 15:30 Uhr
@@ -89,12 +89,16 @@ hier Checkliste einfügen
 - Aktion:
 	- transcoding ...
 - Sonstiges:
-	- US 22 ist abgesehen von dem Rechtschreibfehler Lesbar und abgeschlossen
+	- US 22 ist, abgesehen von dem Rechtschreibfehler, lesbar und abgeschlossen
+		- Direkt korrigiert
 	- US 20 und 21 sind noch nicht angefangen
-
-hier Checkliste einfügen
+- Nächstes Meeting am: 04.02.2024 um 15:00 Uhr
 
 ---
+
+## Checkliste 2 zu User Storie 18. Lesen und Schreiben von Metadaten im JSON-Format
+
+
 
 ## Statusmeeting 2 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 - Datum: 04.02.2024 15:00 Uhr - 15:30 Uhr
@@ -120,8 +124,11 @@ hier Checkliste einfügen
 
 ---
 
+## Checkliste 2 zu User Storie 19. Ausarbeitung von Grundkonzepten zur Enfernung semi-dynamischer Objekte 
+
+
 ## Statusmeeting 2 zu User Story 19. Ausarbeitung von Grundkonzepten zur Enfernung semi-dynamischer Objekte 
-- Datum:04.02.2024 12:30 Uhr - 13:00 Uhr
+- Datum: 04.02.2024 12:30 Uhr - 13:00 Uhr
 - Entwickler\*innen: Simon Riese, Leonhard Steinecke
 - Code Buddy: Greys Fankyeyeva
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -134,14 +141,25 @@ hier Checkliste einfügen
 - Aktion:
 	- -
 - Sonstiges: 
-	- Dokumentation ist gut Strukturiert und Fehlerfrei
+	- Dokumentation ist gut strukturiert und fehlerfrei
 	- Umfang der Umsetzung aller Alternativen ist sehr hoch 
 
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
-hier Checkliste einfügen
-
 ---
+
+
+## Checkliste 1 zu User Storie 20. Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI
+
+
+
+## Checkliste 1 zu User Storie 21. Dynamisches Anpassen der Zellengröße über CLI
+
+
+
+## Checkliste 2 zu User Storie 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI
+
+
 
 ## Statusmeeting 2 zu User Story 20. Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI, 21. Dynamisches Anpassen der Zellengröße über CLI und 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI
 - Datum: 04.02.2024 15:00 Uhr - 15:30 Uhr

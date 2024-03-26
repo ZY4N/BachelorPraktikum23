@@ -1,11 +1,5 @@
-# Statusmeeting Protokolle
-
-#TODO: geplante Userstories löschen, Rechtschreibung prüfen
-geplante Userstories:
-10. Entfernung dynamischer Objekte mittels Removert 0 Push
-16. Export zu segmentierten Karten Format 4 Push
-17. Sammeln von Metadaten 1 Push
-18. Lesen und Schreiben von Metadaten im JSON-Format 2 Push
+# Statusmeeting Protokolle Iteration 5
+---
 
 ## Statusmeeting 1 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
 - Datum: 16.01.2024 12:30 Uhr - 13:00 Uhr
@@ -22,10 +16,13 @@ geplante Userstories:
 - Sonstiges: 
 	- Fragmente sind immer noch da, allerdings weniger
 	- Verschiedene Kombinationen der Parameter bereits ausprobiert
-
-hier Checkliste einfügen
+- Nächstes Meeting am: 20.01.2024 um 12:30 Uhr
 
 ---
+
+## Checkliste 1 zu User Storie 16. Export zu segmentierten Karten Format 
+
+
 
 ## Statusmeeting 1 zu User Story 16. Export zu segmentierten Karten Format 
 - Datum: 15.01.2024 15:30 Uhr - 16:15 Uhr
@@ -41,10 +38,9 @@ hier Checkliste einfügen
 	- -
 - Sonstiges:
 	- Aufteilung in Buckets großteils abgeschlossen
-	- Fehlt Buckts zu Output
+	- Fehlt Buckets zu Output
 	- Keine Probleme in der Dokumentation und auch keine verbotenen Operationen verwendet
-
-hier Checkliste einfügen
+- Nächstes Meeting am: 19.01.2024 um 14:00 Uhr
 
 ---
 
@@ -62,17 +58,20 @@ hier Checkliste einfügen
 	- -
 - Sonstiges:
 	- bisher kein Implementationsfortschritt
-
-hier Checkliste einfügen
+- Nächstes Meeting am: 19.01.2024 um 18:00 Uhr
 
 ---
+
+## Checkliste 1 zu User Storie 18. Lesen und Schreiben von Metadaten im JSON-Format
+
+
 
 ## Statusmeeting 1 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 - Datum: 15.01.2024 16:15 Uhr - 17:00 Uhr
 - Entwickler\*innen: Simon Riese
 - Code Buddy: Leonhard Steinecke
 - Kontext: 
-	- Variablen nicht Konstant gesetzt
+	- Variablen nicht konstant gesetzt
 - Beispiel: 
 	- frame_exporter.hpp (und frame_exporter.cpp gleiche Variable) directory
 - Diagnose: 
@@ -81,11 +80,10 @@ hier Checkliste einfügen
 	- const einfügen
 - Sonstiges:
 	- Code durchgesprochen
-	- Dokumentation die schon da ist hat alle Punkte der Checkliste abgehakt
+	- Dokumentation, die schon da ist, hat alle Punkte der Checkliste abgehakt
 	- Code außer diesem Fehler gut
 	- Zusammen gleich behoben
-
-hier Checkliste einfügen
+- Nächstes Meeting am: 19.01.2024 um 16:00 Uhr
 
 ---
 
@@ -110,9 +108,11 @@ hier Checkliste einfügen
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 	- User Story wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt.
 
-hier Checkliste einfügen
-
 ---
+
+## Checkliste 1 zu User Storie 16. Export zu segmentierten Karten Format 
+
+
 
 ## Statusmeeting 2 zu User Story 16. Export zu segmentierten Karten Format 
 - Datum: 19.01.2024 14:00 Uhr - 15:00 Uhr
@@ -133,9 +133,11 @@ hier Checkliste einfügen
 
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 19.1.2024
 
-hier Checkliste einfügen
-
 ---
+
+## Checkliste 2 zu User Storie 17. Sammeln von Metadaten 
+
+
 
 ## Statusmeeting 2 zu User Story 17. Sammeln von Metadaten 
 - Datum: 19.01.2024 18:00 Uhr - 18:30 Uhr
@@ -151,14 +153,16 @@ hier Checkliste einfügen
 - Aktion:
 	- -
 - Sonstiges: 
-	- Keine Fehler im Code oder der Dokumentation die die Lesbarkeit beeinträchtigen
+	- Keine Fehler im Code oder der Dokumentation, die die Lesbarkeit beeinträchtigen
 	- Tests gehen durch
 
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
-hier Checkliste einfügen
-
 ---
+
+## Checkliste 2 zu User Storie 18. Lesen und Schreiben von Metadaten im JSON-Format
+
+
 
 ## Statusmeeting 2 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 - Datum: 19.01.2024 16:00 Uhr - 16:30 Uhr
@@ -175,10 +179,7 @@ hier Checkliste einfügen
 	- -
 - Sonstiges:
 	- Keine Fehler in der Dokumentation
-	- Da Implementation noch nicht vollständig, Übernahme in die nächste Iteration
+	- Da Implementation noch nicht vollständig Übernahme in die nächste Iteration
 
 - Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
 	- User Story wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt. 
-
-hier Checkliste einfügen
-

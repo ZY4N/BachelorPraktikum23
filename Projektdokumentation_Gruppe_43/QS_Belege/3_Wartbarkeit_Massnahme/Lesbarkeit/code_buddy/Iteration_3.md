@@ -1,11 +1,9 @@
-# Statusmeeting Protokolle
+# Statusmeeting Protokolle Iteration 3
+---
 
-#TODO: geplante Userstories löschen, Rechtschreibung prüfen
-geplante Userstories:
-0. Einlese-Option für Rosbag-Dateien x 1 Push
-3. Integration von dynamischem Logging-System x 1 Push
-6. Verringerung von Aufnahmetransformationen 2 Push
-7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI x 4 Push
+## Checkliste 1 zu User Storie 0. Einlese-Option für Rosbag-Dateien
+
+
 
 ## Statusmeeting 1 zu User Story 0. Einlese-Option für Rosbag-Dateien
 - Datum: 07.12.2023 12:30Uhr - 13:00 Uhr
@@ -25,9 +23,14 @@ geplante Userstories:
 	- Rest des Codes hat sich nicht mehr verändert
 	- Dementsprechend keine Weiteren Statusmeetings von Nöten
 
-hier Checkliste einfügen
-
 ---
+
+## Checkliste 1 zu User Storie 3. Integration von dynamischem Logging-System
+
+
+## Checkliste 1 zu User Storie 6. Verringerung von Aufnahmetransformationen
+
+
 
 ## Statusmeeting 1 zu User Story 3. Integration von dynamischem Logging-System und 6. Verringerung von Aufnahmetransformationen
 - Datum: 08.12.2023 16:00 Uhr - 18:15 Uhr
@@ -39,7 +42,7 @@ hier Checkliste einfügen
 - Beispiel:
 	- eig. überall
 - Diagnose:
-	- Dokumentation ist wichtig fürs Code Verständis
+	- Dokumentation ist wichtig fürs Codeverständnis
 - Aktion:
 	- Dokumentation fertig schreiben
 - Sonstiges:
@@ -48,13 +51,16 @@ hier Checkliste einfügen
 		- keine Lesbarkeitsfehler im Code und Tests laufen durch
 		- Demo der verschiedenen Logger Level
 		- Dementsprechend keine weiteren Statusmeetings mehr notwendig
-	- Veringerung der Aufnahmetransformationen
+	- Verringerung der Aufnahmetransformationen
 		- Implementation fast fertig, Doku und Tests fehlen noch
-		- Vorhandene Dokumentation scheint Richtig, ist aber auch teils noch mehr Stichpunktartig als Fließtext
-
-hier Checkliste einfügen
+		- Vorhandene Dokumentation scheint Richtig, ist aber auch teils noch mehr stichpunktartig als Fließtext
+- Nächstes Meeting am: 15.12.2023 um 16:00 Uhr
 
 ---
+
+## Checkliste 1 zu User Storie 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
+
+
 
 ## Statusmeeting 1 zu User Story 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
 - Datum: 09.12.2023 12:30 Uhr - 13:15 Uhr
@@ -70,13 +76,16 @@ hier Checkliste einfügen
 	- fertig Dokumentieren
 - Sonstiges:
 	- arx Parser vollständig implementiert, Dokumentation noch unvollständig
-	- Was an Dokumentation schon da ist sieht gut aus
+	- Was an Dokumentation schon da ist, sieht gut aus
 	- Kompiliert bei Severin, aber nicht bei Alicia
 		- Herausfinden warum
-
-hier Checkliste einfügen
+- Nächstes Meeting am: 16.12.2023 um 12:30 Uhr
 
 ---
+
+## Checkliste 1 zu User Storie 6. Verringerung von Aufnahmetransformationen
+
+
 
 ## Statusmeeting 2 zu User Story 6. Verringerung von Aufnahmetransformationen
 - Datum: 15.12.2023 16:00 Uhr - 16:30 Uhr
@@ -97,11 +106,14 @@ hier Checkliste einfügen
 	- Grob Änderungen noch mal besprochen
 	- alle Punkte der Checkliste konnten abgehakt werden
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
-hier Checkliste einfügen
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
+
+## Checkliste 1 zu User Storie 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
+
+
 
 ## Statusmeeting 2 zu User Story 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
 - Datum: 16.12.2023 12:30 Uhr - 13:30 Uhr
@@ -113,14 +125,12 @@ hier Checkliste einfügen
 - Beispiel:
 	- --input und -i
 - Diagnose:
-	- da Input und Output immer angegeben werden müssen und der Input aus mehreren Rosbags bestehen kann, sollten diese über die positional Arguments angegeben werden
+	- Da Input und Output immer angegeben werden müssen und der Input aus mehreren Rosbags bestehen kann, sollten diese über die positional Arguments angegeben werden
 - Aktion:
-	- input Pfade über positional Arguments angeben
+	- Input Pfade über positional Arguments angeben
 - Sonstiges:
-	- Hatte nicht kompiliert weil Alicia gcc 10 und nicht 11 nutzt, deshalb andere Implementation von Span was zu Problemen geführt hat
+	- Hatte nicht kompiliert, weil Alicia gcc 10 und nicht 11 nutzt, deshalb andere Implementation von Span was zu Problemen geführt hat
 		- Höchst mögliche Version in Ubuntu 20, deshalb Code angepasst 
 	- Input über Positional Arguments angeben im Meeting umgesetzt
 
-- Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 16.12.2023
-
-hier Checkliste einfügen
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 16.12.2023
