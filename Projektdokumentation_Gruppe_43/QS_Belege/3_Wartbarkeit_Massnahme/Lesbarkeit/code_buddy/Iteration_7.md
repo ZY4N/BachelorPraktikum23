@@ -1,7 +1,7 @@
 # Statusmeeting Protokolle Iteration 7
 ---
 
-## Checkliste 1 zu User Storie 23. PCL Converter 
+## Checkliste 1 zu User Story 23. PCL Converter 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -93,7 +93,7 @@
 
 ---
 
-## Checkliste 1 zu User Storie 24. Programm parallelisieren 
+## Checkliste 1 zu User Story 24. Programm parallelisieren 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -185,7 +185,7 @@
 
 ---
 
-## Checkliste 1 zu User Storie 25. Unterstützung weiterer LiDAR-Sensoren 
+## Checkliste 1 zu User Story 25. Unterstützung weiterer LiDAR-Sensoren 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -276,7 +276,7 @@
 
 ---
 
-## Checkliste 1 zu User Storie 26. Erweiterung der Metadaten um Sensortypen und Rosbag-Topic 
+## Checkliste 1 zu User Story 26. Erweiterung der Metadaten um Sensortypen und Rosbag-Topic 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -389,7 +389,7 @@
 
 ---
 
-## Checkliste 1 zu User Storie 28. Dynamisches Anpassen des LiDAR-Topics und LiDAR-Sensortyps über CLI
+## Checkliste 1 zu User Story 28. Dynamisches Anpassen des LiDAR-Topics und LiDAR-Sensortyps über CLI
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -461,7 +461,7 @@
 - [x] Linter ist korrekt am Code angewendet worden
 
 
-## Checkliste 1 zu User Storie 29. Dynamisches Anpassen der Anzahl der verwendeten Threads über CLI
+## Checkliste 1 zu User Story 29. Dynamisches Anpassen der Anzahl der verwendeten Threads über CLI
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -554,7 +554,7 @@
 
 ---
 
-## Checkliste 2 zu User Storie 23. PCL Converter 
+## Checkliste 2 zu User Story 23. PCL Converter 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -649,7 +649,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
 
-## Checkliste 2 zu User Storie 24. Programm parallelisieren 
+## Checkliste 2 zu User Story 24. Programm parallelisieren 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -743,7 +743,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
 
-## Checkliste 2 zu User Storie 25. Unterstützung weiterer LiDAR-Sensoren 
+## Checkliste 2 zu User Story 25. Unterstützung weiterer LiDAR-Sensoren 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -837,7 +837,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
 
-## Checkliste 2 zu User Storie 26. Erweiterung der Metadaten um Sensortypen und Rosbag-Topic 
+## Checkliste 2 zu User Story 26. Erweiterung der Metadaten um Sensortypen und Rosbag-Topic 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -955,7 +955,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
 
-## Checkliste 1 zu User Storie 30. Hinzufügen eines "Help"-Kommandos
+## Checkliste 1 zu User Story 30. Hinzufügen eines "Help"-Kommandos
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt

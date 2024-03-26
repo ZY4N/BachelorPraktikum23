@@ -1,7 +1,7 @@
 # Statusmeeting Protokolle Iteration 3
 ---
 
-## Checkliste 1 zu User Storie 0. Einlese-Option für Rosbag-Dateien
+## Checkliste 1 zu User Story 0. Einlese-Option für Rosbag-Dateien
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -93,7 +93,7 @@
 
 ---
 
-## Checkliste 1 zu User Storie 3. Integration von dynamischem Logging-System
+## Checkliste 1 zu User Story 3. Integration von dynamischem Logging-System
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -164,7 +164,7 @@
 - [x] Code Formatter ist korrekt am Code angewendet worden
 - [x] Linter ist korrekt am Code angewendet worden
 
-## Checkliste 1 zu User Storie 6. Verringerung von Aufnahmetransformationen
+## Checkliste 1 zu User Story 6. Verringerung von Aufnahmetransformationen
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -262,7 +262,7 @@
 
 ---
 
-## Checkliste 1 zu User Storie 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
+## Checkliste 1 zu User Story 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -355,7 +355,7 @@
 
 ---
 
-## Checkliste 1 zu User Storie 6. Verringerung von Aufnahmetransformationen
+## Checkliste 1 zu User Story 6. Verringerung von Aufnahmetransformationen
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -451,7 +451,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
 
-## Checkliste 1 zu User Storie 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
+## Checkliste 1 zu User Story 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt

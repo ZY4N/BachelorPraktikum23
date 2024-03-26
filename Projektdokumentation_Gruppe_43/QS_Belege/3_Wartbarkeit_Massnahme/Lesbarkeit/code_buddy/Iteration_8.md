@@ -1,7 +1,7 @@
 # Statusmeeting Protokolle Iteration 8
 ---
 
-## Checkliste zu User Storie 31. Wiki-Einträge zur Installation und Nutzung 
+## Checkliste zu User Story 31. Wiki-Einträge zur Installation und Nutzung 
 - [ ] keine Rechtschreibfehler
 - [x] kein Grammatikfehler
 - [x] Text ist gut strukturiert  
@@ -38,7 +38,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 09.03.20
 
 ---
 
-## Checkliste zu User Storie 32. Wiki-Einträge zur internen Funktionsweise des Programms
+## Checkliste zu User Story 32. Wiki-Einträge zur internen Funktionsweise des Programms
 - [ ] keine Rechtschreibfehler
 - [x] kein Grammatikfehler
 - [x] Text ist gut strukturiert  
@@ -75,7 +75,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 07.03.20
 
 ---
 
-## Checkliste zu User Storie 33. Wiki-Einträge zu den Erweiterungsschnittstellen des Programms
+## Checkliste zu User Story 33. Wiki-Einträge zu den Erweiterungsschnittstellen des Programms
 - [ ] keine Rechtschreibfehler
 - [x] kein Grammatikfehler
 - [x] Text ist gut strukturiert  
@@ -108,7 +108,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 08.03.20
 
 ---
 
-## Checkliste zu User Storie 34. Wiki-Einträge zu der Entfernung dynamischer und semi-dynamischer Objekte
+## Checkliste zu User Story 34. Wiki-Einträge zu der Entfernung dynamischer und semi-dynamischer Objekte
 - [ ] keine Rechtschreibfehler
 - [x] kein Grammatikfehler
 - [x] Text ist gut strukturiert  
@@ -146,7 +146,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 08.03.20
 
 ---
 
-## Checkliste zu User Storie 35. Wiki-Einträge für Code- und Stilrichtlinien
+## Checkliste zu User Story 35. Wiki-Einträge für Code- und Stilrichtlinien
 - [ ] keine Rechtschreibfehler
 - [x] kein Grammatikfehler
 - [x] Text ist gut strukturiert  

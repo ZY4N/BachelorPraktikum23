@@ -20,7 +20,7 @@
 
 ---
 
-## Checkliste 1 zu User Storie 16. Export zu segmentierten Karten Format 
+## Checkliste 1 zu User Story 16. Export zu segmentierten Karten Format 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -130,7 +130,7 @@
 
 ---
 
-## Checkliste 1 zu User Storie 18. Lesen und Schreiben von Metadaten im JSON-Format
+## Checkliste 1 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -247,7 +247,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am:
 
 ---
 
-## Checkliste 2 zu User Storie 16. Export zu segmentierten Karten Format 
+## Checkliste 2 zu User Story 16. Export zu segmentierten Karten Format 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -341,7 +341,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 19.1.202
 
 ---
 
-## Checkliste 2 zu User Storie 17. Sammeln von Metadaten 
+## Checkliste 2 zu User Story 17. Sammeln von Metadaten 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -435,7 +435,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
 
-## Checkliste 2 zu User Storie 18. Lesen und Schreiben von Metadaten im JSON-Format
+## Checkliste 2 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt

@@ -2,7 +2,7 @@
 # Statusmeeting Protokolle Iteration 4
 ---
 
-## Checkliste 1 zu User Storie 8. Entfernen von Nick- und Schwankbewegungen aus Scans
+## Checkliste 1 zu User Story 8. Entfernen von Nick- und Schwankbewegungen aus Scans
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -94,7 +94,7 @@
 
 ---
 
-## Checkliste 1 zu User Storie 9. Integration von Removert in Scan Combiner
+## Checkliste 1 zu User Story 9. Integration von Removert in Scan Combiner
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -204,7 +204,7 @@
 
 ---
 
-## Checkliste 1 zu User Storie 11. Docker integration für Zielsystem 
+## Checkliste 1 zu User Story 11. Docker integration für Zielsystem 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -289,14 +289,14 @@
 - Aktion:
 	- Stichpunkte Ausformulieren
 - Sonstiges: 
-	- kein C++ Code, deshalb mussten die spezifischen C++ Code Abschnitte in der Checkliste überspungen werden (gilt auch für zweites Statusmeeting)
+	- kein C++ Code, deshalb mussten die spezifischen C++ Code Abschnitte in der Checkliste überspungen werden (gilt auch für zweites Statusmeeting, einfach abgehakt)
 	- Sieht bis jetzt gut aus 
 	- Dokumentation ist bisher nur stichpunktartig, aber scheint korrekt
 - Nächstes Meeting am: 06.01.2024 um 14:00 Uhr
 
 ---
 
-## Checkliste 1 zu User Storie 12. Dynamisches Anpassen des Ausgabeformats über CLI
+## Checkliste 1 zu User Story 12. Dynamisches Anpassen des Ausgabeformats über CLI
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -368,7 +368,7 @@
 - [x] Linter ist korrekt am Code angewendet worden
 
 
-## Checkliste 1 zu User Storie 14. Anpassung der Arbeitsspeicherauslastung über CLI
+## Checkliste 1 zu User Story 14. Anpassung der Arbeitsspeicherauslastung über CLI
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -479,7 +479,7 @@
 	- -
 - Sonstiges:
 	- Tests gehen nicht durch
-	- Herausgefunden die benötigten Daten des IMU-Sensors sind fehlerhaft, deshalb User Storie verworfen
+	- Herausgefunden die benötigten Daten des IMU-Sensors sind fehlerhaft, deshalb User Story verworfen
 
 
 Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
@@ -487,7 +487,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am:
 
 ---
 
-## Checkliste 2 zu User Storie 9. Integration von Removert in Scan Combiner
+## Checkliste 2 zu User Story 9. Integration von Removert in Scan Combiner
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -606,7 +606,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am:
 
 ---
 
-## Checkliste 2 zu User Storie 11. Docker integration für Zielsystem 
+## Checkliste 2 zu User Story 11. Docker integration für Zielsystem 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -699,7 +699,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
 
-## Checkliste 2 zu User Storie 12. Dynamisches Anpassen des Ausgabeformats über CLI
+## Checkliste 2 zu User Story 12. Dynamisches Anpassen des Ausgabeformats über CLI
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -771,7 +771,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 - [x] Linter ist korrekt am Code angewendet worden
 
 
-## Checkliste 2 zu User Storie 13. Dynamisches Anpassen der Loggerkonfiguration über CLI
+## Checkliste 2 zu User Story 13. Dynamisches Anpassen der Loggerkonfiguration über CLI
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -843,7 +843,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 - [x] Linter ist korrekt am Code angewendet worden
 
 
-## Checkliste 2 zu User Storie 14. Anpassung der Arbeitsspeicherauslastung über CLI
+## Checkliste 2 zu User Story 14. Anpassung der Arbeitsspeicherauslastung über CLI
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -915,7 +915,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 - [x] Linter ist korrekt am Code angewendet worden
 
 
-## Checkliste 2 zu User Storie 15. Dynamisches Anpassen der maximalen radialen und peripheren Distanzen über CLI
+## Checkliste 2 zu User Story 15. Dynamisches Anpassen der maximalen radialen und peripheren Distanzen über CLI
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
