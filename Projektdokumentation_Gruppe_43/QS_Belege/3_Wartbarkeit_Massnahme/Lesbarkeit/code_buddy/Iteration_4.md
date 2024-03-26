@@ -289,7 +289,7 @@
 - Aktion:
 	- Stichpunkte Ausformulieren
 - Sonstiges: 
-	- kein C++ Code, deshalb mussten die spezifischen C++ Code Abschnitte in der Checkliste überspungen werden (gilt auch für zweites Statusmeeting)
+	- kein C++ Code, deshalb mussten die spezifischen C++ Code Abschnitte in der Checkliste überspungen werden (gilt auch für zweites Statusmeeting, einfach abgehakt)
 	- Sieht bis jetzt gut aus 
 	- Dokumentation ist bisher nur stichpunktartig, aber scheint korrekt
 - Nächstes Meeting am: 06.01.2024 um 14:00 Uhr
