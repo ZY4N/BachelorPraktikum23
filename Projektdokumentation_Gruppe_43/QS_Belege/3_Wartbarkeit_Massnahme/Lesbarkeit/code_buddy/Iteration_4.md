@@ -70,8 +70,9 @@
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 1 zu User Story 8. Entfernen von Nick- und Schwankbewegungen aus Scans
@@ -162,8 +163,9 @@
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 1 zu User Story 9. Integration von Removert in Scan Combiner
@@ -272,8 +274,9 @@
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 1 zu User Story 11. Docker integration für Zielsystem 
@@ -364,8 +367,9 @@
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Checkliste 1 zu User Story 14. Anpassung der Arbeitsspeicherauslastung über CLI
@@ -436,8 +440,9 @@
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 1 zu User Story 12. Dynamisches Anpassen des Ausgabeformats über CLI, 13. Dynamisches Anpassen der Loggerkonfiguration über CLI, 14. Anpassung der Arbeitsspeicherauslastung über CLI und 15. Dynamisches Anpassen der maximalen radialen und peripheren Distanzen über CLI
@@ -555,8 +560,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am:
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 2 zu User Story 9. Integration von Removert in Scan Combiner
@@ -674,8 +680,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am:
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 2 zu User Story 11. Docker integration für Zielsystem 
@@ -767,8 +774,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Checkliste 2 zu User Story 13. Dynamisches Anpassen der Loggerkonfiguration über CLI
@@ -839,8 +847,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Checkliste 2 zu User Story 14. Anpassung der Arbeitsspeicherauslastung über CLI
@@ -911,8 +920,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Checkliste 2 zu User Story 15. Dynamisches Anpassen der maximalen radialen und peripheren Distanzen über CLI
@@ -983,8 +993,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 2 zu User Story 12. Dynamisches Anpassen des Ausgabeformats über CLI, 13. Dynamisches Anpassen der Loggerkonfiguration über CLI, 14. Anpassung der Arbeitsspeicherauslastung über CLI und 15. Dynamisches Anpassen der maximalen radialen und peripheren Distanzen über CLI

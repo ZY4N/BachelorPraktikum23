@@ -69,8 +69,9 @@
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 1 zu User Story 0. Einlese-Option für Rosbag-Dateien
@@ -161,8 +162,9 @@
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 1 zu User Story 1. Distanzfilterung von Punktdaten 
@@ -256,8 +258,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 20.11.20
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Checkliste 1 zu User Story 3. Integration von dynamischem Logging-System 
@@ -328,8 +331,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 20.11.20
 - [ ] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 1 zu User Story 2. Geschwindigkeitsentzerrung und 3. Integration von dynamischem Logging-System
@@ -425,8 +429,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 20.11.20
 - [ ] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 1 zu User Story 4. Integration von 3DTK People Remover in Scan Combiner 
@@ -538,8 +543,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 20.11.20
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 2 zu User Story 0. Einlese-Option für Rosbag-Dateien
@@ -634,8 +640,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am:
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Checkliste 2 zu User Story 3. Integration von dynamischem Logging-System
@@ -706,8 +713,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am:
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 2 zu User Story 2. Geschwindigkeitsentzerrung und 3. Integration von dynamischem Logging-System
@@ -809,8 +817,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am:
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 2 zu User Story 4. Integration von 3DTK People Remover in Scan Combiner 

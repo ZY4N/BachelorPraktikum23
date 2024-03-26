@@ -67,5 +67,5 @@
 - [ ] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [ ] Code Formatter ist korrekt am Code angewendet worden
-- [ ] Linter ist korrekt am Code angewendet worden
+- [ ] clang-format ist korrekt am Code angewendet worden
+- [ ] clang-tidy ist korrekt am Code angewendet worden

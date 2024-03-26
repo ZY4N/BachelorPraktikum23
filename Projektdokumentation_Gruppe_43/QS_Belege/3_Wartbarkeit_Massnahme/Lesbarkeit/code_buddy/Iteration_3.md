@@ -69,8 +69,9 @@
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 1 zu User Story 0. Einlese-Option für Rosbag-Dateien
@@ -161,8 +162,9 @@
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 ## Checkliste 1 zu User Story 6. Verringerung von Aufnahmetransformationen
 ### C API
@@ -232,8 +234,9 @@
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 1 zu User Story 3. Integration von dynamischem Logging-System und 6. Verringerung von Aufnahmetransformationen
@@ -330,8 +333,9 @@
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 1 zu User Story 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
@@ -423,8 +427,9 @@
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 2 zu User Story 6. Verringerung von Aufnahmetransformationen
@@ -519,8 +524,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 2 zu User Story 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
