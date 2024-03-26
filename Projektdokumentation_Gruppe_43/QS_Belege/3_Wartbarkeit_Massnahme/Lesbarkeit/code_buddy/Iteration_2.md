@@ -1,7 +1,7 @@
 # Statusmeeting Protokolle Iteration 2
 ---
 
-## Checkliste 1 zu User Storie 0. Einlese-Option für Rosbag-Dateien
+## Checkliste 1 zu User Story 0. Einlese-Option für Rosbag-Dateien
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -73,7 +73,7 @@
 - [x] Linter ist korrekt am Code angewendet worden
 
 
-## Statusmeeting 1 zu User Storie 0. Einlese-Option für Rosbag-Dateien
+## Statusmeeting 1 zu User Story 0. Einlese-Option für Rosbag-Dateien
 - Datum: 20.11.2023 16:00 Uhr - 17:30 Uhr
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Severin Pelikan
@@ -93,7 +93,7 @@
 
 ---
 
-## Checkliste 1 zu User Storie 1. Distanzfilterung von Punktdaten 
+## Checkliste 1 zu User Story 1. Distanzfilterung von Punktdaten 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -165,7 +165,7 @@
 - [x] Linter ist korrekt am Code angewendet worden
 
 
-## Statusmeeting 1 zu User Storie 1. Distanzfilterung von Punktdaten 
+## Statusmeeting 1 zu User Story 1. Distanzfilterung von Punktdaten 
 - Datum: 20.11.2023 15:30 Uhr - 16:30 Uhr
 - Entwickler\*innen: Greys Fankyeyeva
 - Code Buddy: Simon Riese
@@ -184,11 +184,11 @@
 	- Kein weiteres Statusmeeting notwendig
 
 
-Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am: 20.11.2023
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 20.11.2023
 
 ---
 
-## Checkliste 1 zu User Storie 2. Geschwindigkeitsentzerrung 
+## Checkliste 1 zu User Story 2. Geschwindigkeitsentzerrung 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -260,7 +260,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am: 20.11.2
 - [x] Linter ist korrekt am Code angewendet worden
 
 
-## Checkliste 1 zu User Storie 3. Integration von dynamischem Logging-System 
+## Checkliste 1 zu User Story 3. Integration von dynamischem Logging-System 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -332,7 +332,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am: 20.11.2
 - [x] Linter ist korrekt am Code angewendet worden
 
 
-## Statusmeeting 1 zu User Storie 2. Geschwindigkeitsentzerrung und 3. Integration von dynamischem Logging-System
+## Statusmeeting 1 zu User Story 2. Geschwindigkeitsentzerrung und 3. Integration von dynamischem Logging-System
 - Datum: 21.11.2023 14:00 Uhr - 15:30 Uhr
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Leonhard Steinecke
@@ -357,7 +357,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am: 20.11.2
 
 ---
 
-## Checkliste 1 zu User Storie 4. Integration von 3DTK People Remover in Scan Combiner 
+## Checkliste 1 zu User Story 4. Integration von 3DTK People Remover in Scan Combiner 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -429,7 +429,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am: 20.11.2
 - [x] Linter ist korrekt am Code angewendet worden
 
 
-## Statusmeeting 1 zu User Storie 4. Integration von 3DTK People Remover in Scan Combiner 
+## Statusmeeting 1 zu User Story 4. Integration von 3DTK People Remover in Scan Combiner 
 - Datum: 20.11.2023 18:00 Uhr - 19:15 Uhr
 - Entwickler\*innen: Greys Fankyeyeva, Simon Riese
 - Code Buddy: Alicia Gleichmann
@@ -449,7 +449,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am: 20.11.2
 
 ---
 
-## Statusmeeting 1 zu User Storie 5. Entfernung dynamischer Objekte mittels 3DTK People Remover
+## Statusmeeting 1 zu User Story 5. Entfernung dynamischer Objekte mittels 3DTK People Remover
 - Datum: 21.11.2023 13:30 Uhr - 14:30 Uhr
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Greys Fankyeyeva
@@ -464,13 +464,13 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am: 20.11.2
 - Sonstiges:
 	- Probleme beim Einrichten durch falsche Hardware von Alicia, dann Wechsel
 	- Programm scheint richtig heruntergeladen und auf Gerät eingerichtet
-	- User Storie 4 noch nicht fertig, deshalb noch keine Tests möglich
+	- User Story 4 noch nicht fertig, deshalb noch keine Tests möglich
 - Nächstes Meeting am: 27.11.2023 um 15:30 Uhr
 
 
 ---
 
-## Checkliste 2 zu  User Storie 0. Einlese-Option für Rosbag-Dateien
+## Checkliste 2 zu  User Story 0. Einlese-Option für Rosbag-Dateien
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -542,7 +542,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am: 20.11.2
 - [x] Linter ist korrekt am Code angewendet worden
 
 
-## Statusmeeting 2 zu User Storie 0. Einlese-Option für Rosbag-Dateien
+## Statusmeeting 2 zu User Story 0. Einlese-Option für Rosbag-Dateien
 - Datum: 26.11.2023 15:00 Uhr - 18:30 Uhr
 - Entwickler\*innen:  Leonhard Steinecke
 - Code Buddy: Severin Pelikan
@@ -558,15 +558,15 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am: 20.11.2
 - Sonstiges:
 	- Tests laufen nicht durch
 	- Code durchgeschaut, um potenzielle Ursachen für die nicht durchlaufenden Tests zu finden
-	- User Storie kann nicht abgenommen werden durch die fehlschlagenden Tests und wird mit in die nächste Iteration übernommen.
+	- User Story kann nicht abgenommen werden durch die fehlschlagenden Tests und wird mit in die nächste Iteration übernommen.
 
 
-Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am: 
-- User Storie wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt.
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+- User Story wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt.
 
 ---
 
-## Checkliste 2 zu User Storie 2. Geschwindigkeitsentzerrung 
+## Checkliste 2 zu User Story 2. Geschwindigkeitsentzerrung 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -638,7 +638,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am:
 - [x] Linter ist korrekt am Code angewendet worden
 
 
-## Checkliste 2 zu User Storie 3. Integration von dynamischem Logging-System
+## Checkliste 2 zu User Story 3. Integration von dynamischem Logging-System
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -710,7 +710,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am:
 - [x] Linter ist korrekt am Code angewendet worden
 
 
-## Statusmeeting 2 zu User Storie 2. Geschwindigkeitsentzerrung und 3. Integration von dynamischem Logging-System
+## Statusmeeting 2 zu User Story 2. Geschwindigkeitsentzerrung und 3. Integration von dynamischem Logging-System
 - Datum: 26.11.2024 12:30 Uhr - 14:30 Uhr
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Leonhard Steinecke
@@ -728,20 +728,20 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am:
 		- Alles ausgeben ist fertig (debug level)
 		- Angeben können, ob farbig oder nicht, ist fertig
 		- Andere Level, in denen nur eine spezifische Detailtiefe ausgegeben wird, ist nicht fertig
-		- User Storie 3 kann nicht abgenommen werden, da die unterschiedlichen Log-Level nicht fertig implementiert sind
+		- User Story 3 kann nicht abgenommen werden, da die unterschiedlichen Log-Level nicht fertig implementiert sind
 	- Code für Geschwindigkeitsentzerrung durchgegangen
 		- Typ direkt geändert
 		- Keine Probleme im Code
 		- Tests laufen durch
 
 
-Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am: 
-- User Storie 2: 26.11.2023
-- User Storie 3 wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt. 
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+- User Story 2: 26.11.2023
+- User Story 3 wurde in die nächste Iteration übernommen. Änderungen werden bis zum nächsten Code Buddy Meeting umgesetzt. 
 
 ---
 
-## Checkliste 2 zu User Storie 4. Integration von 3DTK People Remover in Scan Combiner 
+## Checkliste 2 zu User Story 4. Integration von 3DTK People Remover in Scan Combiner 
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -813,7 +813,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am:
 - [x] Linter ist korrekt am Code angewendet worden
 
 
-## Statusmeeting 2 zu User Storie 4. Integration von 3DTK People Remover in Scan Combiner 
+## Statusmeeting 2 zu User Story 4. Integration von 3DTK People Remover in Scan Combiner 
 - Datum: 25.11.2024 12:30 Uhr - 13:00 Uhr
 - Entwickler\*innen: Greys Fankyeyeva, Simon Riese
 - Code Buddy: Alicia Gleichmann
@@ -832,11 +832,11 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am:
 	- Sieht alles gut aus
 
 
-Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am: -
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
 
-## Statusmeeting 2 zu User Storie 5. Entfernung dynamischer Objekte mittels 3DTK People Remover
+## Statusmeeting 2 zu User Story 5. Entfernung dynamischer Objekte mittels 3DTK People Remover
 - Datum: 27.11.2023 15:30 Uhr - 18:00 Uhr
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Greys Fankyeyeva
@@ -855,6 +855,6 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am: -
 	- Verschiedene Kombinationen der Variablen noch mal jetzt ausprobiert, selbes Ergebnis
 	- Wird verworfen, da keine brauchbaren Resultate
 
-Umsetzung der besprochenen Änderungen vor Abschluss der User Storie am: 
-- kein Abschluss der User Storie und keine Änderungen, da die User Storie nicht übernommen wird.
+Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 
+- kein Abschluss der User Story und keine Änderungen, da die User Story nicht übernommen wird.
 

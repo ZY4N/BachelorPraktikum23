@@ -52,3 +52,9 @@ geplante Userstories Iteration 8:
 33. Wiki-Einträge zu den Erweiterungsschnittstellen des Programms
 34. Wiki-Einträge zu der Entfernung dynamischer und semi-dynamischer Objekte
 35. Wiki-Einträge für Code- und Stilrichtlinien
+
+
+
+Code Formatter -> clang Format Datei einpasten
+Linter -> ?
+

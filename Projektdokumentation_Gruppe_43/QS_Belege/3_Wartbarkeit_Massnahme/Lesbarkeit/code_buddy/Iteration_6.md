@@ -24,7 +24,7 @@
 
 ---
 
-## Checkliste 1 zu User Storie 18. Lesen und Schreiben von Metadaten im JSON-Format
+## Checkliste 1 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -115,7 +115,7 @@
 
 ---
 
-## Checkliste 1 zu User Storie 19. Ausarbeitung von Grundkonzepten zur Enfernung semi-dynamischer Objekte 
+## Checkliste 1 zu User Story 19. Ausarbeitung von Grundkonzepten zur Enfernung semi-dynamischer Objekte 
 - [x] keine Rechtschreibfehler
 - [x] kein Grammatikfehler
 - [x] Text ist gut strukturiert  
@@ -149,7 +149,7 @@
 
 ---
 
-## Checkliste 1 zu User Storie 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI
+## Checkliste 1 zu User Story 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -241,7 +241,7 @@
 
 ---
 
-## Checkliste 2 zu User Storie 18. Lesen und Schreiben von Metadaten im JSON-Format
+## Checkliste 2 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -336,7 +336,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ---
 
-## Checkliste 2 zu User Storie 19. Ausarbeitung von Grundkonzepten zur Enfernung semi-dynamischer Objekte 
+## Checkliste 2 zu User Story 19. Ausarbeitung von Grundkonzepten zur Enfernung semi-dynamischer Objekte 
 - [x] keine Rechtschreibfehler
 - [x] kein Grammatikfehler
 - [x] Text ist gut strukturiert  
@@ -372,7 +372,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 ---
 
 
-## Checkliste 1 zu User Storie 20. Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI
+## Checkliste 1 zu User Story 20. Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -444,7 +444,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 - [x] Linter ist korrekt am Code angewendet worden
 
 
-## Checkliste 1 zu User Storie 21. Dynamisches Anpassen der Zellengröße über CLI
+## Checkliste 1 zu User Story 21. Dynamisches Anpassen der Zellengröße über CLI
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt
@@ -516,7 +516,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 - [x] Linter ist korrekt am Code angewendet worden
 
 
-## Checkliste 2 zu User Storie 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI
+## Checkliste 2 zu User Story 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI
 ### C API
 - [x] Keine manuelle Heapallokation benutzt
 - [x] Keine C-Arrays, sondern C++-Arrays zur Stack Allokation benutzt

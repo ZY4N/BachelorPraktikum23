@@ -1,10 +1,10 @@
-> Zu diesem Zeitpunkt ist die CI/CD-Pipeline von unserem Arbeitgeber noch nicht für das   Repository des Dynamic-Railmap-Projekts freigeschaltet worden, weswegen die Tests (falls schon vorhanden) manuell direkt vor dem pushen durchgeführt werden.
+> Zu diesem Zeitpunkt ist die CI/CD-Pipeline von unserem Arbeitgeber noch nicht für das Repository des Dynamic-Railmap-Projekts freigeschaltet worden, weswegen die Tests (falls schon vorhanden) manuell direkt vor dem pushen durchgeführt werden.
 
 # Testdurchläufe:
 
 ## Einlese-Option für Rosbag-Dateien (ID: 0)
 #### Push am 03.12.2023 um 21:14 Uhr
-#TODO Screenshots von Clion mit relevanten Tests
+![](unbagger_2.png)
 - Durchgeführt von: Leonhard Steinecke
 - Ergebnis: Erfolgreich
 - Konsequenzen: QS-Maßnahme gilt als bestanden.
@@ -12,7 +12,7 @@
 ---
 ## Integration von dynamischem Logging-System (ID: 3)
 #### Push am 07.12.2023 um 22:50 Uhr
-#TODO Screenshots von Clion mit relevanten Tests
+![](logger.png)
 - Durchgeführt von: Severin Pelikan
 - Ergebnis: Erfolgreich
 - Konsequenzen: QS-Maßnahme gilt als bestanden.
@@ -22,7 +22,7 @@
 #### Push am 08.12.2023 um 13:10 Uhr
 Enthält noch keine Tests
 #### Push am 15.12.2023 um 12:35 Uhr
-#TODO Screenshots von Clion mit relevanten Tests
+![](reframer_1.png)
 - Durchgeführt von: Severin Pelikan
 - Ergebnis: Erfolgreich
 - Konsequenzen: QS-Maßnahme gilt als bestanden.
@@ -34,12 +34,12 @@ Enthält noch keine Tests
 #### Push am 09.12.2023 um 10:11 Uhr
 Enthält noch keine Tests
 #### Push am 15.12.2023 um 21:55 Uhr
-#TODO Screenshots von Clion mit relevanten Tests
+![](arx_1.png)
 - Durchgeführt von: Alicia Gleichmann
 - Ergebnis: Erfolgreich
 - Konsequenzen: QS-Maßnahme gilt als bestanden.
 #### Push am 16.12.2023 Uhr um 13:29 Uhr
-#TODO Screenshots von Clion mit relevanten Tests
+![](arx_2.png)
 - Durchgeführt von: Alicia Gleichmann
 - Ergebnis: Erfolgreich
 - Konsequenzen: QS-Maßnahme gilt als bestanden.
