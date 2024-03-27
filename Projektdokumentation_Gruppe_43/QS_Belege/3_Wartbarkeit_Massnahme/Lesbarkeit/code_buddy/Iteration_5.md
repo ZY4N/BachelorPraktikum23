@@ -88,8 +88,9 @@
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 1 zu User Story 16. Export zu segmentierten Karten Format 
@@ -198,8 +199,9 @@
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 1 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
@@ -315,8 +317,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am:
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 2 zu User Story 16. Export zu segmentierten Karten Format 
@@ -409,8 +412,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 19.1.202
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 2 zu User Story 17. Sammeln von Metadaten 
@@ -503,8 +507,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 2 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format

@@ -92,8 +92,9 @@
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 1 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
@@ -217,8 +218,9 @@
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 1 zu User Story 20. Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI, 21. Dynamisches Anpassen der Zellengröße über CLI und 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI
@@ -309,8 +311,9 @@
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 2 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
@@ -440,8 +443,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Checkliste 1 zu User Story 21. Dynamisches Anpassen der Zellengröße über CLI
@@ -512,8 +516,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Checkliste 2 zu User Story 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI
@@ -584,8 +589,9 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 - [x] Am Ende jeder Datei ist eine Leerzeile
 
 ### Code Formatter und Linter
-- [x] Code Formatter ist korrekt am Code angewendet worden
-- [x] Linter ist korrekt am Code angewendet worden
+- [x] clang-format ist korrekt am Code angewendet worden
+
+- [x] clang-tidy ist korrekt in die IDE integriert und wirft keine Errors
 
 
 ## Statusmeeting 2 zu User Story 20. Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI, 21. Dynamisches Anpassen der Zellengröße über CLI und 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI
