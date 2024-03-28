@@ -1,0 +1,6 @@
+Using CPUID GenuineIntel-6-A5-2
+Control descriptor is not initialized
+Error:
+No permission to enable CPU_CLK_UNHALTED.THREAD event.
+
+
