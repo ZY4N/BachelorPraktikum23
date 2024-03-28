@@ -1,0 +1,6 @@
+[submodule "scan_reframer/libraries/eigen"]
+	path = scan_reframer/libraries/eigen
+	url = https://github.com/libigl/eigen
+[submodule "scan_reframer/libraries/span"]
+	path = scan_reframer/libraries/span
+	url = https://github.com/tcbrindle/span

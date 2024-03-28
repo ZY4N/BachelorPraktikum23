@@ -1,0 +1,6 @@
+[submodule "scan_combiner/libraries/span"]
+	path = scan_combiner/libraries/span
+	url = https://github.com/tcbrindle/span
+[submodule "scan_combiner/libraries/rapidjson"]
+	path = scan_combiner/libraries/rapidjson
+	url = https://github.com/Tencent/rapidjson.git
