@@ -102,6 +102,9 @@ Code Buddy: Greys Fankyeyeva
 * Probleme, die im Code Review gefunden wurden: 
     - Es wurden keine Probleme im Code Review gefunden.
 
+## Code Review Checklist - User Story: 11 - Docker Integration für Zielsystem
+In dieser User Story wurde kein Code geschrieben und entsprechend wurden kein Code Review druchgeführt.
+
 ## Code Review Checklist - User Story: 12,13,14,15 - Erweiterung der CLI Parameter
 Datum: 08.01.2024
 Entwickler*innen: Alicia Gleichmann

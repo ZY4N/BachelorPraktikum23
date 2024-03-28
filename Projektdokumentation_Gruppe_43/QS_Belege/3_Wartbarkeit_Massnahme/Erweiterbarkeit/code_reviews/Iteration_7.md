@@ -104,6 +104,9 @@ Code Buddy: Greys Fankyeyeva
 * Probleme, die im Code Review gefunden wurden: 
     - Bei einer geringen Thread-Zahl wurden für einen Programmteil keine Threads zugewiesen. 
     - Konsequenz: Es wurde eine minimal Anzahl an Threads pro Programmteil gesetzt.
+    - 
+## Code Review Checklist - User Story: 27 - Erstellung von Testdatensätzen 
+In dieser User Story wurde kein Code geschrieben und entsprechend wurden kein Code Review druchgeführt.
 
 ## Code Review Checklist - User Story: 28,29,30 - Erweiterung der CLI-Parameter 
 Datum: 20.02.2024

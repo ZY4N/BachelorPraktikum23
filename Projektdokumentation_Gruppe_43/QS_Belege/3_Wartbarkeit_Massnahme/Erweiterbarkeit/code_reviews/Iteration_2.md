@@ -158,3 +158,6 @@ Code Buddy: Alicia Gleichmann
 * Probleme, die im Code Review gefunden wurden:
     - Die Umrechnung von Eulerschen Winkeln in Grad wurde nicht korrekt implementiert.
     - Konsequenz: Die Berechnung wurde korrigiert, getestet und dann akzeptiert.
+
+## Code Review Checklist - User Story: 5 - Entfernung dynamischer Objekte mittels 3DTK People Remover
+In dieser User Story wurde kein Code geschrieben und entsprechend wurden kein Code Review druchgeführt.

@@ -1,5 +1,8 @@
 # Code Reviews Iteration 6:
 
+## Code Review Checklist - User Story: 10 - Entfernung dynamischer Objekte mittels Removert 
+In dieser User Story wurde kein Code geschrieben und entsprechend wurden kein Code Review druchgeführt.
+
 ## Code Review Checklist - User Story: 18 - Lesen und Schreiben von Metadaten im JSON-Format
 Datum: 05.02.2024
 Entwickler*innen: Simon Riese
@@ -50,6 +53,8 @@ Code Buddy: Leonhard Steinecke
 * Probleme, die im Code Review gefunden wurden: 
     - Es wurden keine Probleme im Code Review gefunden.
 
+## Code Review Checklist - User Story: 19 - Ausarbeitung von Grundkonzepten zur Enfernung semi-dynamischer Objekte
+In dieser User Story wurde kein Code geschrieben und entsprechend wurden kein Code Review druchgeführt.
 
 ## Code Review Checklist - User Story: 20,21,22 - Erweiterung der CLI Parameter
 Datum: 05.02.2024
