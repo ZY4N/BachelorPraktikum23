@@ -25,7 +25,7 @@
 
 ## Lesbarkeit und Verständlichkeit:
 - [ ] Sind alle Identifier für Funktionen, Variablen und Typen aussagekräftig?
-- [ ] Haben alle "öffentlichen” Funktionen eine ausführliche und korrekte Dokumentation?
+- [ ] Haben alle Komponenten eine ausführliche und korrekte Dokumentation?
 - [ ] Sind die Kommentare und Dokumentation einheitlich mit dem Code (Namen etc.)?
 - [ ] Wurde notwendig komplexer Code oder nicht offensichtliche Entscheidungen ausreichend kommentiert?
 

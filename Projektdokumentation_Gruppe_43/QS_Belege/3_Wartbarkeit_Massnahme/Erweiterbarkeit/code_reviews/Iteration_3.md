@@ -1,7 +1,47 @@
-## User Story: 0 - Einlese-Option für Rosbag-Dateien 
+# Code Reviews Iteration 3:
+
+## Code Review Checklist - User Story: 0 - Einlese-Option für Rosbag-Dateien 
 Datum: 16.12.2023
 Entwickler*innen: Leonhard Steinecke
 Code Buddy: Severin Pelikan
+### Struktur:
+  - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
+  - [x] Wurden die Entscheidungen des Design Meetings eingehalten?
+  - [x] Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
+  - [x] Wurden Code- und Style Richtlinien eingehalten?
+  - [x] Wurden Linter und Code Formatter für alle veränderten Dateien angewendet?
+  - [x] Werden alle Code- und Testabschnitte benutzt und kompiliert?
+  - [x] Wurde Code, wenn sinnvoll, durch externe wiederverwendbare Komponenten oder Funktionen aus Bibliotheken ersetzt?
+  - [x] Wurde sich wiederholende Code, wenn sinnvoll, in Hilfsfunktionen ausgelagert?
+  - [x] Wurden „magic numbers“ vermieden?
+  - [x] Gibt es keine Codeabschnitte, die unnötig komplex sind?
+  - [x] Werden Typen korrekt gecastet und sind keine redundanten Variablen vorhanden?
+  - [x] Werden Dateien bevor auf diese zugegriffen auf Gültigkeit überprüft?
+  - [x] Werden alle Fehler durch Error Codes kommuniziert und behandelt?
+
+### Logik:
+- [x] Gibt es offensichtliche Logikfehler?
+- [x] Wurden alle Randfälle abgedeckt?
+- [x] Wurden alle Schleifen korrekt konstruiert, iterieren diese nur über die notwendigen Elemente und terminieren diese?
+- [x] Kann Code, wenn möglich außerhalb von Schleifen ausgeführt?
+- [x] Wurden alle Logikverzweigungen inhaltlich korrekt erstellt?
+- [x] Wurden, wenn möglich, die Anweisungen außerhalb der Schleife platziert?
+
+### Lesbarkeit und Verständlichkeit:
+- [ ] Sind alle Identifier für Funktionen, Variablen und Typen aussagekräftig?
+- [x] Haben alle Komponenten eine ausführliche und korrekte Dokumentation?
+- [x] Sind die Kommentare und Dokumentation einheitlich mit dem Code (Namen etc.)?
+- [x] Wurde notwendig komplexer Code oder nicht offensichtliche Entscheidungen ausreichend kommentiert?
+
+### Leistung und Ressourcenverwendung:
+- [x] Wurden die festgelegten Algorithmen und Datenstrukturen korrekt implementiert?
+- [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
+- [x] Lastet die Implementation die Hardware effektiv aus?
+
+### Testabdeckung
+- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
+- [x] Wurden alle Randfälle getestet?
+- [x] Kompiliert das Programm in der Pipeline?
 #### Ergebnis des Reviews:
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - Es wurde auf Erweiterbarkeit geachtet indem alle Topics eine eigene Funktion habe, so können weitere Topics konfliktlos hinzugefügt werden (`extract_topic_1`, `extract_topic_2`, ...).
@@ -15,10 +55,48 @@ Code Buddy: Severin Pelikan
     - Konsequenz: Umbenennen auf `extract_velocities` und `extract_transforms`.
     - Die Parallelisierung dieses Systems verlangt zusätzlichen Aufwand und sollte in einer separaten US umgesetzt werden.
 
-## User Story:  3 - Integration von dynamischem Logging-System
+## Code Review Checklist - User Story:  3 - Integration von dynamischem Logging-System
 Datum: 16.12.2023
 Entwickler*innen: Severin Pelikan
 Code Buddy: Leonhard Steinecke
+### Struktur:
+  - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
+  - [x] Wurden die Entscheidungen des Design Meetings eingehalten?
+  - [x] Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
+  - [x] Wurden Code- und Style Richtlinien eingehalten?
+  - [x] Wurden Linter und Code Formatter für alle veränderten Dateien angewendet?
+  - [x] Werden alle Code- und Testabschnitte benutzt und kompiliert?
+  - [x] Wurde Code, wenn sinnvoll, durch externe wiederverwendbare Komponenten oder Funktionen aus Bibliotheken ersetzt?
+  - [x] Wurde sich wiederholende Code, wenn sinnvoll, in Hilfsfunktionen ausgelagert?
+  - [x] Wurden „magic numbers“ vermieden?
+  - [x] Gibt es keine Codeabschnitte, die unnötig komplex sind?
+  - [x] Werden Typen korrekt gecastet und sind keine redundanten Variablen vorhanden?
+  - [x] Werden Dateien bevor auf diese zugegriffen auf Gültigkeit überprüft?
+  - [x] Werden alle Fehler durch Error Codes kommuniziert und behandelt?
+
+### Logik:
+- [x] Gibt es offensichtliche Logikfehler?
+- [x] Wurden alle Randfälle abgedeckt?
+- [x] Wurden alle Schleifen korrekt konstruiert, iterieren diese nur über die notwendigen Elemente und terminieren diese?
+- [x] Kann Code, wenn möglich außerhalb von Schleifen ausgeführt?
+- [x] Wurden alle Logikverzweigungen inhaltlich korrekt erstellt?
+- [x] Wurden, wenn möglich, die Anweisungen außerhalb der Schleife platziert?
+
+### Lesbarkeit und Verständlichkeit:
+- [x] Sind alle Identifier für Funktionen, Variablen und Typen aussagekräftig?
+- [ ] Haben alle Komponenten eine ausführliche und korrekte Dokumentation?
+- [x] Sind die Kommentare und Dokumentation einheitlich mit dem Code (Namen etc.)?
+- [x] Wurde notwendig komplexer Code oder nicht offensichtliche Entscheidungen ausreichend kommentiert?
+
+### Leistung und Ressourcenverwendung:
+- [x] Wurden die festgelegten Algorithmen und Datenstrukturen korrekt implementiert?
+- [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
+- [x] Lastet die Implementation die Hardware effektiv aus?
+
+### Testabdeckung
+- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
+- [x] Wurden alle Randfälle getestet?
+- [x] Kompiliert das Programm in der Pipeline?
 #### Ergebnis des Reviews:
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - Die Erweiterungsmöglichkeit der  für weitere Log-Level und die untetrschtützung weiter Datentypformatierungen wurde korrekt mit Structs und Templates umgesetzt.
@@ -30,10 +108,48 @@ Code Buddy: Leonhard Steinecke
     - Es wurde die Struktur der Config nicht ausreichend dokumentiert.
     - Konsequenz: Die Dokumentation mit der Beschreibung der Bestandteilen der Config-Struct wurde erweitert.
 
-## User Story:  6 - Verringerung von Aufnahmetransformationen
+## Code Review Checklist - User Story:  6 - Verringerung von Aufnahmetransformationen
 Datum: 16.12.2023
 Entwickler*innen: Severin Pelikan
 Code Buddy: Leonhard Steinecke
+### Struktur:
+  - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
+  - [x] Wurden die Entscheidungen des Design Meetings eingehalten?
+  - [x] Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
+  - [x] Wurden Code- und Style Richtlinien eingehalten?
+  - [x] Wurden Linter und Code Formatter für alle veränderten Dateien angewendet?
+  - [x] Werden alle Code- und Testabschnitte benutzt und kompiliert?
+  - [x] Wurde Code, wenn sinnvoll, durch externe wiederverwendbare Komponenten oder Funktionen aus Bibliotheken ersetzt?
+  - [x] Wurde sich wiederholende Code, wenn sinnvoll, in Hilfsfunktionen ausgelagert?
+  - [x] Wurden „magic numbers“ vermieden?
+  - [x] Gibt es keine Codeabschnitte, die unnötig komplex sind?
+  - [x] Werden Typen korrekt gecastet und sind keine redundanten Variablen vorhanden?
+  - [x] Werden Dateien bevor auf diese zugegriffen auf Gültigkeit überprüft?
+  - [x] Werden alle Fehler durch Error Codes kommuniziert und behandelt?
+
+### Logik:
+- [x] Gibt es offensichtliche Logikfehler?
+- [x] Wurden alle Randfälle abgedeckt?
+- [x] Wurden alle Schleifen korrekt konstruiert, iterieren diese nur über die notwendigen Elemente und terminieren diese?
+- [x] Kann Code, wenn möglich außerhalb von Schleifen ausgeführt?
+- [x] Wurden alle Logikverzweigungen inhaltlich korrekt erstellt?
+- [x] Wurden, wenn möglich, die Anweisungen außerhalb der Schleife platziert?
+
+### Lesbarkeit und Verständlichkeit:
+- [x] Sind alle Identifier für Funktionen, Variablen und Typen aussagekräftig?
+- [x] Haben alle Komponenten eine ausführliche und korrekte Dokumentation?
+- [x] Sind die Kommentare und Dokumentation einheitlich mit dem Code (Namen etc.)?
+- [x] Wurde notwendig komplexer Code oder nicht offensichtliche Entscheidungen ausreichend kommentiert?
+
+### Leistung und Ressourcenverwendung:
+- [x] Wurden die festgelegten Algorithmen und Datenstrukturen korrekt implementiert?
+- [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
+- [x] Lastet die Implementation die Hardware effektiv aus?
+
+### Testabdeckung
+- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
+- [x] Wurden alle Randfälle getestet?
+- [x] Kompiliert das Programm in der Pipeline?
 #### Ergebnis des Reviews: 
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - N/A
@@ -43,10 +159,48 @@ Code Buddy: Leonhard Steinecke
 * Probleme, die im Code Review gefunden wurden: 
     - Es wurden keine Probleme im Code Review gefunden.
 
-## User Story:  7 - Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI 
+## Code Review Checklist - User Story:  7 - Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI 
 Datum: 16.12.2023
 Entwickler*innen: Alicia Gleichmann, Severin Pelikan
 Code Buddy: Simon Riese
+### Struktur:
+  - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
+  - [x] Wurden die Entscheidungen des Design Meetings eingehalten?
+  - [x] Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
+  - [x] Wurden Code- und Style Richtlinien eingehalten?
+  - [x] Wurden Linter und Code Formatter für alle veränderten Dateien angewendet?
+  - [x] Werden alle Code- und Testabschnitte benutzt und kompiliert?
+  - [x] Wurde Code, wenn sinnvoll, durch externe wiederverwendbare Komponenten oder Funktionen aus Bibliotheken ersetzt?
+  - [x] Wurde sich wiederholende Code, wenn sinnvoll, in Hilfsfunktionen ausgelagert?
+  - [x] Wurden „magic numbers“ vermieden?
+  - [x] Gibt es keine Codeabschnitte, die unnötig komplex sind?
+  - [x] Werden Typen korrekt gecastet und sind keine redundanten Variablen vorhanden?
+  - [x] Werden Dateien bevor auf diese zugegriffen auf Gültigkeit überprüft?
+  - [x] Werden alle Fehler durch Error Codes kommuniziert und behandelt?
+
+### Logik:
+- [x] Gibt es offensichtliche Logikfehler?
+- [x] Wurden alle Randfälle abgedeckt?
+- [x] Wurden alle Schleifen korrekt konstruiert, iterieren diese nur über die notwendigen Elemente und terminieren diese?
+- [x] Kann Code, wenn möglich außerhalb von Schleifen ausgeführt?
+- [x] Wurden alle Logikverzweigungen inhaltlich korrekt erstellt?
+- [x] Wurden, wenn möglich, die Anweisungen außerhalb der Schleife platziert?
+
+### Lesbarkeit und Verständlichkeit:
+- [x] Sind alle Identifier für Funktionen, Variablen und Typen aussagekräftig?
+- [x] Haben alle Komponenten eine ausführliche und korrekte Dokumentation?
+- [x] Sind die Kommentare und Dokumentation einheitlich mit dem Code (Namen etc.)?
+- [x] Wurde notwendig komplexer Code oder nicht offensichtliche Entscheidungen ausreichend kommentiert?
+
+### Leistung und Ressourcenverwendung:
+- [x] Wurden die festgelegten Algorithmen und Datenstrukturen korrekt implementiert?
+- [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
+- [x] Lastet die Implementation die Hardware effektiv aus?
+
+### Testabdeckung
+- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
+- [x] Wurden alle Randfälle getestet?
+- [x] Kompiliert das Programm in der Pipeline?
 #### Ergebnis des Reviews: 
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - Es wurde das "arx-System" implementiert, über das einfach neue CLI Parameter hinzugefügt werden können. Für Parameter kann ein Default-Wert und Optionalität festgelegt werden. Außerdem können im System Parser für bisher nicht unterstütze Datentypen hinzugefügt werden. So können die CLI Parameter einfach erweitert werden.
