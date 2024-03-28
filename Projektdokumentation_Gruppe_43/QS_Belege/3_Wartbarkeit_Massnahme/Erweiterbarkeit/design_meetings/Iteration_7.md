@@ -7,7 +7,8 @@ Dies wird mit einem eigenem Konverter umgesetzt.
 #### Erweiterbarkeit
 Es ist die Erweiterung um andere PCD-Varianten vorgesehen. Da für das Schreiben die Library „PCL“ genutzt wird die diese Optionen bietet, wird dies umgesetzt.
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
-- TODO Ich habe gar keine Ahnung :(
+- Die Implementation der Ausgabefunktion soll mittels Templates umgesetzt werden. um den Overhead von (virtuellen) Function-Calls zu vermeiden.
+
 
 ## User Story(s): 24 - Programm parallelisieren
 #### Funktionalitäten
@@ -33,7 +34,7 @@ Diese Module können dann über eine Parsefunktion ausgewählt und ausgeführt w
 #### Erweiterbarkeit
 Auf Erweiterbarkeit wird über Nutzung und Erstellung eben dieser Schnittstelle geachtet.
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
-- Ich habe gar keine Ahnung :(
+- Die Implementation der Parsefunktion der Schnittstelle soll mittels Templates umgesetzt werden. um den Overhead von (virtuellen) Function-Calls zu vermeiden.
 
 ## User Story(s):  26 - Erweiterung der Metadaten um Sensortypen und Rosbag-Topic
 #### Funktionalitäten

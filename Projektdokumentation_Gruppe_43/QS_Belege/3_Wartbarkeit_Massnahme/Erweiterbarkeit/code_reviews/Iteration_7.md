@@ -46,7 +46,7 @@ Code Buddy: Alicia Gleichmann
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - Es wurde die Bibliothek "PCL" genutzt, um das Schreiben zu implementieren. Somit kann der Konverter um andere PCD-Varianten erweitert werden. 
 * Wurden die Maßnahmen für Leistung und Ressourcenverwendung korrekt umgesetzt?
-    - TODO
+    - Die Ausgabefunktion wurde mit einem Template geinlinet.
 * Probleme, die im Code Review gefunden wurden: 
     - Es wurde nicht überprüft, ob Dateien im Eingabepfad liegen. Dies wurde im Review behoben und dann akzeptiert.
 
@@ -151,7 +151,7 @@ Code Buddy: Greys Fankyeyeva
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - Durch die Erstellung dieser Schnittstelle für Parser von LiDAR-Sensoren kann man nun das Programm einfach um weitere LiDAR-Sensoren erweitern.
 * Wurden die Maßnahmen für Leistung und Ressourcenverwendung korrekt umgesetzt?
-    - TODO
+    - Die "Parse Schnittstelle" wird mit einem Template geinlinet.
 * Probleme, die im Code Review gefunden wurden: 
     - Es wurden keine Probleme im Code Review gefunden.
 
