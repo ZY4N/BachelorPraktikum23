@@ -1,8 +1,8 @@
 # Code Reviews Iteration 4:
 
 ## Code Review Checklist - User Story:  8 - Entfernen von Nick- und Schwankbewegungen aus Scans 
-Datum: 08.01.2024
-Entwickler*innen: Severin Pelikan
+Datum: 08.01.2024</br>
+Entwickler*innen: Severin Pelikan</br>
 Code Buddy: Leonhard Steinecke
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
@@ -52,8 +52,8 @@ Code Buddy: Leonhard Steinecke
     - Beim Testen ist aufgefallen, dass die bereitgestellten IMU-Sensordaten fehlerhaft sind, darum wurde die User Story nicht ins entgültige System übernommen. 
   
 ## Code Review Checklist - User Story:  9 - Integration von Removert in Scan Combiner 
-Datum: 08.01.2024
-Entwickler*innen: Simon Riese
+Datum: 08.01.2024</br>
+Entwickler*innen: Simon Riese</br>
 Code Buddy: Greys Fankyeyeva
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
@@ -106,8 +106,8 @@ Code Buddy: Greys Fankyeyeva
 In dieser User Story wurde kein Code geschrieben und entsprechend wurden kein Code Review druchgeführt.
 
 ## Code Review Checklist - User Story: 12,13,14,15 - Erweiterung der CLI Parameter
-Datum: 08.01.2024
-Entwickler*innen: Alicia Gleichmann
+Datum: 08.01.2024</br>
+Entwickler*innen: Alicia Gleichmann</br>
 Code Buddy: Severin Pelikan
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?

@@ -1,8 +1,8 @@
 # Code Reviews Iteration 3:
 
 ## Code Review Checklist - User Story: 0 - Einlese-Option für Rosbag-Dateien 
-Datum: 16.12.2023
-Entwickler*innen: Leonhard Steinecke
+Datum: 16.12.2023</br>
+Entwickler*innen: Leonhard Steinecke</br>
 Code Buddy: Severin Pelikan
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
@@ -56,8 +56,8 @@ Code Buddy: Severin Pelikan
     - Die Parallelisierung dieses Systems verlangt zusätzlichen Aufwand und sollte in einer separaten US umgesetzt werden.
 
 ## Code Review Checklist - User Story:  3 - Integration von dynamischem Logging-System
-Datum: 16.12.2023
-Entwickler*innen: Severin Pelikan
+Datum: 16.12.2023</br>
+Entwickler*innen: Severin Pelikan</br>
 Code Buddy: Leonhard Steinecke
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
@@ -109,8 +109,8 @@ Code Buddy: Leonhard Steinecke
     - Konsequenz: Die Dokumentation mit der Beschreibung der Bestandteilen der Config-Struct wurde erweitert.
 
 ## Code Review Checklist - User Story:  6 - Verringerung von Aufnahmetransformationen
-Datum: 16.12.2023
-Entwickler*innen: Severin Pelikan
+Datum: 16.12.2023</br>
+Entwickler*innen: Severin Pelikan</br>
 Code Buddy: Leonhard Steinecke
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
@@ -160,8 +160,8 @@ Code Buddy: Leonhard Steinecke
     - Es wurden keine Probleme im Code Review gefunden.
 
 ## Code Review Checklist - User Story:  7 - Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI 
-Datum: 16.12.2023
-Entwickler*innen: Alicia Gleichmann, Severin Pelikan
+Datum: 16.12.2023</br>
+Entwickler*innen: Alicia Gleichmann, Severin Pelikan</br>
 Code Buddy: Simon Riese
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?

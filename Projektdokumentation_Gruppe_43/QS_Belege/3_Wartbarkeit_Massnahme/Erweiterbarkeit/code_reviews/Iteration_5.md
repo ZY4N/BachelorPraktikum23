@@ -1,8 +1,8 @@
 # Code Reviews Iteration 5:
 
 ## Code Review Checklist - User Story: 16 - Export zu segmentierten Kartenformat
-Datum: 21.01.2024
-Entwickler*innen: Severin Pelikan, Alicia Gleichmann
+Datum: 21.01.2024</br>
+Entwickler*innen: Severin Pelikan, Alicia Gleichmann</br>
 Code Buddy: Greys Fankyeyeva
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
@@ -58,8 +58,8 @@ Code Buddy: Greys Fankyeyeva
 
 
 ## Code Review Checklist - User Story: 17 - Sammeln von Metadaten
-Datum: 21.01.2024
-Entwickler*innen: Leonhard Steinecke
+Datum: 21.01.2024</br>
+Entwickler*innen: Leonhard Steinecke</br>
 Code Buddy: Simon Riese
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
@@ -103,6 +103,6 @@ Code Buddy: Simon Riese
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - Es wurde eine übersichtliche Struktur im Struct genutzt, daher ist es einfach weitere Felder hinzuzufügen. 
 * Wurden die Maßnahmen für Leistung und Ressourcenverwendung korrekt umgesetzt?
-    - Die Eintragefunktion wurde umgesetzt und erlaubt nur einzigartige Einträge.
+    - Die Eintragefunktionen wurde umgesetzt und diese erlauben nur einzigartige Einträge.
 * Probleme, die im Code Review gefunden wurden: 
     - Es wurden keine Probleme im Code Review gefunden.
