@@ -1,4 +1,4 @@
-Da in dieser Iteration keine Änderungen mehr am Code vorgenommen wurden, wurde der Manuelle Test nicht durchgeführt.
+Da in dieser Iteration keine Änderungen mehr am Code vorgenommen wurden, wurden die Manuellen Tests nicht durchgeführt.
 
 
 
