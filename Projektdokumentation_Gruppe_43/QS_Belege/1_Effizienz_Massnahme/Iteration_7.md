@@ -17,26 +17,18 @@ measure_exec "./scan_combiner ${ROSBAGS} -o /tmp/map_data --max-radial-dist 30 -
 
 ### Messwerte
 
-Zusammengeführte Ergebnisse mit Server Einstellungen:
+Relevante GNU Time Ergebnisse mit Server Einstellungen:
 ```go
 Elapsed (wall clock) time (m:ss):   2:12.75
 Maximum resident set size (kbytes): 28439196
 Percent of CPU this job got:        3239% / 4800%
-instructions per cycle:             0,59
-branch-misses:                      1,14%of all branches
-L1-dcache-load-misses:              3,03% of all L1-dcache accesses
-LLC-load-misses:                    33,36% of all LL-cache accesses
 ```
 
-Zusammengeführte Ergebnisse mit Desktop Einstellungen:
+Relevante GNU Time Ergebnisse mit Desktop Einstellungen:
 ```go
 Elapsed (wall clock) time (m:ss):   2:17.90
 Maximum resident set size (kbytes): 6581048
 Percent of CPU this job got:        1178% / 1200%
-instructions per cycle:             1,30
-branch-misses:                      1,83% of all branches
-L1-dcache-load-misses:              4,55% of all L1-dcache accesses
-LLC-load-misses:                    24,07% of all LL-cache accesses
 ```
 
 Server Cycle-Distribution:
@@ -53,7 +45,7 @@ Desktop Cycle-Distribution:
 		Ja, da `26,49 GiB` < `50 GiB`.
 - Desktop Limits
 	- [x] Werden die Daten innerhalb der maximalen Laufzeit verarbeitet?
-		Ja, da `2.30 min` < `133,758 min`.
+		Ja, da `2.30 min` < `267,516 min`.
 	- [x] Bleibt die Speicherauslastung unter dem festgelegten Limit?
 		Ja, da `6,13 GiB` < `10 GiB`.
 - Performanz Analyse
@@ -165,10 +157,10 @@ Desktop Cycle-Distribution:
 		Ja, da `6,07 GiB` < `10 GiB`.
 - Performanz Analyse
 	- Wie erwartet führte die Behebung des Programmierfehlers zu einer Laufzeitverringerung für die Desktop-Konfiguration und keine für die Server-Konfiguration.
-	  Dies liegt daran, dass in der Server-Konfiguration ein ganzer Rosbag in einem Block verarbeitet wird und folglich nicht mehr Daten als nötig geladen werden könneniguratio.
+	  Dies liegt daran, dass in der Server-Konfiguration ein ganzer Rosbag in einem Block verarbeitet wird und folglich nicht mehr Daten als nötig geladen werden können.
 	  Die Desktop-Konfiguration hingegen verarbeitet einen Rosbag in mehreren Blöcken und wurde deshalb vom Laden aller Daten im Rosbag pro Block zurückgehalten.
 	- Die Probleme und Änderungsvorschläge für mit dem Load-Balancing bleiben bestehen.
 
 ### Konsequenzen
-- Das Load-Balancing Problem wird als Diskussionspunkt mit dem AG für das nächste Meeting am 22.2.2024 festegelt.
+- Das Load-Balancing Problem wird als Diskussionspunkt mit dem AG für das nächste Meeting am 22.2.2024 festgelegt.
   Der AG soll entscheiden, ob die nötige Zeit investiert werden soll, um das Problem zu beheben, oder ob andere US vorgezogen werden sollen.
