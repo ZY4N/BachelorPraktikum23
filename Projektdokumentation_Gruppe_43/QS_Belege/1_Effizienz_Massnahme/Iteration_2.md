@@ -1,6 +1,6 @@
 
 >  **Datum:** 29.11.2023
->  **Durchgeführt von:** Severin Pelikan
+>  **Durchgeführt von:** Leonhard Steinecke
 
 ### Komponenten im Fokus
 -  Export zu UOS-Format (neu hinzugefügt)

@@ -1,6 +1,6 @@
 
 >  **Datum:** 17.12.2023
->  **Durchgeführt von:** Severin Pelikan
+>  **Durchgeführt von:** Leonhard Steinecke
 
 ### Komponenten im Fokus
 - Laden von Sensordaten aus Rosbags (vollständig implementiert)
