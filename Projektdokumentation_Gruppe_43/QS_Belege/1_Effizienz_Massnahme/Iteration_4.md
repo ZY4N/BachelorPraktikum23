@@ -1,6 +1,6 @@
 
 >  **Datum:** 9.1.2024
->  **Durchgeführt von:** Severin Pelikan
+>  **Durchgeführt von:** Leonhard Steinecke
 
 ### Komponenten im Fokus
 - Export zu KITTI-Format (neu hinzugefügt)
