@@ -1,0 +1,58 @@
+#Pipline for Dynamic Rail Map
+
+stages:
+  - "prebuild"
+  - "build"
+  - "test"
+
+pre_build_scan_reframer_noetic:
+  stage: prebuild
+  image: tou7/ros:noetic
+  script:
+    - cd scan_reframer/libraries
+    - if [ -z "$(ls -A span)" ]; then
+    - source ~/.bashrc
+    - git clone https://github.com/tcbrindle/span.git
+    - fi
+    - if [ -z "$(ls -A rapidjson)" ]; then
+    - source ~/.bashrc
+    - git clone https://github.com/Tencent/rapidjson.git
+    - fi
+
+build_scan_reframer_noetic:
+  stage: build
+  image: tou7/ros:noetic
+  script:
+    - mkdir scan_reframer/.build
+    - cd scan_reframer/.build
+    - cmake ..
+    - cmake --build . --target install --config Debug
+  artifacts:
+    expire_in: 1 day
+    paths:
+      - scan_reframer/.build/drm_input_node
+    when: on_success
+
+.build_scan_reframer_tests_noetic:
+  stage: build
+  image: tou7/ros:noetic
+  script:
+    - mkdir scan_reframer/tests/.build
+    - cd scan_reframer/tests/.build
+    - cmake ..
+    - cmake --build . --target Google_Tests_run --config Debug
+  artifacts:
+    expire_in: 1 day
+    paths:
+      - scan_reframer/tests/.build/Google_Tests_run
+    when: on_success
+
+
+.run_scan_reframer_test_noetic:
+  stage: test
+  image: tou7/ros:noetic
+  script:
+    - echo "run tests"
+    - ./scan_reframer/tests/.build/Google_Tests_run
+  dependencies:
+    - build_scan_reframer_tests_noetic

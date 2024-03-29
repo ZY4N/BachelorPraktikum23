@@ -1,0 +1,68 @@
+#Pipline for Dynamic Rail Map
+
+stages:
+  - "prebuild"
+  - "build"
+  - "test"
+
+clone_libs_if_scan_combiner_noetic:
+  stage: prebuild
+  image: tou7/ros:noetic
+  script:
+    - git submodule init
+    - git submodule update
+
+build_scan_combiner_noetic:
+  stage: build
+  image: tou7/ros:noetic
+  script:
+    - mkdir scan_combiner/.build
+    - cd scan_combiner/.build
+    - cmake ..
+    - cmake --build . --target install --config Debug
+  artifacts:
+    expire_in: 1 day
+    paths:
+      - scan_combiner/.build/scan_combiner
+    when: on_success
+
+build_scan_combiner_tests_noetic:
+  stage: build
+  image: tou7/ros:noetic
+  script:
+    - mkdir scan_combiner/tests/.build
+    - cd scan_combiner/tests/.build
+    - cmake ..
+    - cmake --build . --target Google_Tests_run --config Debug
+  artifacts:
+    expire_in: 1 day
+    paths:
+      - scan_combiner/tests/.build/Google_Tests_run
+    when: on_success
+
+run_scan_combiner_noetic:
+  stage: test
+  image: tou7/ros:noetic
+  script:
+    - echo "run programm"
+    - cd scan_combiner/.build
+    - ./scan_combiner -o ./output/ --threads 1 ../../test_resources/filtered_rosbag.bag
+  dependencies:
+    - build_scan_combiner_noetic
+  artifacts:
+    expire_in: 1 day
+    paths:
+      - scan_combiner/.build/output/
+    when: on_success
+
+run_scan_combiner_test_noetic:
+  stage: test
+  image: tou7/ros:noetic
+  script:
+    - echo "run tests"
+    - cd ./scan_combiner/tests/.build/
+    - ./Google_Tests_run
+  dependencies:
+    - build_scan_combiner_tests_noetic
+
+
