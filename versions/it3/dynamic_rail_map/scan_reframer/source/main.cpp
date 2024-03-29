@@ -17,7 +17,7 @@ int main() {
 
 	using namespace std::chrono_literals;
 	const auto begin_time = 0min;
-	const auto end_time = 1h;
+	const auto end_time = 5min;
 
 	const auto transform_padding = 10s;
 	const auto time_per_block = 2min;
@@ -151,7 +151,7 @@ int main() {
 			}
 
 			if ((error = drm::frame_exporter::write_frames_to_uos_files(
-					 "/home/sera/Documents/Old_Outputs/Output_5",
+					 "/tmp/map_data",
 					 frames,
 					 num_threads
 				 ))) {

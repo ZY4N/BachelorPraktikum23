@@ -15,14 +15,14 @@ int main() {
 
 	logger::info("Extracting frames from %", lidar_topics.front());
 
-	const std::size_t num_threads = 48;
+	const std::size_t num_threads = 10;
 
 	using namespace std::chrono_literals;
 	const auto begin_time = 0min;
-	const auto end_time = 1h;
+	const auto end_time = 10min;
 
 	const auto transform_padding = 10s;
-	const auto time_per_block = 1h;
+	const auto time_per_block = 2min;
 	const auto total_time = end_time - begin_time;
 	const auto num_blocks = static_cast<std::size_t>(std::ceil(
 		std::chrono::duration<double>(total_time) / std::chrono::duration<double>(time_per_block)
@@ -36,11 +36,7 @@ int main() {
 	const auto filter = drm::distance_filtering::create_peripheral_filter(30, 20);
 
 	for (const auto filename : {
-		"/home/tester/Documents/rosbags/Recorder_2022-08-26-08-59-35_c_l.bag",
-		"/home/tester/Documents/rosbags/Recorder_2022-08-26-10-25-02_c_l.bag",
-		"/home/tester/Documents/rosbags/Recorder_2022-08-26-12-28-09_c_l.bag",
-		"/home/tester/Documents/rosbags/Recorder_2022-08-28-12-28-55_c_l.bag",
-		"/home/tester/Documents/rosbags/Recorder_2022-08-28-13-49-15_c_l.bag"
+                 "/home/sera/Documents/RosBags/Recorder_2023-08-01-11-39-20_c_l.bag"
 	}) {
 
 		logger::info("Opening rosbag from '%'", filename);
