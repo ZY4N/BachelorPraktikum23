@@ -9,10 +9,10 @@
 
 ```bash
 # server settings
-measure_exec "./drm_input_node_server ${ROSBAGS} -o /tmp/map_data --max-radial-dist 30 --max-peripheral-dist 20 --time-per-block 1h" "/tmp/map_data" "/media/vault/test_results/it4/server"
+./drm_input_node_server $ROSBAGS -o /tmp/map_data --max-radial-dist 30 --max-peripheral-dist 20 --time-per-block 1h
 
 # desktop settings
-measure_exec "./drm_input_node_desktop ${ROSBAGS} -o /tmp/map_data --max-radial-dist 30 --max-peripheral-dist 20 --time-per-block 5min" "/tmp/map_data" "/media/vault/test_results/it4/desktop"
+./drm_input_node_desktop $ROSBAGS -o /tmp/map_data --max-radial-dist 30 --max-peripheral-dist 20 --time-per-block 5min
 ```
 
 ### Messwerte

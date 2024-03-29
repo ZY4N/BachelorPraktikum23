@@ -11,10 +11,10 @@
 
 ```bash
 # server settings
-measure_exec "./drm_input_node_server" "/tmp/map_data" "/media/vault/test_results/it2/server"
+./drm_input_node_server
 
 # desktop settings
-measure_exec "./drm_input_node_desktop" "/tmp/map_data" "/media/vault/test_results/it2/desktop"
+./drm_input_node_desktop
 ```
 
 ### Messwerte

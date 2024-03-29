@@ -9,10 +9,10 @@
 
 ```bash
 # server settings
-measure_exec "./scan_combiner ${ROSBAGS} -o /tmp/map_data --max-radial-dist 30 --max-peripheral-dist 20 --time-per-block 1h --max-scan-pos-deviation 1 --chunk-size 30 --threads 48" "/tmp/map_data" "/media/vault/test_results/it7/server"
+./scan_combiner $ROSBAGS -o /tmp/map_data --max-radial-dist 30 --max-peripheral-dist 20 --time-per-block 1h --max-scan-pos-deviation 1 --chunk-size 30 --threads 48
 
 # desktop settings
-measure_exec "./scan_combiner ${ROSBAGS} -o /tmp/map_data --max-radial-dist 30 --max-peripheral-dist 20 --time-per-block 5min --max-scan-pos-deviation 1 --chunk-size 30 --threads 12" "/tmp/map_data" "/media/vault/test_results/it7/desktop"
+./scan_combiner $ROSBAGS -o /tmp/map_data --max-radial-dist 30 --max-peripheral-dist 20 --time-per-block 5min --max-scan-pos-deviation 1 --chunk-size 30 --threads 12
 ```
 
 ### Messwerte

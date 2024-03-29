@@ -12,10 +12,10 @@ Die Messungen werden dennoch zur Sicherheit vorgenommen.
 
 ```bash
 # server settings
-measure_exec "./drm_input_node_server ${ROSBAGS} -o /tmp/map_data --max-radial-dist 30 --max-peripheral-dist 20 --time-per-block 1h --max-scan-pos-deviation 1 --chunk-size 30" "/tmp/map_data" "/media/vault/test_results/it6/server"
+./drm_input_node_server $ROSBAGS -o /tmp/map_data --max-radial-dist 30 --max-peripheral-dist 20 --time-per-block 1h --max-scan-pos-deviation 1 --chunk-size 30
 
 # desktop settings
-measure_exec "./drm_input_node_desktop ${ROSBAGS} -o /tmp/map_data --max-radial-dist 30 --max-peripheral-dist 20 --time-per-block 5min --max-scan-pos-deviation 1 --chunk-size 30" "/tmp/map_data" "/media/vault/test_results/it6/desktop"
+./drm_input_node_desktop $ROSBAGS -o /tmp/map_data --max-radial-dist 30 --max-peripheral-dist 20 --time-per-block 5min --max-scan-pos-deviation 1 --chunk-size 30
 ```
 
 ### Messwerte
