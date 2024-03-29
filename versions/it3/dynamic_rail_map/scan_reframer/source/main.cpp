@@ -20,7 +20,7 @@ int main() {
 	const auto end_time = 1h;
 
 	const auto transform_padding = 10s;
-	const auto time_per_block = 1h;
+	const auto time_per_block = 2min;
 	const auto total_time = end_time - begin_time;
 	const auto num_blocks = static_cast<std::size_t>(
 		std::ceil(std::chrono::duration<double>(total_time) / std::chrono::duration<double>(time_per_block))
@@ -34,11 +34,7 @@ int main() {
 	using filter_t = std::remove_reference_t<std::remove_cv_t<decltype(filter)>>;
 
 	for (const auto filename :
-	     { "/home/tester/Documents/rosbags/Recorder_2022-08-26-08-59-35_c_l.bag",
-"/home/tester/Documents/rosbags/Recorder_2022-08-26-10-25-02_c_l.bag",
-"/home/tester/Documents/rosbags/Recorder_2022-08-26-12-28-09_c_l.bag",
-"/home/tester/Documents/rosbags/Recorder_2022-08-28-12-28-55_c_l.bag",
-"/home/tester/Documents/rosbags/Recorder_2022-08-28-13-49-15_c_l.bag"  }) {
+	     { "/home/sera/Documents/RosBags/Recorder_2023-08-01-11-39-20_c_l.bag" }) {
 
 		logger::info("Opening rosbag from '%'", filename);
 		drm::unbagger extractor{};
@@ -155,7 +151,7 @@ int main() {
 			}
 
 			if ((error = drm::frame_exporter::write_frames_to_uos_files(
-					 "/home/tester/Documents/chunks",
+					 "/home/sera/Documents/Old_Outputs/Output_5",
 					 frames,
 					 num_threads
 				 ))) {

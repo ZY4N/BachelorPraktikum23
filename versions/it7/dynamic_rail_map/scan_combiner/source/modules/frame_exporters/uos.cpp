@@ -54,14 +54,14 @@ std::error_code uos::write_pose(
 	}
 
 	out << std::hexfloat << pose.translation.x() << ' ' << std::hexfloat << pose.translation.y() << ' ' << std::hexfloat
-		<< pose.translation.z() << ' ';
+		<< pose.translation.z() << '\n';
 
 	double angle_x, angle_y, angle_z;
 	extractEulerAngleXYZ(matrix_from(pose), angle_x, angle_y, angle_z);
 
 	static constexpr auto to_degrees = 180.0 / M_PI;
 	out << std::hexfloat << to_degrees * angle_x << " " << std::hexfloat << to_degrees * angle_y << " " << std::hexfloat
-		<< to_degrees * angle_z << '\n';
+		<< to_degrees * angle_z << ' ';
 
 	if (not out) {
 		return { errno, std::system_category() };

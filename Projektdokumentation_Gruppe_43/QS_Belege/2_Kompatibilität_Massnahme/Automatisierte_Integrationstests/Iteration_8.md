@@ -1,0 +1,21 @@
+Da in dieser Iteration keine Änderungen mehr am Code vorgenommen wurden, wurden die Automatisierten Tests nicht durchgeführt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
