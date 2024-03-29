@@ -17,26 +17,18 @@ measure_exec "./drm_input_node_desktop ${ROSBAGS} -o /tmp/map_data --max-radial-
 
 ### Messwerte
 
-Zusammengeführte Ergebnisse mit Server Einstellungen:
+Relevante GNU Time Ergebnisse mit Server Einstellungen:
 ```go
 Elapsed (wall clock) time (m:ss):   3:54.66
 Maximum resident set size (kbytes): 17099280
 Percent of CPU this job got:        538% / 4800%
-instructions per cycle:             0,96
-branch-misses:                      1,64% of all branches
-L1-dcache-load-misses:              3,29% of all L1-dcache accesses
-LLC-load-misses:                    36,65% of all LL-cache accesses
 ```
 
-Zusammengeführte Ergebnisse mit Desktop Einstellungen:
+Relevante GNU Time Ergebnisse mit Desktop Einstellungen:
 ```go
 Elapsed (wall clock) time (m:ss):   4:49.00
 Maximum resident set size (kbytes): 2445288
 Percent of CPU this job got:        315% / 1200%
-instructions per cycle:             1,25
-branch-misses:                      1,75% of all branches
-L1-dcache-load-misses:              3,41% of all L1-dcache accesses
-LLC-load-misses:                    36,50% of all LL-cache accesses
 ```
 
 Server Cycle-Distribution:
@@ -53,7 +45,7 @@ Desktop Cycle-Distribution:
 		Ja, da `15,92 GiB` < `50 GiB`.
 - Desktop Limits
 	- [x] Werden die Daten innerhalb der maximalen Laufzeit verarbeitet?
-		Ja, da `4.82 min` < `133,758 min`.
+		Ja, da `4.82 min` < `267,516 min`.
 	- [x] Bleibt die Speicherauslastung unter dem festgelegten Limit?
 		Ja, da `2,28 GiB` < `10 GiB`.
 - Performanz Analyse
