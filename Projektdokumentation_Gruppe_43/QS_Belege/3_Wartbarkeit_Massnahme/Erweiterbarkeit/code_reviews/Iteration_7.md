@@ -46,7 +46,7 @@ Code Buddy: Alicia Gleichmann
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - Es wurde die Bibliothek "PCL" genutzt, um das Schreiben zu implementieren. Somit kann der Konverter um andere PCD-Varianten erweitert werden. 
 * Wurden die Maßnahmen für Leistung und Ressourcenverwendung korrekt umgesetzt?
-    - Die Ausgabefunktion wurde mit einem Template geinlinet.
+    - In der Implementation wurde `std::vector::clear` wie gewollt verwendet, somit wurden Heap-Allocations gespart.
 * Probleme, die im Code Review gefunden wurden: 
     - Es wurde nicht überprüft, ob Dateien im Eingabepfad liegen. Dies wurde im Review behoben und dann akzeptiert.
 
