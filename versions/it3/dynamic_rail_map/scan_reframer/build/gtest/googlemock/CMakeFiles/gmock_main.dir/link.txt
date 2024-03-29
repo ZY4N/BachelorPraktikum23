@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Ofast -Wall -Wextra -pedantic -Werror  -shared -Wl,-soname,libgmock_main.so -o ../lib/libgmock_main.so CMakeFiles/gmock_main.dir/src/gmock_main.cc.o  -Wl,-rpath,/home/sera/Desktop/BachelorPraktikum23/versions/it3/dynamic_rail_map/scan_reframer/build/gtest/lib ../lib/libgmock.so ../lib/libgtest.so -lpthread 

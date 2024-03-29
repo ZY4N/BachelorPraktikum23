@@ -1,6 +1,6 @@
 
 >  **Datum:** 22.1.2024
->  **Durchgeführt von:** Severin Pelikan
+>  **Durchgeführt von:** Leonhard Steinecke
 
 ### Komponenten im Fokus
 - Export zu segmentierten Karten Format (neu hinzugefügt)

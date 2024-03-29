@@ -1,6 +1,6 @@
 
 >  **Datum:** 21.2.2024
->  **Durchgeführt von:** Severin Pelikan
+>  **Durchgeführt von:** Leonhard Steinecke
 
 ### Komponenten im Fokus
 - Programm Parallelisierung (neu hinzugefügt)

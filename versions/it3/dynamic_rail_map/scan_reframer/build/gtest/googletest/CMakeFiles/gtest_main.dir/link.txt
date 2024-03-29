@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -Ofast -Wall -Wextra -pedantic -Werror  -shared -Wl,-soname,libgtest_main.so -o ../lib/libgtest_main.so CMakeFiles/gtest_main.dir/src/gtest_main.cc.o  -Wl,-rpath,/home/sera/Desktop/BachelorPraktikum23/versions/it3/dynamic_rail_map/scan_reframer/build/gtest/lib ../lib/libgtest.so -lpthread 

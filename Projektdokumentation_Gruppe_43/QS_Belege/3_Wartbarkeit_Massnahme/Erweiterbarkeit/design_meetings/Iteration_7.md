@@ -7,8 +7,7 @@ Dies wird mit einem eigenem Konverter umgesetzt.
 #### Erweiterbarkeit
 Es ist die Erweiterung um andere PCD-Varianten vorgesehen. Da für das Schreiben die Library „PCL“ genutzt wird die diese Optionen bietet, wird dies umgesetzt.
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
-- Die Implementation der Ausgabefunktion soll mittels Templates umgesetzt werden. um den Overhead von (virtuellen) Function-Calls zu vermeiden.
-
+- Die Implementation soll `std::vector::clear` verwenden, damit die Capacity des "Frame Punktwolken" Vektors behalten wird um möglichst wenige Heap-Allocations zu benutzen.
 
 ## User Story(s): 24 - Programm parallelisieren
 #### Funktionalitäten
