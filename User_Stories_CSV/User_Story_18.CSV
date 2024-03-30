@@ -1,0 +1,10 @@
+ID;18
+Name;Lesen und Schreiben von Metadaten im JSON-Format
+Beschreibung;Als Nutzer*in möchte die Metadaten im JSON-Format bereitgestellt bekommen, um die Interoperabilität mit anderer Software möglichst problemfrei zu gestalten.
+Akzeptanzkriterium;Das Programm bietet die Option, Metadaten im JSON-Format auszugeben und setzt das Format korrekt um.
+Geschätzter Aufwand (Story Points);5
+Entwickler*in;Simon Riese
+Fertiggestellt in Iteration;6
+Tatsächlicher Aufwand (h);32,25
+Velocity (Story Points/h);0,16
+Bemerkungen;

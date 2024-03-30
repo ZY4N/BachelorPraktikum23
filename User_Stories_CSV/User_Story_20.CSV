@@ -1,0 +1,10 @@
+ID;20
+Name;Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI 
+Beschreibung;Als Nutzer*in möchte ich maximale Aufnahmepositionsabweichung innerhalb eines Frames wählen, um den für meinen Anwendungsfall besten Kompromiss zwischen Dateigrößen und Genauigkeit der Aufnahmepositionen wählen zu können.
+Akzeptanzkriterium;Das System erlaubt es, mithilfe eines CLI-Parameters den Radius, in dem aufeinanderfolgende Aufnahmetransformationen zusammengefasst werden, in Metern anzugeben.
+Geschätzter Aufwand (Story Points);1
+Entwickler*innen;Alicia Gleichmann
+Fertiggestellt in Iteration;6
+Tatsächlicher Aufwand (h);0,75
+Velocity (Story Points/h);1,33
+Bemerkungen;

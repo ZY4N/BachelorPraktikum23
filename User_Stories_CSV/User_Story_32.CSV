@@ -1,0 +1,10 @@
+ID;32
+Name;Wiki-Einträge zur internen Funktionsweise des Programms
+Beschreibung;Als Maintainer*in möchte ich eine umfangreiche Dokumentation zu der internen Funktionsweise des Programms haben, um es nachvollziehen und damit sinnvoll warten zu können.
+Akzeptanzkriterium;Es sind alle relevanten Informationen zu der internen Funktionsweise des Programms enthalten und der Arbeitgeber hat die Einträge gelesen und abgesegnet.
+Geschätzter Aufwand (Story Points);5
+Entwickler*innen;Greys Fankyeyeva
+Fertiggestellt in Iteration;8
+Tatsächlicher Aufwand (h);18
+Velocity (Story Points/h);0,27
+Bemerkungen;

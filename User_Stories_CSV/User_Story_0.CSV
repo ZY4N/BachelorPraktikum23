@@ -1,0 +1,10 @@
+ID;0
+Name;Einlese-Option für Rosbag-Dateien
+Beschreibung;Als Nutzer*in möchte ich, dass das System Rosbag-Dateien einlesen kann, um die im Rahmen des InnoTram-Projekts entstandene Sensordaten als Rosbags laden zu können.
+Akzeptanzkriterium;Falls alle für die Verarbeitung relevante Daten in dem Rosbag vorhanden sind und sich in der erwarteten Repräsentation befinden, wird die Datei korrekt eingelesen. Ansonsten gibt das Programm einen Fehler aus und terminiert.
+Geschätzter Aufwand (Story Points);8
+Entwickler*in;Leonhard Steinecke
+Fertiggestellt in Iteration;3
+Tatsächlicher Aufwand (h);23,5
+Velocity (Story Points/h);0,34
+Bemerkungen;
