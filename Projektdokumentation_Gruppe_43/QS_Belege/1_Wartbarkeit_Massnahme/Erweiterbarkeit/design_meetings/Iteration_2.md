@@ -1,3 +1,7 @@
+# Design Meeting Iteration 2
+Datum: 16.11.2023
+Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
+
 ## User Story(s): 0 - Einlese-Option für Rosbag-Dateien
 #### Funktionalitäten
 Es sollen folgende Daten aus Rosbags der Bahn extrahiert werden: Punktdaten, Transformationen, Geschwindigkeiten und IMU-Daten.

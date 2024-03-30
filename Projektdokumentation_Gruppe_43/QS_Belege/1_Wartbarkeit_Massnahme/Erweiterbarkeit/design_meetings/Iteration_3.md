@@ -1,3 +1,7 @@
+# Design Meeting Iteration 3
+Datum: 30.11.2023
+Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
+
 ## User Story(s): 6 - Verringerung von Aufnahmetransformationen
 #### Funktionalitäten
 Die Anzahl der zu speichernden Aufnahmetransformationen soll reduziert werde, indem mehrere ähnliche Aufnahmetransformationen zu einer zusammengefasst werden.
@@ -17,12 +21,7 @@ Es soll möglich sein, einfach für neue CLI-Parametern das Hinzufügen, Definie
 #### Schnittstellen
 Es wird das "Arx-System" hinzugefügt über das die Flagen, der gewollte Datentyp und der Defaultwert für neue CLI-Paramerter einfach definiert werden kann.
 Es können außerdem in dem System weitere Parser für bisher nicht unterstütze Datentypen hinzugefügt werden und das System gibt entsprechende Fehlermeldung aus, falls notwendige Parameter fehlen.
-
-//neue Variante
 Mit diesem System werden zwei Parameter, über welche die Positionen der zu bearbeitenden Daten und der Ausgabeort der bearbeiteten Daten festgelegt werden müssen, hinzugefügt. 
-
-//alte Variante 
-Mit diesem System werden die Parameter "—output" und "-input" hinzugefügt über welche der Ein- und Ausgabeort der zu bearbeitenden Daten festgelegt werden müssen.
 #### Erweiterbarkeit
 Es soll möglich sein das Programm einfach um weitere CLI-Parametern zu ergänzen.
 Durch die implementierung des obengenannten Systems, wird dies umgesetzt.

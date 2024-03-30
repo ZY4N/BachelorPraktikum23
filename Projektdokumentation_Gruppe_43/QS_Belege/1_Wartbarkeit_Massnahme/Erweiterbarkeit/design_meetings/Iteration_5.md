@@ -1,3 +1,7 @@
+# Design Meeting Iteration 5
+Datum: 12.01.2024
+Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
+
 ## User Story(s): 16 - Export zu segmentierten Kartenformat
 #### Funktionalitäten
 Die Punktwolke soll für den späteren Export in Chunks aufgeteilt werden.
