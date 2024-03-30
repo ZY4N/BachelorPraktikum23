@@ -41,8 +41,16 @@ Hier wird kein Code geschrieben und daher ist kein Design notwendig.
 Einige bisher im Code festgelegten Werte(Ausgabeformat der Frames, zu bearbeitenden Zeitabschnitt und Distanzfilterparamter) sollen dynamisch über CLI Parameter festgelegt werden.
 #### Schnittstellen
 Die neuen CLI Parameter werden mit dem "Arx-System" aus US-7 implementiert.
+
+//neue Variante
+Mit diesem System wird ein Parameter hinzugefügt, über welchen das Ausgabeformat der Frames festgelegt wird (UOS oder KITTI).
+Es werden zwei Parameter hinzugefügt, über welche das Log-Level des Loggers und ob diese Farbig ausgegeben werden festgelegt wird.
+Es wird ein Parameter hinzugefügt, über welchen die Zeitlänge festgelegt wird, die gleichzeitig bearbeitet wird.
+Es werden zwei Parameter hinzugefügt, über welche die maximale radiale und die maximale periphere Distanz von Punkten zum LiDAR-Sensor festgelegt werden.
+
+//alte Variante
 Über „--frame-format“ soll das Ausgabeformat der Frames festgelegt werden (UOS oder KITTI).
-Über „—log-level“ kann angepasst werden, von welchem Log-Level Nachrichten ausgegeben werden. 
+Über „--log-level“ kann angepasst werden, von welchem Log-Level Nachrichten ausgegeben werden. 
 Mit „--time-per-block“ kann der Zeitabschnitt angepasst werden, der gleichzeitig   wird.
 Mit „--max-radial-dist“ und“ --max-peripheral-dist“ können die Distanzen für die entsprechenden Filter angepasst werden.
 #### Erweiterbarkeit
