@@ -19,7 +19,7 @@ Es wird das "Arx-System" hinzugefügt über das die Flagen, der gewollte Datenty
 Es können außerdem in dem System weitere Parser für bisher nicht unterstütze Datentypen hinzugefügt werden und das System gibt entsprechende Fehlermeldung aus, falls notwendige Parameter fehlen.
 
 //neue Variante
-Mit diesem System werden zwei Parameter, über welche die Positionen der zu bearbeitenden Daten und der Ausgabeort der bearbeiteten Daten festgelegt werden müssen, hinzugefügt.
+Mit diesem System werden zwei Parameter, über welche die Positionen der zu bearbeitenden Daten und der Ausgabeort der bearbeiteten Daten festgelegt werden müssen, hinzugefügt. 
 
 //alte Variante 
 Mit diesem System werden die Parameter "—output" und "-input" hinzugefügt über welche der Ein- und Ausgabeort der zu bearbeitenden Daten festgelegt werden müssen.

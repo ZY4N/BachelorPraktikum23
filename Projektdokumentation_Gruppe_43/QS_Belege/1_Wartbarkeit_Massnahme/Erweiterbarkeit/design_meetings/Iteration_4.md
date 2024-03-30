@@ -46,7 +46,7 @@ Die neuen CLI Parameter werden mit dem "Arx-System" aus US-7 implementiert.
 Mit diesem System wird ein Parameter hinzugefügt, über welchen das Ausgabeformat der Frames festgelegt wird (UOS oder KITTI).
 Es werden zwei Parameter hinzugefügt, über welche das Log-Level des Loggers und ob diese Farbig ausgegeben werden festgelegt wird.
 Es wird ein Parameter hinzugefügt, über welchen die Zeitlänge festgelegt wird, die gleichzeitig bearbeitet wird.
-Es werden zwei Parameter hinzugefügt, über welche die maximale radiale und die maximale periphere Distanz von Punkten zum LiDAR-Sensor festgelegt werden.
+Es werden zwei Parameter hinzugefügt, über welche die maximale radiale und die maximale periphere Distanz von Punkten zum LiDAR-Sensor festgelegt werden. 
 
 //alte Variante
 Über „--frame-format“ soll das Ausgabeformat der Frames festgelegt werden (UOS oder KITTI).
