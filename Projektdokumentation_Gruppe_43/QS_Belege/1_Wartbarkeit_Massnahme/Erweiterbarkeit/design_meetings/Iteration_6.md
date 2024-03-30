@@ -1,7 +1,8 @@
 # Design Meetings Protokolle Iteration 6:
-Datum: 23.01.2024
-Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
 ---
+Datum: 23.01.2024 <br>
+Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
+
 ## User Story(s):  19 - Ausarbeitung von Grundkonzepten zur Entfernung semi-dynamischer Objekte
 #### Was wird implementiert?
 N/A

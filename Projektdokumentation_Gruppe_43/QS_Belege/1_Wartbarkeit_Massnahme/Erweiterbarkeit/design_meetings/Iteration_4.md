@@ -1,7 +1,8 @@
 # Design Meetings Protokolle Iteration 4:
-Datum: 20.12.2023
-Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Severin Pelikan, Simon Riese
 ---
+Datum: 20.12.2023 <br>
+Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Severin Pelikan, Simon Riese
+
 ## User Story(s): 8 - Entfernen von Nick- und Schwankbewegungen aus Scans
 #### Funktionalitäten
 Die Positition der Punkte in der Punktwolke sollen anhand der von der Bahn über die IMU aufgenommenen Nick- und Schwankbewegungen korrigiert werden.

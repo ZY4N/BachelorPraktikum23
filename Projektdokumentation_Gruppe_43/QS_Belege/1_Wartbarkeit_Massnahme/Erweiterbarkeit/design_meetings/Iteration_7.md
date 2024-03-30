@@ -1,7 +1,8 @@
 # Design Meetings Protokolle Iteration 7:
-Datum: 7.02.2024
-Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
 ---
+Datum: 7.02.2024 <br>
+Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
+
 ## User Story(s):  23 - PCD Converter
 #### Funktionalitäten
 Die ausgegebene Karte soll von dem KITTI-Format in das PCD-Format überführt werden.

@@ -1,7 +1,7 @@
 # Design Meetings Protokolle Iteration 3:
-Datum: 30.11.2023
-Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
 ---
+Datum: 30.11.2023 <br>
+Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
 
 ## User Story(s): 6 - Verringerung von Aufnahmetransformationen
 #### Funktionalitäten
