@@ -1,0 +1,1 @@
+/usr/bin/g++-10 -fPIC  -Ofast -Wall -Wextra -pedantic -Werror -fmacro-prefix-map=/trade/BachelorPraktikum23/versions/it4/dynamic_rail_map/scan_reframer/=  -shared -Wl,-soname,libgmock.so -o ../lib/libgmock.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/trade/BachelorPraktikum23/versions/it4/dynamic_rail_map/scan_reframer/build/gtest/lib ../lib/libgtest.so -lpthread 

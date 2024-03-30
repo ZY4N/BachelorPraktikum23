@@ -170,11 +170,11 @@ lord_tachuncker::lord_tachuncker(
 			frames.insert(frames.end(), thread_frames.begin(), thread_frames.end());
 		}
 
-		/*
+        /*
 		if ((error = drm::frame_exporter::write_frames_to_uos_files(output_path, frames, m_num_threads))) {
 		    logger::error("Error while exporting frames %", error.message());
-		}*/
-
+		}
+        */
 		if ((error = drm::frame_exporter::write_frames_to_removert_files(
 				 output_path,
 				 frames,

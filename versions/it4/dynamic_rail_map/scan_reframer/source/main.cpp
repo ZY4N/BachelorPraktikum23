@@ -107,13 +107,13 @@ int main(int num_args, char* args[]) {
 
 	logger::info("Extracting frames from %", lidar_topics_vector.front());
 
-	const std::size_t num_threads = my_arx.template get<args::threads>().value_or(48);
+	const std::size_t num_threads = my_arx.template get<args::threads>().value_or(10);
 	using namespace std::chrono_literals;
 	const auto relative_begin_time = my_arx.template get<args::begin_time>().value_or(
 		drm::ros_time_to_timestamp_t(ros::TIME_MIN)
 	);
 	const auto relative_end_time = my_arx.template get<args::end_time>().value_or(
-		drm::ros_time_to_timestamp_t(ros::TIME_MAX)
+		5min
 	);
 	const auto time_per_block = my_arx.template get<args::time_per_block>().value_or(1h);
 
