@@ -1,0 +1,10 @@
+ID;29
+Name;Dynamisches Anpassen der Anzahl der verwendeten Threads über CLI 
+Beschreibung;Als Nutzer*in möchte ich auswählen können, wie viele Threads des Systems das Programm maximal gleichzeitig nutzt, um die Auslastung meines Endsystems anzupassen.
+Akzeptanzkriterium;Das System erlaubt es mithilfe eines CLI-Parameters, die maximale Anzahl an gleichzeitig vom Programm genutzten Threads anzupassen.
+Geschätzter Aufwand (Story Points);1
+Entwickler*innen;Alicia Gleichmann
+Fertiggestellt in Iteration;7
+Tatsächlicher Aufwand (h);1
+Velocity (Story Points/h);1
+Bemerkungen;
