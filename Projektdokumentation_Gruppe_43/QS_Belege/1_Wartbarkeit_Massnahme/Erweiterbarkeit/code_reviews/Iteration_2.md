@@ -45,7 +45,7 @@ Code Buddy: Simon Riese
 
 #### Ergebnis des Reviews: 
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
-    - Das Filtern mit einem änderbaren Filter-Prädikate wurde umgesetzt.
+    - Das Filtern mit einem änderbaren Filter-Prädikat wurde umgesetzt.
 * Wurden die Maßnahmen für Leistung und Ressourcenverwendung korrekt umgesetzt?
     - Die Laufzeit und Speicherauslastung sind konstant.
     - Die Filter Funktionen werden mit einem Template geinlinet und arbeiten mit quadrierten Distanzen, um Wurzelberechnungen zu vermeiden.
