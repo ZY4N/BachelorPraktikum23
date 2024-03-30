@@ -1,11 +1,11 @@
 ID;1
 Name;Distanzfilterung von Punktdaten 
-Beschreibung;Als Nutzer*in des Programms möchte ich, dass sich das Programm auf die Punkte im für die Bahn relevanten Bereich beschränkt, um die Datenmenge zu verringern und von unwichtigen Details zu abstrahieren.
-Akzeptanzkriterium;"Das Programm muss Punkte, die die maximale radiale oder periphere Distanz zum LiDAR-Sensor überschreiten, korrekt herausfiltern.
-Wobei periphere Distanz für die orthogonale Distanz in der horizontalen Ebene in Fahrtrichtung relativ zum LiDAR-Sensor steht und die radiale Distanz für die dreidimensionale Euklidische Norm relativ zum LiDAR-Sensor steht."
-Geschätzter Aufwand (Story Points);2
+Beschreibung;Als Nutzer*in des Programms mÃ¶chte ich, dass sich das Programm auf die Punkte im fÃ¼r die Bahn relevanten Bereich beschrÃ¤nkt, um die Datenmenge zu verringern und von unwichtigen Details zu abstrahieren.
+Akzeptanzkriterium;Das Programm muss Punkte, die die maximale radiale oder periphere Distanz zum LiDAR-Sensor Ã¼berschreiten, korrekt herausfiltern.
+Wobei periphere Distanz fÃ¼r die orthogonale Distanz in der horizontalen Ebene in Fahrtrichtung relativ zum LiDAR-Sensor steht und die radiale Distanz fÃ¼r die dreidimensionale Euklidische Norm relativ zum LiDAR-Sensor steht.
+GeschÃ¤tzter Aufwand (Story Points);2
 Entwickler*in;Greys Fankyeyeva
 Fertiggestellt in Iteration;2
-Tatsächlicher Aufwand (h);3,25
+TatsÃ¤chlicher Aufwand (h);3,25
 Velocity (Story Points/h);0,61
 Bemerkungen;
