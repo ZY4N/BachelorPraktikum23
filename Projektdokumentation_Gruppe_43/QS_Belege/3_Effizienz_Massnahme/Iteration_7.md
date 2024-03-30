@@ -4,7 +4,7 @@
 
 ### Komponenten im Fokus
 - Programm Parallelisierung (neu hinzugefügt)
-
+- Erhöhen der Bucket Anzahl für die Sortierung von Punkten in Zellen (verändert)
 ### Befehle
 
 ```bash
