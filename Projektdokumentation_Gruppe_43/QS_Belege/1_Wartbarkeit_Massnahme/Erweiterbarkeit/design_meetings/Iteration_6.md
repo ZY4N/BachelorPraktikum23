@@ -1,9 +1,13 @@
+# Design Meetings Protokolle Iteration 6:
+---
+
 ## User Story(s):  19 - Ausarbeitung von Grundkonzepten zur Entfernung semi-dynamischer Objekte
 #### Was wird implementiert?
 N/A
 #### Sonstiges
 Hier wird kein Code geschrieben und daher ist kein Design notwendig.
 
+---
 
 ## User Story(s): 20,21,22 - Erweiterung der CLI Parameter 
 #### Funktionalitäten

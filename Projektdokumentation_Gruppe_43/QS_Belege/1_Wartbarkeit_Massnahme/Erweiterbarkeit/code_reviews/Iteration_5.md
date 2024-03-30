@@ -1,4 +1,5 @@
 # Code Reviews Iteration 5:
+---
 
 ## Code Review Checklist - User Story: 16 - Export zu segmentierten Kartenformat
 Datum: 21.01.2024</br>
@@ -55,7 +56,7 @@ Code Buddy: Greys Fankyeyeva
     - Kommentare für komplexe Codeabschnitte waren nicht ausführlich genug. 
     - Konsequenz: Die Kommentare wurde im Review angepasst und dann akzeptiert.
 
-
+---
 
 ## Code Review Checklist - User Story: 17 - Sammeln von Metadaten
 Datum: 21.01.2024</br>

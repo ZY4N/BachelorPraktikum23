@@ -1,3 +1,6 @@
+# Design Meetings Protokolle Iteration 3:
+---
+
 ## User Story(s): 6 - Verringerung von Aufnahmetransformationen
 #### Funktionalitäten
 Die Anzahl der zu speichernden Aufnahmetransformationen soll reduziert werde, indem mehrere ähnliche Aufnahmetransformationen zu einer zusammengefasst werden.
@@ -9,6 +12,8 @@ Nach Absprache mit dem AG sind hier keine Erweiterungen vorgesehen und es werden
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
 - Die Implementation darf die Aufnahmepositionen nicht im Heap zwischenspeichern, sondern muss eine In-Place Lösung finden.
 - Das Transformieren der Punkte zu den vereinten Aufnahmepositionen soll in größeren Blöcken geschehen, um Cache Lokalität und SIMD ausnutzen zu können.
+
+---
 
 ## User Story(s): 7 - Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
 #### Funktionalitäten

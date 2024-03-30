@@ -1,4 +1,5 @@
 # Code Reviews Iteration 7:
+---
 
 ## Code Review Checklist - User Story: 23 - PCD Converter
 Datum: 20.02.2024</br>
@@ -50,6 +51,7 @@ Code Buddy: Alicia Gleichmann
 * Probleme, die im Code Review gefunden wurden: 
     - Es wurde nicht überprüft, ob Dateien im Eingabepfad liegen. Dies wurde im Review behoben und dann akzeptiert.
 
+---
 
 ## Code Review Checklist - User Story: 24 - Programm parallelisieren
 Datum: 20.02.2024</br>
@@ -105,6 +107,8 @@ Code Buddy: Greys Fankyeyeva
     - Bei einer geringen Thread-Zahl wurden für einen Programmteil keine Threads zugewiesen. 
     - Konsequenz: Es wurde eine minimal Anzahl an Threads pro Programmteil gesetzt.
 
+---
+
 ## Code Review Checklist - User Story: 25 - Unterstützung weiterer LiDAR-Sensoren
 Datum: 20.02.2024
 Entwickler*innen: Simon Riese, Severin Pelikan
@@ -154,6 +158,8 @@ Code Buddy: Greys Fankyeyeva
     - Die "Parse Schnittstelle" wird mit einem Template geinlinet.
 * Probleme, die im Code Review gefunden wurden: 
     - Es wurden keine Probleme im Code Review gefunden.
+
+---
 
 ## Code Review Checklist - User Story: 26 - Erweiterung der Metadaten um Sensortypen und Rosbag-Topic
 Datum: 20.02.2024
@@ -205,8 +211,12 @@ Code Buddy: Leonhard Steinecke
 * Probleme, die im Code Review gefunden wurden: 
     - Es wurden keine Probleme im Code Review gefunden.
 
+---
+
 ## Code Review Checklist - User Story: 27 - Erstellung von Testdatensätzen 
 In dieser User Story wurde kein Code geschrieben und entsprechend wurden kein Code Review druchgeführt.
+
+---
 
 ## Code Review Checklist - User Story: 28,29,30 - Erweiterung der CLI-Parameter 
 Datum: 20.02.2024</br>

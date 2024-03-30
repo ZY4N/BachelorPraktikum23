@@ -1,3 +1,6 @@
+# Design Meetings Protokolle Iteration 4:
+---
+
 ## User Story(s): 8 - Entfernen von Nick- und Schwankbewegungen aus Scans
 #### Funktionalitäten
 Die Positition der Punkte in der Punktwolke sollen anhand der von der Bahn über die IMU aufgenommenen Nick- und Schwankbewegungen korrigiert werden.
@@ -10,6 +13,7 @@ Nach Absprache mit dem AG sind hier keine Erweiterungen vorgesehen und es werden
 - Die IMU Rotations Daten sollen eng gepackten Structs geladen werden.
 - Das Korrigieren der Sensorrotation soll keinen zusätzlichen Heap-Speicher nutzen.
 
+---
 
 ## User Story(s): 9 - Integration von Removert in Scan Combiner 
 #### Funktionalitäten
@@ -22,12 +26,15 @@ Die Implementation wird mit der in US-4 erstellten Schnittstelle als Modul hinzu
 - Die Schreibfunktion des Moduls und der Schnittstelle sollen Daten über eine `tcb::span` (C++ 17 Implementation von `std::span`) erhalten, um unnötiges Kopieren von Daten zu vermeiden.
 - Die Punktdaten der Punktwolke des KITTI-Formats werden in Binär geschrieben, so wird weniger Festplattenspeicher verbraucht.
 
+---
+
 ## User Story(s): 10 - Entfernung dynamischer Objekte mittels Removert
 #### Funktionalitäten
 N/A
 #### Sonstiges
 Hier wird kein Code geschrieben und daher ist kein Design notwendig.
 
+---
 
 ## User Story(s): 11 - Docker Integration für Zielsystem
 #### Funktionalitäten
@@ -35,7 +42,8 @@ N/A
 #### Sonstiges
 Hier wird kein Code geschrieben und daher ist kein Design notwendig.
 
- 
+---
+
 ## User Story(s): 12, 13, 14, 15 - Erweiterung der CLI Parameter
 #### Funktionalitäten
 Einige bisher im Code festgelegten Werte(Ausgabeformat der Frames, zu bearbeitenden Zeitabschnitt und Distanzfilterparamter) sollen dynamisch über CLI Parameter festgelegt werden.
