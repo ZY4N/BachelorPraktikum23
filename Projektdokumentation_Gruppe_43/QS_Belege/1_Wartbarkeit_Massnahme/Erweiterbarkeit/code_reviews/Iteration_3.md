@@ -1,4 +1,5 @@
 # Code Reviews Iteration 3:
+---
 
 ## Code Review Checklist - User Story: 0 - Einlese-Option für Rosbag-Dateien 
 Datum: 16.12.2023</br>
@@ -55,6 +56,8 @@ Code Buddy: Severin Pelikan
     - Konsequenz: Umbenennen auf `extract_velocities` und `extract_transforms`.
     - Die Parallelisierung dieses Systems verlangt zusätzlichen Aufwand und sollte in einer separaten US umgesetzt werden.
 
+---
+
 ## Code Review Checklist - User Story:  3 - Integration von dynamischem Logging-System
 Datum: 16.12.2023</br>
 Entwickler*innen: Severin Pelikan</br>
@@ -108,6 +111,8 @@ Code Buddy: Leonhard Steinecke
     - Es wurde die Struktur der Config nicht ausreichend dokumentiert.
     - Konsequenz: Die Dokumentation mit der Beschreibung der Bestandteilen der Config-Struct wurde erweitert.
 
+---
+
 ## Code Review Checklist - User Story:  6 - Verringerung von Aufnahmetransformationen
 Datum: 16.12.2023</br>
 Entwickler*innen: Severin Pelikan</br>
@@ -158,6 +163,8 @@ Code Buddy: Leonhard Steinecke
     - Alle (ca. 10k) Punkte, die zwischen zwei Transformationen aufgenommen wurden, werden in einem für SIMD angeordneten Block transformiert.
 * Probleme, die im Code Review gefunden wurden: 
     - Es wurden keine Probleme im Code Review gefunden.
+
+---
 
 ## Code Review Checklist - User Story:  7 - Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI 
 Datum: 16.12.2023</br>

@@ -1,4 +1,5 @@
 # Code Reviews Iteration 2:
+---
 
 ## Code Review Checklist - User Story: 1 - Distanzfilterung von Punktdaten
 Datum: 28.11.2023</br>
@@ -54,6 +55,8 @@ Code Buddy: Simon Riese
 * Probleme, die im Code Review gefunden wurden: 
     - Es wurden keine Probleme im Code Review gefunden.
 
+---
+
 ## Code Review Checklist - User Story: 2 - Geschwindigkeits-Entzerrung
 Datum: 28.11.2023</br>
 Entwickler*innen: Severin Pelikan</br>
@@ -107,6 +110,8 @@ Code Buddy: Leonhard Steinecke
 * Probleme, die im Code Review gefunden wurden:
     - Es wurden keine Probleme im Code Review gefunden.
 
+---
+
 ## Code Review Checklist - User Story: 4 - Integration von 3DTK People Remover in Scan Combiner
 Datum: 28.11.2023</br>
 Entwickler*innen: Greys Fankyeyeva, Simon Riese</br>
@@ -158,6 +163,8 @@ Code Buddy: Alicia Gleichmann
 * Probleme, die im Code Review gefunden wurden:
     - Die Umrechnung von Eulerschen Winkeln in Grad wurde nicht korrekt implementiert.
     - Konsequenz: Die Berechnung wurde korrigiert, getestet und dann akzeptiert.
+
+---
 
 ## Code Review Checklist - User Story: 5 - Entfernung dynamischer Objekte mittels 3DTK People Remover
 In dieser User Story wurde kein Code geschrieben und entsprechend wurden kein Code Review druchgeführt.

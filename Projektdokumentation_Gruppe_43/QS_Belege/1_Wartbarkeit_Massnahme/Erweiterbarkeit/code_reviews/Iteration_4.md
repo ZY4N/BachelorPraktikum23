@@ -1,4 +1,5 @@
 # Code Reviews Iteration 4:
+---
 
 ## Code Review Checklist - User Story:  8 - Entfernen von Nick- und Schwankbewegungen aus Scans 
 Datum: 08.01.2024</br>
@@ -50,7 +51,9 @@ Code Buddy: Leonhard Steinecke
     - Die eigentliche Korrektur wurde nicht implentiert und kann dementsprechend nicht evaluiert werden.
 * Probleme, die im Code Review gefunden wurden: 
     - Beim Testen ist aufgefallen, dass die bereitgestellten IMU-Sensordaten fehlerhaft sind, darum wurde die User Story nicht ins entgültige System übernommen. 
-  
+
+---
+
 ## Code Review Checklist - User Story:  9 - Integration von Removert in Scan Combiner 
 Datum: 08.01.2024</br>
 Entwickler*innen: Simon Riese</br>
@@ -102,8 +105,12 @@ Code Buddy: Greys Fankyeyeva
 * Probleme, die im Code Review gefunden wurden: 
     - Es wurden keine Probleme im Code Review gefunden.
 
+---
+
 ## Code Review Checklist - User Story: 11 - Docker Integration für Zielsystem
 In dieser User Story wurde kein Code geschrieben und entsprechend wurden kein Code Review druchgeführt.
+
+---
 
 ## Code Review Checklist - User Story: 12,13,14,15 - Erweiterung der CLI Parameter
 Datum: 08.01.2024</br>

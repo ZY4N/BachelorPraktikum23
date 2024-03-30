@@ -1,6 +1,7 @@
 # Design Meeting Iteration 2
 Datum: 16.11.2023
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
+---
 
 ## User Story(s): 0 - Einlese-Option für Rosbag-Dateien
 #### Funktionalitäten
@@ -22,6 +23,8 @@ Das Einlesen wird für jede Topic in einer eigenen Funktion implementiert, daher
 #### Sonstiges:
 Für interaktion mit den Rosbags soll das ROS-Framework genutzt werden.
 
+---
+
 ## User Story(s): 1 - Distanzfilterung von Punktdaten
 #### Funktionalitäten
 Die Punkte der Punktwolke sollen anhand ihrer Distanz zur Bahn gefilter werden.
@@ -33,6 +36,8 @@ Dies wird umgesetzt indem das Filtern über ein veränderbares Prädikat impleme
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
 - Die Funktion soll vom Compiler geinlinet werden können, um den Overhead eines Function-Calls vermeiden zu können.
 - Die Funktion soll die Anzahl an Wurzelberechnungen möglichst geringhalten.
+
+---
 
 ## User Story(s): 2 - Geschwindigkeits-Entzerrung
 #### Funktionalitäten
@@ -47,6 +52,8 @@ Nach Absprache mit dem AG sind hier keine Erweiterungen vorgesehen und es werden
 - Um die Speicherauslastung so gering wie möglich zu halten, sollen alle Punkt Transformationen In-Place vorgenommen werden.
 - Die Suche von Punkten nach Zeitstempeln soll in  O(log2(N)) in Abhängigkeit von der Anzahl der verarbeiteten Punkte umgesetzt werden.
 - Es soll sequentiell auf die Arrays mit Punkt-, Transformations- und Geschwindigkeitsdaten zugegriffen werden, um Cache-Misses zu minimieren.
+
+---
 
 ## User Story(s): 3 - Integration von dynamischem Logging-System
 #### Funktionalitäten
@@ -64,6 +71,8 @@ Die Log-Level werden über Structs definiert und es können weiter hinzugefügt 
 - Das Formatieren verschiedener Typen soll mittels Templates umgesetzt werden. um den Overhead von (virtuellen) Function-Calls zu vermeiden.
 - Um Overhead beim Ändern des Log-Levels sowie des Aktivieren/Deaktivieren verschiedener Flaggen zu Vermeiden, sollen diese Operationen jeweils durch das Setzen eines Integer-Werts umgesetzt werden.
 
+---
+
 ## User Story(s): 4 - Integration von 3DTK People Remover in Scan Combiner
 #### Funktionalitäten
 Die verarbeiten Punkte sollen mit ihren Aufnahmeposition als Karte im UOS-Format ausgegeben werden.
@@ -77,7 +86,7 @@ Dies wird über die "Frame Exporter" Schnittstelle und den Ausgabemodulen umgese
 - Die Schreibfunktion des Moduls und der Schnittstelle sollen Daten über eine `tcb::span` (C++ 17 Implementation von `std::span`) erhalten, um unnötiges Kopieren von Daten zu vermeiden.
 - Das UOS-Format benutzt ASCII-Textdateien, um effizienter zu speichern, sollen die Daten als `std::hexfloat` geschrieben werden.
 
-
+---
  
 ## User Story(s): 5 - Entfernung dynamischer Objekte mittels 3DTK People Remover
 #### Funktionalitäten

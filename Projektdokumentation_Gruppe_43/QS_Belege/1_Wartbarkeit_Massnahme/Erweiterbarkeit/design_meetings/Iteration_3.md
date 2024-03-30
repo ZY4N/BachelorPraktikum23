@@ -1,6 +1,7 @@
-# Design Meeting Iteration 3
+# Design Meetings Protokolle Iteration 3:
 Datum: 30.11.2023
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
+---
 
 ## User Story(s): 6 - Verringerung von Aufnahmetransformationen
 #### Funktionalitäten
@@ -13,6 +14,8 @@ Nach Absprache mit dem AG sind hier keine Erweiterungen vorgesehen und es werden
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
 - Die Implementation darf die Aufnahmepositionen nicht im Heap zwischenspeichern, sondern muss eine In-Place Lösung finden.
 - Das Transformieren der Punkte zu den vereinten Aufnahmepositionen soll in größeren Blöcken geschehen, um Cache Lokalität und SIMD ausnutzen zu können.
+
+---
 
 ## User Story(s): 7 - Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
 #### Funktionalitäten

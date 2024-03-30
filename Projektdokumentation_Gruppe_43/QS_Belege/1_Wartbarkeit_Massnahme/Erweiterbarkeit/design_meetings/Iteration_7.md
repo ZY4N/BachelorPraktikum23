@@ -1,7 +1,7 @@
-# Design Meeting Iteration 6
+# Design Meetings Protokolle Iteration 7:
 Datum: 7.02.2024
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
-
+---
 ## User Story(s):  23 - PCD Converter
 #### Funktionalitäten
 Die ausgegebene Karte soll von dem KITTI-Format in das PCD-Format überführt werden.
@@ -12,6 +12,8 @@ Dies wird mit einem eigenem Konverter umgesetzt.
 Es ist die Erweiterung um andere PCD-Varianten vorgesehen. Da für das Schreiben die Library „PCL“ genutzt wird die diese Optionen bietet, wird dies umgesetzt.
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
 - Die Implementation soll `std::vector::clear` verwenden, damit die Capacity des "Frame Punktwolken" Vektors behalten wird um möglichst wenige Heap-Allocations zu benutzen.
+
+---
 
 ## User Story(s): 24 - Programm parallelisieren
 #### Funktionalitäten
@@ -27,6 +29,7 @@ Da bisher schon auf die Möglichkeit von Multithreading geachtet wurde ist dies 
 - Zur Synchronisation sollen Mutexes verwendet werden, um Busy-Waiting zu verhindern und die Hardware wenn möglich zu entlasten.
 - Die geladenen von verschiedenen Threads geladenen Punkte müssen In-Place verarbeitet werden, da das Kombinieren der Arrays für eine zu hohe Speicherauslastung führen würde.
 
+---
 
 ## User Story(s): 25 - Unterstützung weiterer LiDAR-Sensoren
 #### Funktionalitäten
@@ -39,6 +42,8 @@ Auf Erweiterbarkeit wird über Nutzung und Erstellung eben dieser Schnittstelle 
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
 - Die Implementation der Parsefunktion der Schnittstelle soll mittels Templates umgesetzt werden. um den Overhead von (virtuellen) Function-Calls zu vermeiden.
 
+---
+
 ## User Story(s):  26 - Erweiterung der Metadaten um Sensortypen und Rosbag-Topic
 #### Funktionalitäten
 Die gesammelten Metadaten sollen um Begin- und Endzeiten der Rosbags und den Zeitstempel der Scans erweitert werden.
@@ -49,11 +54,15 @@ Durch den Fokus auf Erweiterbarkeit in US-17 und US-18 können diese Erweiterung
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
 - Da diese kleine Erweiterung der Metadaten keinen messbaren Einfluss auf Leistung haben wird, braucht nicht besonders auf Effizienz geachtet werden.
 
+---
+
 ## User Story(s): 27 - Erstellung von Testdatensätzen
 #### Was wird implementiert?
 N/A
 #### Sonstiges
 Hier wird kein Code geschrieben und daher ist kein Design notwendig.
+
+---
 
 ## User Story(s): 28,29,30 - Erweiterung der CLI-Parameter 
 #### Funktionalitäten

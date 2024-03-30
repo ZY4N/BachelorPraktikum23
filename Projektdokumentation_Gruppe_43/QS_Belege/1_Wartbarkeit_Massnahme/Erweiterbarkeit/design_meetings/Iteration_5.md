@@ -1,7 +1,7 @@
-# Design Meeting Iteration 5
+# Design Meetings Protokolle Iteration 5:
 Datum: 12.01.2024
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
-
+---
 ## User Story(s): 16 - Export zu segmentierten Kartenformat
 #### Funktionalitäten
 Die Punktwolke soll für den späteren Export in Chunks aufgeteilt werden.
@@ -16,6 +16,7 @@ Nach Absprache mit dem AG sind hier keine Erweiterungen vorgesehen und es werden
 - Der Speicher für die Buckets, soll möglichst am Anfang allokiert werden und danach nicht mehr reallokiert werden.
 - Das Aufteilen der Punkte auf Chunks sowie das Schreiben der Kartensegmente, soll alle zur Verfügung stehenden Threads effektiv nutzen können.
 
+---
 
 ## User Story(s): 17 - Sammeln von Metadaten
 #### Funktionalitäten
@@ -29,6 +30,8 @@ Dabei wird über scan_combiner_config_index und rosbag_index Einträge aus den d
 Es ist vorgesehen Felder im Struct hinzuzufügen zu können. Dies ist über eine übersichtlicht Struktur möglich.
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
 - Bei den Rosbagdaten und den Programmparametern doppeln sich Einträge in den Metadaten. Um Arbeits- und Festplattenspeicher zu sparen, soll für das Einfügen von Einträgen jeweils eine Funktion implementiert werden, die nur einzigartige Einträge zulässt.
+
+---
 
 ## User Story(s):  18 - Lesen und Schreiben von Metadaten im JSON-Format
 #### Funktionalitäten
