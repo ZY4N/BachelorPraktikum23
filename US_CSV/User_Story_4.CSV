@@ -1,0 +1,10 @@
+ID;4
+Name;Integration von 3DTK People Remover in Scan Combiner
+Beschreibung;Als Nutzer*in möchte ich, dass der Scan Combiner die Punktkarte so ausgibt, dass der 3DTK People Remover diese ohne weiter Konvertierung einlesen kann.
+Akzeptanzkriterium;Das Programm bietet die Option, Punkdaten im 3DTK-UOS-Format auszugeben und setzt das Format korrekt um.
+Geschätzter Aufwand (Story Points);8
+Entwickler*in;Greys Fankyeyeva, Simon Riese
+Fertiggestellt in Iteration;2
+Tatsächlicher Aufwand (h);23,75
+Velocity (Story Points/h);0,33
+Bemerkungen;

@@ -1,5 +1,5 @@
 #### Testduchlauf am 28.11.2023 um 20:37 Uhr
-#TODO Screenshot der durchgeführten Tests
+![](Komp_it_2.png)
 - Durchgeführt von: Alicia Gleichmann
 - Ergebnis: Erfolgreich
 - Konsequenzen:  QS-Maßnahme gilt als bestanden

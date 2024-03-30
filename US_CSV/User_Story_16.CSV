@@ -1,0 +1,10 @@
+ID;16
+Name;Export zu segmentierten Kartenformat
+Beschreibung;Als Nutzer*in bietet mir das System die Möglichkeit, die Punktdaten in einem segmentierten Kartenformat auszugeben, um das effiziente Zugreifen auf einzelne Segmente der Karte zu ermöglichen.
+Akzeptanzkriterium;Das System teilt die Punktwolke korrekt in Zellen auf und exportiert diese in separate Ordner, die nach der Zellposition benannt sind. Die Zellen sind hierbei quadratische, achsenausgerichtete Flächen mit benutzerdefinierten Seitenlängen, die sich rund um den Ursprung des Koordinatensystems im Ludwigsmonument ausbreiten.
+Geschätzter Aufwand (Story Points);8
+Entwickler*in;Severin Pelikan, Alicia Gleichmann
+Fertiggestellt in Iteration;5
+Tatsächlicher Aufwand (h);33,75
+Velocity (Story Points/h);0,23
+Bemerkungen;

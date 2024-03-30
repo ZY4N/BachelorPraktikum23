@@ -143,8 +143,8 @@ std::error_code drm::frame_exporter_internal::write_pose_to_uos_file(
 	extractEulerAngleXYZ(matrix_from(pose), angle_x, angle_y, angle_z);
 
 	static constexpr auto to_degrees = 180.0 / M_PI;
-	out << std::hexfloat << to_degrees * angle_x << " " << std::hexfloat << to_degrees * angle_y << " " << std::hexfloat
-		<< to_degrees * angle_z;
+	out << to_degrees * angle_x << " " << to_degrees * angle_y << " " << to_degrees * angle_z << '\n';
+
 
 	if (not out.good()) {
 		return { errno, std::system_category() };

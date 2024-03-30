@@ -1,0 +1,10 @@
+ID;24
+Name;Programm parallelisieren 
+Beschreibung;Als Nutzer*in möchte ich, dass das Programm meinen Prozessor für die Verarbeitung der Daten möglichst gut ausnutzen kann, um die Laufzeit zu minimieren
+Akzeptanzkriterium;Das System soll so parallelisiert sein, dass eine CPU-Auslastung aller Kerne von über 90% innerhalb von 80% der Laufzeit erreicht wird.
+Geschätzter Aufwand (Story Points);3
+Entwickler*innen;Severin Pelikan
+Fertiggestellt in Iteration;7
+Tatsächlicher Aufwand (h);9
+Velocity (Story Points/h);0,33
+Bemerkungen;

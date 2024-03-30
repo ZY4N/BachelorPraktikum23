@@ -1,0 +1,10 @@
+ID;17
+Name;Sammeln von Metadaten
+Beschreibung;Als Nutzer*in möchte ich nachvollziehen können, woher verarbeitete Daten stammen und auf welche Weise diese angepasst wurden, um den Einfluss verschiedener Komponenten auf das Ergebnis nachvollziehen zu können.
+Akzeptanzkriterium;Die Metadaten ermöglichen es, jedem Frame den Namen und die verarbeitete Zeitspanne des Ursprungs Rosbags zuzuordnen sowie mit welchen Programmparametern und Version dieser verarbeitet wurden.
+Geschätzter Aufwand (Story Points);3
+Entwickler*in;Leonhard Steinecke
+Fertiggestellt in Iteration;5
+Tatsächlicher Aufwand (h);10
+Velocity (Story Points/h);0,3
+Bemerkungen;

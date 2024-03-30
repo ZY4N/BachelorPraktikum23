@@ -122,15 +122,15 @@ std::error_code drm::frame_exporter_internal::write_pose_to_uos_file(
 		return { errno, std::system_category() };
 	}
 
-	out << std::hexfloat << pose.translation.x() << " " << std::hexfloat << pose.translation.y() << " " << std::hexfloat
-		<< pose.translation.z() << "\n";
+	out << std::setprecision(std::numeric_limits<double>::digits10 + 1);
+
+	out << pose.translation.x() << ' ' << pose.translation.y() << ' ' << pose.translation.z() << '\n';
 
 	double angle_x, angle_y, angle_z;
 	extractEulerAngleXYZ(matrix_from(pose), angle_x, angle_y, angle_z);
 
 	static constexpr auto to_degrees = 180.0 / M_PI;
-	out << std::hexfloat << to_degrees * angle_x << " " << std::hexfloat << to_degrees * angle_y << " " << std::hexfloat
-		<< to_degrees * angle_z;
+	out << to_degrees * angle_x << " " << to_degrees * angle_y << " " << to_degrees * angle_z << '\n';
 
 	if (not out.good()) {
 		return { errno, std::system_category() };

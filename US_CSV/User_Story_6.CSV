@@ -1,0 +1,10 @@
+ID;6
+Name;Verringerung von Aufnahmetransformationen
+Beschreibung;Als Nutzer*in möchte ich, dass die Anzahl der exportierten Aufnahmetransformationen möglichst gering gehalten wird, um den Speicherverbrauch gering zu halten.
+Akzeptanzkriterium;Das Programm fasst aufeinanderfolgende Aufnahmetransformationen innerhalb eines festen Radius zusammen.
+Geschätzter Aufwand (Story Points);5
+Entwickler*in;Severin Pelikan
+Fertiggestellt in Iteration;3
+Tatsächlicher Aufwand (h);14,75
+Velocity (Story Points/h);0,33
+Bemerkungen;

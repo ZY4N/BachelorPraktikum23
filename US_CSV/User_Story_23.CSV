@@ -1,0 +1,11 @@
+ID;23
+Name;PCD-Konverter
+Beschreibung;Als Maintainer*in möchte ich die Möglichkeit haben, zum Testen ausgewählte Zellen aus dem KITTI-Format zum weit verbreiteten PCD-Format zu konvertieren, um eine Karte, die nur die benötigten Zellen enthält, in einem Format zu haben, das hohe Kompatibilität mit anderer Software bietet.
+Akzeptanzkriterium;"Es können einzelne Zellen oder Ordner von Zellen ausgewählt werden. Jede Zelle wird zu einer PCD-Datei konvertiert und dann in einer kombinierten PCD-Datei korrekt zusammengefasst.
+Da die Software nur als Entwicklungstool und nicht in der tatsächlichen Nutzung verwendet wird, ist die Performanz des Programms nicht relevant."
+Geschätzter Aufwand (Story Points);5
+Entwickler*innen;Greys Fankyeyeva
+Fertiggestellt in Iteration;7
+Tatsächlicher Aufwand (h);17,5
+Velocity (Story Points/h);0,29
+Bemerkungen;
