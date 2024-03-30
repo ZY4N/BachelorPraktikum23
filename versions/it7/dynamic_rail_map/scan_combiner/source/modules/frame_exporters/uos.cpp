@@ -60,8 +60,7 @@ std::error_code uos::write_pose(
 	extractEulerAngleXYZ(matrix_from(pose), angle_x, angle_y, angle_z);
 
 	static constexpr auto to_degrees = 180.0 / M_PI;
-	out << std::hexfloat << to_degrees * angle_x << " " << std::hexfloat << to_degrees * angle_y << " " << std::hexfloat
-		<< to_degrees * angle_z << '\n';
+	out << to_degrees * angle_x << " " <<  to_degrees * angle_y << " " << to_degrees * angle_z << '\n';
 
 	if (not out) {
 		return { errno, std::system_category() };
