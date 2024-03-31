@@ -1,7 +1,7 @@
 # Checkliste für Code Buddy Reviews für reine Texte
 
 - [ ] keine Rechtschreibfehler
-- [ ] kein Grammatikfehler
+- [ ] keine Grammatikfehler
 - [ ] Text ist gut strukturiert  
 - [ ] Text ist in nachvollziehbare Sinnabschnitte unterteilt
 - [ ] \[optional] Wenn sinnvoll, wurden Bilder oder Code-Beispiele integriert

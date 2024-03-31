@@ -39,7 +39,7 @@
 
 ### Dokumentation
 - ##### Kommentare in Funktionen sind: 
-	- [x] in englischer Spreche 
+	- [x] in englischer Sprache 
 	- [x] als ganze Sätze umgesetzt
 	- [x] mit korrekter Grammatik und Rechtschreibung geschrieben
 	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
@@ -150,7 +150,7 @@
 
 ### Dokumentation
 - ##### Kommentare in Funktionen sind: 
-	- [x] in englischer Spreche 
+	- [x] in englischer Sprache 
 	- [x] als ganze Sätze umgesetzt
 	- [x] mit korrekter Grammatik und Rechtschreibung geschrieben
 	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
@@ -268,7 +268,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am:
 
 ### Dokumentation
 - ##### Kommentare in Funktionen sind: 
-	- [x] in englischer Spreche 
+	- [x] in englischer Sprache 
 	- [x] als ganze Sätze umgesetzt
 	- [x] mit korrekter Grammatik und Rechtschreibung geschrieben
 	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
@@ -363,7 +363,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 19.1.202
 
 ### Dokumentation
 - ##### Kommentare in Funktionen sind: 
-	- [x] in englischer Spreche 
+	- [x] in englischer Sprache 
 	- [x] als ganze Sätze umgesetzt
 	- [x] mit korrekter Grammatik und Rechtschreibung geschrieben
 	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
@@ -458,7 +458,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 ### Dokumentation
 - ##### Kommentare in Funktionen sind: 
-	- [x] in englischer Spreche 
+	- [x] in englischer Sprache 
 	- [x] als ganze Sätze umgesetzt
 	- [x] mit korrekter Grammatik und Rechtschreibung geschrieben
 	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt

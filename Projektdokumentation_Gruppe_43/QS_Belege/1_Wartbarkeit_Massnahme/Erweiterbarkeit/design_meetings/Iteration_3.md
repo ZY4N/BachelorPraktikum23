@@ -20,7 +20,7 @@ Nach Absprache mit unserem Arbeitgeber sind hier keine Erweiterungen vorgesehen 
 
 ## User Story: 7 - Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
 #### Funktionalitäten
-Die Inputpfade und der Outputpfad sollen dynamisch über CLI-Parameter eingestellt werden können.
+Die Eingabepfade und der Ausgabepfad sollen dynamisch über CLI-Parameter eingestellt werden können.
 Es soll möglich sein, einfach für neue CLI-Parametern das Hinzufügen, Definieren und Parsen zu implementieren.
 #### Schnittstellen
 Es wird das "Arx-System" hinzugefügt über das die Flaggen, der gewollte Datentyp und der Standardwert für neue CLI-Paramerter einfach definiert werden kann.
@@ -28,7 +28,7 @@ Es können außerdem in dem System weitere Parser für bisher nicht unterstütze
 Mit diesem System werden zwei Parameter, über welche die Positionen der zu bearbeitenden Daten und der Ausgabeort der bearbeiteten Daten festgelegt werden müssen, hinzugefügt. 
 #### Erweiterbarkeit
 Es soll möglich sein das Programm einfach um weitere CLI-Parametern zu ergänzen.
-Durch die implementierung des obengenannten Systems, wird dies umgesetzt.
+Durch die Implementierung des obengenannten Systems, wird dies umgesetzt.
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
 - Da das "Arx-System" nur einmal zu Programmbeginn ausgeführt wird hat es eine vernachlässigbare Auswirkung auf Leistung, daher braucht nicht besonders auf Leistung geachtet werden.
  

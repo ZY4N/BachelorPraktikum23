@@ -23,11 +23,11 @@ Das Programm soll Multithreading unterstützen.
 #### Schnittstellen
 Hier für wird ein Anzahl an maximal erlaubten Threads angegeben. Das Programm verteilt die Threads auf Funktionalitäten und nutzt diese bestmöglich aus.
 #### Erweiterbarkeit
-Da bisher schon auf die Möglichkeit von Multithreading geachtet wurde ist dies gut Umzusetzten.
+Da bisher schon auf die Möglichkeit von Multithreading geachtet wurde ist dies gut umzusetzen.
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
 - Die Implementation soll mehrere Threads verwenden um gleichzeitig Daten Laden und verarbeiten zu können.
 - Die Anzahl der Threads, die für das Laden verschiedener Rosbag-Topics verwendet werden, müssen für beliebige Thread-Limits angemessen zugeteilt werden. 
-- Die Implementation soll Double Buffer verwenden, um Daten effizient zwischen Extraktions- und Verabreitungsthreads asuzutauschen.
+- Die Implementation soll Double Buffer verwenden, um Daten effizient zwischen Extraktions- und Verabreitungsthreads auszutauschen.
 - Zur Synchronisation sollen Mutexes verwendet werden, um Busy-Waiting zu verhindern und die Hardware wenn möglich zu entlasten.
 - Die geladenen von verschiedenen Threads geladenen Punkte müssen In-Place verarbeitet werden, da das Kombinieren der Arrays für eine zu hohe Speicherauslastung führen würde.
 
@@ -42,7 +42,7 @@ Diese Module können dann über eine Parsefunktion ausgewählt und ausgeführt w
 #### Erweiterbarkeit
 Auf Erweiterbarkeit wird über Nutzung und Erstellung eben dieser Schnittstelle geachtet.
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
-- Die Implementation der Parsefunktion der Schnittstelle soll mittels Templates umgesetzt werden. um den Overhead von (virtuellen) Function-Calls zu vermeiden.
+- Die Implementation der Parsefunktion der Schnittstelle soll mittels Templates umgesetzt werden, um den Overhead von (virtuellen) Funktionsaufrufe zu vermeiden.
 
 ---
 

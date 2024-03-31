@@ -18,7 +18,7 @@
 
 ### Dokumentation
 - ##### Kommentare in Funktionen sind: 
-	- [ ] in englischer Spreche 
+	- [ ] in englischer Sprache 
 	- [ ] als ganze Sätze umgesetzt
 	- [ ] mit korrekter Grammatik und Rechtschreibung geschrieben
 	- [ ] nur als inline Kommentare (// statt /* ... \*/) umgesetzt

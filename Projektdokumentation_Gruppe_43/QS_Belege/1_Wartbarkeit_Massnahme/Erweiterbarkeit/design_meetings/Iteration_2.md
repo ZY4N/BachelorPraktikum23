@@ -35,7 +35,7 @@ Die Extraktionsfunktionen für die Punktwolke wird als Template implementiert un
 Es soll möglich sein die Art wie die Punkte gefiltert werden zu ändern.
 Dies wird umgesetzt indem das Filtern über ein veränderbares Prädikat implementiert ist.
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
-- Die Funktion soll vom Compiler geinlinet werden können, um den Overhead eines Function-Calls vermeiden zu können.
+- Die Funktion soll vom Compiler geinlinet werden können, um den Overhead eines Funktionsaufrufe vermeiden zu können.
 - Die Funktion soll die Anzahl an Wurzelberechnungen möglichst geringhalten.
 
 ---
@@ -68,8 +68,8 @@ Es wird ein System  implementiert das eine API bereitstellt. Diese hat pro Log-L
 Es soll möglich sein das System um weitere Log-Level zu erweitern und die Formatierung weiter Datentypen zu definieren.
 Die Log-Level werden über Structs definiert und es können weiter hinzugefügt werden. Die Formatierung von Datentypen wird über Templates gemacht, welche auch erweitert und angepasst werden können.
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
-- Der Logging-System, soll Spinlocks für die Synchronisation zwischen Threads nutzen, um die Latenz des Function-Calls möglichst gering zu halten.
-- Das Formatieren verschiedener Typen soll mittels Templates umgesetzt werden. um den Overhead von (virtuellen) Function-Calls zu vermeiden.
+- Der Logging-System, soll Spinlocks für die Synchronisation zwischen Threads nutzen, um die Latenz des Funktionsaufrufe möglichst gering zu halten.
+- Das Formatieren verschiedener Typen soll mittels Templates umgesetzt werden. um den Overhead von (virtuellen) Funktionsaufrufe zu vermeiden.
 - Um Overhead beim Ändern des Log-Levels sowie des Aktivieren/Deaktivieren verschiedener Flaggen zu Vermeiden, sollen diese Operationen jeweils durch das Setzen eines Integer-Werts umgesetzt werden.
 
 ---

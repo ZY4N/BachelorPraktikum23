@@ -20,7 +20,7 @@
 
 ### Dokumentation
 - ##### Kommentare in Funktionen sind: 
-	- [x] in englischer Spreche 
+	- [x] in englischer Sprache 
 	- [x] als ganze Sätze umgesetzt
 	- [x] mit korrekter Grammatik und Rechtschreibung geschrieben
 	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
@@ -79,17 +79,17 @@
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Severin Pelikan
 - Kontext:
-	- Ausgeschaltet, dass alle Warnungen als Error betrachtet werden
+	- Ausgeschaltet, dass alle Warnungen als Error betrachtet werden (-WError)
 - Beispiel:
-	- alte Version von Eigen verwendet
+	- alte Version von Eigen verwendet -> Warnung
 - Diagnose:
-	- z.B. Funktionen der alten Version von Eigen sind deprecated und werfen warnings 
+	- z.B. Funktionen der alten Version von Eigen sind deprecated und werfen Warnings 
 - Aktion:
 	- Schalte das wieder an! Und nutz die neuere Version von Eigen
 - Sonstiges: 
 	- Code grob besprochen 
 	- die aktuelle Version von Eigen runtergeladen
-	- Einige Fragen zu C++ geklärt (warum es wichtig, ist Werror nicht zu deaktivieren)
+	- Einige Fragen zu C++ geklärt (warum es wichtig ist Werror nicht zu deaktivieren)
 - Nächstes Meeting am: 26.11.2023 um 15:00 Uhr
 
 ---
@@ -113,7 +113,7 @@
 
 ### Dokumentation
 - ##### Kommentare in Funktionen sind: 
-	- [x] in englischer Spreche 
+	- [x] in englischer Sprache 
 	- [x] als ganze Sätze umgesetzt
 	- [x] mit korrekter Grammatik und Rechtschreibung geschrieben
 	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
@@ -209,7 +209,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 20.11.20
 
 ### Dokumentation
 - ##### Kommentare in Funktionen sind: 
-	- [x] in englischer Spreche 
+	- [x] in englischer Sprache 
 	- [x] als ganze Sätze umgesetzt
 	- [x] mit korrekter Grammatik und Rechtschreibung geschrieben
 	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
@@ -282,7 +282,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 20.11.20
 
 ### Dokumentation
 - ##### Kommentare in Funktionen sind: 
-	- [x] in englischer Spreche 
+	- [x] in englischer Sprache 
 	- [x] als ganze Sätze umgesetzt
 	- [x] mit korrekter Grammatik und Rechtschreibung geschrieben
 	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
@@ -380,7 +380,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 20.11.20
 
 ### Dokumentation
 - ##### Kommentare in Funktionen sind: 
-	- [x] in englischer Spreche 
+	- [x] in englischer Sprache 
 	- [x] als ganze Sätze umgesetzt
 	- [x] mit korrekter Grammatik und Rechtschreibung geschrieben
 	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
@@ -494,7 +494,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 20.11.20
 
 ### Dokumentation
 - ##### Kommentare in Funktionen sind: 
-	- [x] in englischer Spreche 
+	- [x] in englischer Sprache 
 	- [x] als ganze Sätze umgesetzt
 	- [x] mit korrekter Grammatik und Rechtschreibung geschrieben
 	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
@@ -591,7 +591,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am:
 
 ### Dokumentation
 - ##### Kommentare in Funktionen sind: 
-	- [x] in englischer Spreche 
+	- [x] in englischer Sprache 
 	- [x] als ganze Sätze umgesetzt
 	- [x] mit korrekter Grammatik und Rechtschreibung geschrieben
 	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
@@ -664,7 +664,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am:
 
 ### Dokumentation
 - ##### Kommentare in Funktionen sind: 
-	- [x] in englischer Spreche 
+	- [x] in englischer Sprache 
 	- [x] als ganze Sätze umgesetzt
 	- [x] mit korrekter Grammatik und Rechtschreibung geschrieben
 	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
@@ -768,7 +768,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am:
 
 ### Dokumentation
 - ##### Kommentare in Funktionen sind: 
-	- [x] in englischer Spreche 
+	- [x] in englischer Sprache 
 	- [x] als ganze Sätze umgesetzt
 	- [x] mit korrekter Grammatik und Rechtschreibung geschrieben
 	- [x] nur als inline Kommentare (// statt /* ... \*/) umgesetzt
