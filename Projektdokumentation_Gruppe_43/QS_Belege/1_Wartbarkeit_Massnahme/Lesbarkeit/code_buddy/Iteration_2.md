@@ -355,7 +355,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 20.11.20
 - Sonstiges:
 	- Code durchgesprochen von beiden User Stories
 	- Demonstration, dass 90% der Geschwindigkeiten Duplikate von vorherigen Geschwindigkeiten sind
-	- Geklärt, ob Informationen zur Anzahl der Transformationsmatrizen vom Logger ausgegeben werden sollten, sind zum Schluss gekommen ja
+	- Geklärt, ob Informationen zur Anzahl der Transformationsmatrizen vom Logger ausgegeben werden sollten, sind zum Schluss gekommen: ja
 	- Grammatikfehler Korrektur und Leerzeile direkt eingefügt
 - Nächstes Meeting am: 26.11.2024 um 12:30 Uhr
 
