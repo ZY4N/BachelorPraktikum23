@@ -44,10 +44,8 @@ Code Buddy: Leonhard Steinecke
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 #### Ergebnis des Reviews: 
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt? 
     - Es wurde eine Schnittstelle implementiert über die in Zukunft weitere Module für die Ausgabe von Metadaten hinzugefügt werden können.
@@ -102,10 +100,8 @@ Code Buddy: Severin Pelikan
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 
 ### User Story 21:
 ### Struktur:
@@ -142,10 +138,8 @@ Code Buddy: Severin Pelikan
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 
 ### User Story 22:
 ### Struktur:
@@ -182,10 +176,8 @@ Code Buddy: Severin Pelikan
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 #### Ergebnis des Reviews: 
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
      - Durch den in US 7 implementierten "Arx-System" konnten diese Erweiterungen effektiv umgesetzt werden.

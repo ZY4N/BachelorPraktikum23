@@ -39,10 +39,8 @@ Code Buddy: Severin Pelikan
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 #### Ergebnis des Reviews:
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - Es wurde auf Erweiterbarkeit geachtet indem alle Topics eine eigene Funktion habe, so können weitere Topics konfliktlos hinzugefügt werden (`extract_topic_1`, `extract_topic_2`, ...).
@@ -96,10 +94,8 @@ Code Buddy: Leonhard Steinecke
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 #### Ergebnis des Reviews:
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - Die Erweiterungsmöglichkeit der  für weitere Log-Level und die untetrschtützung weiter Datentypformatierungen wurde korrekt mit Structs und Templates umgesetzt.
@@ -151,10 +147,8 @@ Code Buddy: Leonhard Steinecke
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 #### Ergebnis des Reviews: 
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - N/A
@@ -204,10 +198,8 @@ Code Buddy: Simon Riese
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 #### Ergebnis des Reviews: 
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - Es wurde das "arx-System" implementiert, über das einfach neue CLI Parameter hinzugefügt werden können. Für Parameter kann ein Default-Wert und Optionalität festgelegt werden. Außerdem können im System Parser für bisher nicht unterstütze Datentypen hinzugefügt werden. So können die CLI Parameter einfach erweitert werden.

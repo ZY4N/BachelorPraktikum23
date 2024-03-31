@@ -34,7 +34,5 @@
 - [ ] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [ ] Lastet die Implementation die Hardware effektiv aus?
 
-## Testabdeckung
-- [ ] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [ ] Wurden alle Randfälle getestet?
-- [ ] Kompiliert das Programm in der Pipeline?
+## Testabdeckung:
+- [ ] Wurden die automatisierten Tests erweitert/angepasst?

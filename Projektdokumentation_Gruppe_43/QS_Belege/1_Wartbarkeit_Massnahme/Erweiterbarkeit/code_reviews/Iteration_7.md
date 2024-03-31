@@ -39,10 +39,8 @@ Code Buddy: Alicia Gleichmann
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 #### Ergebnis des Reviews: 
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - Es wurde die Bibliothek "PCL" genutzt, um das Schreiben zu implementieren. Somit kann der Konverter um andere PCD-Varianten erweitert werden. 
@@ -91,10 +89,8 @@ Code Buddy: Greys Fankyeyeva
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 #### Ergebnis des Reviews: 
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - Da wir schon vorher auf die Erweiterung mit Unterstüzung für Multithreading geachtet habne konnte dies gut umgesetzt werden.
@@ -147,10 +143,8 @@ Code Buddy: Greys Fankyeyeva
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 #### Ergebnis des Reviews: 
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - Durch die Erstellung dieser Schnittstelle für Parser von LiDAR-Sensoren kann man nun das Programm einfach um weitere LiDAR-Sensoren erweitern.
@@ -199,10 +193,8 @@ Code Buddy: Leonhard Steinecke
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 #### Ergebnis des Reviews: 
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - Es wurde auf Erweiterbarkeit bei der Erstellung der Metadaten und der Metadatenausgabe geachtet, somit ließen sich die Erweiterungen gut einsetzten.
@@ -257,10 +249,8 @@ Code Buddy: Severin Pelikan
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 
 ### User Story 29:
 ### Struktur:
@@ -297,10 +287,8 @@ Code Buddy: Severin Pelikan
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 
 ### User Story 30:
 ### Struktur:
@@ -337,10 +325,8 @@ Code Buddy: Severin Pelikan
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 #### Ergebnis des Reviews: 
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
      - Durch den in US 7 implementierten "Arx-System" konnten diese Erweiterungen effektiv umgesetzt werden.

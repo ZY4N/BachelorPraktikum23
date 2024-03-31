@@ -39,10 +39,8 @@ Code Buddy: Simon Riese
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 
 #### Ergebnis des Reviews: 
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
@@ -95,10 +93,8 @@ Code Buddy: Leonhard Steinecke
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 #### Ergebnis des Reviews: 
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - N/A
@@ -150,10 +146,8 @@ Code Buddy: Alicia Gleichmann
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 #### Ergebnis des Reviews: 
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - Die Schnittstelle für weitere Ausgabemodule wurde wie besprochen implementiert und das UOS-Modul wurde in dieser Schnittstelle eingefügt.

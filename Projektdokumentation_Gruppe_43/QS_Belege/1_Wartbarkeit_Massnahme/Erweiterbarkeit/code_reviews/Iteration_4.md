@@ -39,10 +39,8 @@ Code Buddy: Leonhard Steinecke
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 #### Ergebnis des Reviews: 
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - N/A
@@ -92,10 +90,8 @@ Code Buddy: Greys Fankyeyeva
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 #### Ergebnis des Reviews: 
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - Es wurde die in US 4 erstellte Ausgabeschnittstelle genutzt, um das System zu erweitern.
@@ -151,10 +147,8 @@ Code Buddy: Severin Pelikan
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 
 ### User Story 13:
 ### Struktur:
@@ -191,10 +185,8 @@ Code Buddy: Severin Pelikan
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 
 ### User Story 14:
 ### Struktur:
@@ -231,10 +223,8 @@ Code Buddy: Severin Pelikan
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 
 ### User Story 15:
 ### Struktur:
@@ -271,10 +261,8 @@ Code Buddy: Severin Pelikan
 - [x] Wurden die vorgegebenen Implementationsdetails umgesetzt?
 - [x] Lastet die Implementation die Hardware effektiv aus?
 
-### Testabdeckung
-- [x] Wurden ausführliche Tests für alle neuen Features geschrieben und laufen alle Tests erfolgreich durch?
-- [x] Wurden alle Randfälle getestet?
-- [x] Kompiliert das Programm in der Pipeline?
+### Testabdeckung:
+- [x] Wurden die automatisierten Tests erweitert/angepasst?
 #### Ergebnis des Reviews: 
 * Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
     - Durch den in US 7 implementierten "Arx-System" konnten diese Erweiterungen effektiv umgesetzt werden.
