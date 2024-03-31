@@ -1,4 +1,4 @@
-#### Testduchlauf am 16.12.2023  um 23:05 Uhr
+#### Testduchlauf am 16.12.2023  
 ![](Komp_it_3.png)
 - Durchgeführt von: Alicia Gleichmann
 - Ergebnis: Erfolgreich
