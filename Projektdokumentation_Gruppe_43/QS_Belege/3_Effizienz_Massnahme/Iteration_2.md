@@ -67,9 +67,9 @@ Desktop Cycle-Distribution:
 	- Das UOS Dateienformat sollte durch ein nicht ASCII Format ersetzt werden, um die Anzahl der nötigen Operationen zu verringern.
 	- Alle drei Hotspot-Operationen sollten durch die Verwendung mehrerer Kerne beschleunigt werden. 
 	- [x] Welche Dringlichkeit wird diesen Anpassungen zugewiesen?
-	- Das Umsteigen auf ein effizienteres Dateinformat ist dringend, sollte aber zunächst mit dem AG abgesprochen werden.
+	- Das Umsteigen auf ein effizienteres Dateinformat ist dringend, sollte aber zunächst mit unserem Arbeitgeber abgesprochen werden.
 	- Multithreading ist sehr performanzrelvant, sollte aber erst Implementiert werden, wenn das gesamte System bekannt ist, um Refactorings auf ein Minimum zu halten.
 
 ### Konsequenzen
 - Für das Meeting am 29.11.2023 wurde ein Agendapunkt hinzugefügt für die Diskussion eines neueren, effizienteren Datenformats.
-- Eine User Story für die Parallelisierung des Programms wurde ausgearbeitet und wird dem AG zur Priorisierung übergeben.
+- Eine User Story für die Parallelisierung des Programms wurde ausgearbeitet und wird unserem Arbeitgeber zur Priorisierung übergeben.

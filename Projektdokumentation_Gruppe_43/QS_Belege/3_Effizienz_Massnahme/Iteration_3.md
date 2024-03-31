@@ -66,7 +66,7 @@ Desktop Cycle-Distribution:
 	- [x] Welche Teile des System sollten angepasst werden, um die Laufzeit oder Speicherauslastung zu reduzieren?
 	- Die in der letzten Iteration vorgeschlagenen Änderungen gelten auch für diese Iteration
 	- [x] Welche Dringlichkeit wird diesen Anpassungen zugewiesen?
-	- Da beide in letzer Iteration angemerkten Änderungsvorschläge in User Stories aufgenommen wurden, liegt die Einschätzung der Dringlichkeit nun beim AG.
+	- Da beide in letzer Iteration angemerkten Änderungsvorschläge in User Stories aufgenommen wurden, liegt die Einschätzung der Dringlichkeit nun bei unserem Arbeitgeber.
 
 ### Konsequenzen
 

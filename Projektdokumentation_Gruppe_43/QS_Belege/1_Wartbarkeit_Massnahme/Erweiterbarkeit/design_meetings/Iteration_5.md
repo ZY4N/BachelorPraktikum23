@@ -11,7 +11,7 @@ Die Punktwolke soll für den späteren Export in Chunks aufgeteilt werden.
 Hierfür soll eine Klasse implementiert werden, die die Punktwolke anhand ihrer Position in Chunks aufteilt. Die Chunks können dann über die "Frame Exporter" Schnittstelle getrennt voneinander in eigene Verzeichnisse geschrieben werden.
 #### Erweiterbarkeit
 Hier stehen die QS-Ziele Erweiterbarkeit und Effizienz im Konflikt.
-Nach Absprache mit dem AG sind hier keine Erweiterungen vorgesehen und es werden entsprechend keine Designs festgelegt.
+Nach Absprache mit unserem Arbeitgeber sind hier keine Erweiterungen vorgesehen und es werden entsprechend keine Designs festgelegt.
 
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
 - Der Sortieralgorithmus soll einen Hybridansatz verwenden, der so viele Punkte, wie durch die maximale Speicherauslastung zugelassen, mit einem Hash basierten Bucket Sort in O(N) umsetzt und für die restlichen Punkte einen klassischen Sortieralgorithmus mit O(N·log(N)) Vergleichen einsetzt.

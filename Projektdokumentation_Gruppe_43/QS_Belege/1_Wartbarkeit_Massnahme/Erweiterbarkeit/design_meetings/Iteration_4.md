@@ -8,10 +8,10 @@ Code Review Datum: 08.01.2024
 #### Funktionalitäten
 Die Positition der Punkte in der Punktwolke sollen anhand der von der Bahn über die IMU aufgenommenen Nick- und Schwankbewegungen korrigiert werden.
 #### Schnittstellen
-Es wird eine Funktion implementiert, die durch die Aufnahme- und Geschwindigkeitsdaten den Fehler durch Nick- und Schwankbewegungen approximiert.Diese korrigiert dann anhand der Approximation für jeden Punkt die Position.
+Es wird eine Funktion implementiert, die durch die Aufnahme- und Geschwindigkeitsdaten den Fehler durch Nick- und Schwankbewegungen approximiert. Diese korrigiert dann anhand der Approximation für jeden Punkt die Position.
 #### Erweiterbarkeit
 Hier stehen die QS-Ziele Erweiterbarkeit und Effizienz im Konflikt.
-Nach Absprache mit dem AG sind hier keine Erweiterungen vorgesehen und es werden entsprechend keine Designs festgelegt.
+Nach Absprache mit unserem Arbeitgeber sind hier keine Erweiterungen vorgesehen und es werden entsprechend keine Designs festgelegt.
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
 - Die IMU Rotations Daten sollen eng gepackten Structs geladen werden.
 - Das Korrigieren der Sensorrotation soll keinen zusätzlichen Heap-Speicher nutzen.

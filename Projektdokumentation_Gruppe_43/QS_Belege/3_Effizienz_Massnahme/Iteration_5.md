@@ -75,7 +75,7 @@ Desktop Cycle-Distribution:
 	- Wie die Synchronisation des Schreibens der Punkte in Zellen verbessert werden kann, ist nicht trivial und würde weitere Tests erfordern.
 	- [x] Welche Dringlichkeit wird diesen Anpassungen zugewiesen?
 	- Das Erhöhen der genutzten Buckets stellt nur einen geringen Arbeitsaufwand dar und kann in der nächsten Iteration umgesetzt werden.
-	- Das Verbessern der Synchronisation des Schreibens der Punkte in Zellen, kann mit dem AG abgesprochen werden.
+	- Das Verbessern der Synchronisation des Schreibens der Punkte in Zellen, kann mit unserem Arbeitgeber abgesprochen werden.
 	  Da aber alle Limits eingehalten werden und die Parallelisierungs-US potentiell einen höheren Einfluss auf die Laufzeit haben kann, ist eine Priorisierung dieser Verbesserung unwahrscheinlich.
 
 ### Konsequenzen

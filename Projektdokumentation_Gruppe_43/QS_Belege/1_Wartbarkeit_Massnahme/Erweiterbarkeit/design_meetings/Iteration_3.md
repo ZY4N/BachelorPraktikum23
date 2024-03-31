@@ -11,7 +11,7 @@ Die Anzahl der zu speichernden Aufnahmetransformationen soll reduziert werde, in
 Hierfür wird eine Funktion implementiert die die Aufnahme- und Geschwindigkeitsdaten erhält und über Interpolation die Aufnahmeposition für jeden Punkt aproximiert und die Punkte anhand dessen zu einem Frame zu ordnet.
 #### Erweiterbarkeit
 Hier stehen die QS-Ziele Erweiterbarkeit und Effizienz im Konflikt.
-Nach Absprache mit dem AG sind hier keine Erweiterungen vorgesehen und es werden entsprechend keine Designs festgelegt.
+Nach Absprache mit unserem Arbeitgeber sind hier keine Erweiterungen vorgesehen und es werden entsprechend keine Designs festgelegt.
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
 - Die Implementation darf die Aufnahmepositionen nicht im Heap zwischenspeichern, sondern muss eine In-Place Lösung finden.
 - Das Transformieren der Punkte zu den vereinten Aufnahmepositionen soll in größeren Blöcken geschehen, um Cache Lokalität und SIMD ausnutzen zu können.

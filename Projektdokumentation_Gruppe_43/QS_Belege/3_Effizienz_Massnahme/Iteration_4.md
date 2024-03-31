@@ -67,7 +67,7 @@ Desktop Cycle-Distribution:
 	- [x] Welche Teile des System sollten angepasst werden, um die Laufzeit oder Speicherauslastung zu reduzieren?
 	- die Laufzeit und Speicherauslastung sind so weit unter den Limits, dass Änderungen zur Zeit nicht nötig sind.
 	- [x] Welche Dringlichkeit wird diesen Anpassungen zugewiesen?
-	- Die Dringlichkeit des ausstehenden Änderungsvorschlags (Multithreading) liegt nach wie vor beim AG.  
+	- Die Dringlichkeit des ausstehenden Änderungsvorschlags (Multithreading) liegt nach wie vor bei unserem Arbeitgeber.  
 
 ### Konsequenzen
 

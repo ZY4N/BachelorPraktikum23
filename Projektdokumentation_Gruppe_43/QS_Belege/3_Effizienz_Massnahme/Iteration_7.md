@@ -93,7 +93,7 @@ Desktop Cycle-Distribution:
 	- [x] Welche Dringlichkeit wird diesen Anpassungen zugewiesen?
 		- Die Mutex Hotspots sollten so bald wie möglich überprüft werden, um die Quelle des Problems zu identifizieren.
 		  Veränderungen am Programm sind jedoch unwahrscheinlich, da die Behebung beider möglichen Fälle mit einem signifikanten Implementationsaufwand verbunden sind,
-		  und kaum noch Zeit im Bachelorpraktikum bleibt. Diese Thematik sollte im nächsten Meeting mit dem AG abgeklärt werden.
+		  und kaum noch Zeit im Bachelorpraktikum bleibt. Diese Thematik sollte im nächsten Meeting mit unserem Arbeitgeber abgeklärt werden.
 		- Die Dringlichkeit für weitere Optimierungen der Geschwindigkeitsentzerrung scheinen im Kontext vorerst nicht dringlich.
 
 ### Konsequenzen
@@ -162,5 +162,5 @@ Desktop Cycle-Distribution:
 	- Die Probleme und Änderungsvorschläge für mit dem Load-Balancing bleiben bestehen.
 
 ### Konsequenzen
-- Das Load-Balancing Problem wird als Diskussionspunkt mit dem AG für das nächste Meeting am 22.2.2024 festgelegt.
-  Der AG soll entscheiden, ob die nötige Zeit investiert werden soll, um das Problem zu beheben, oder ob andere US vorgezogen werden sollen.
+- Das Load-Balancing Problem wird als Diskussionspunkt mit unserem Arbeitgeber für das nächste Meeting am 22.2.2024 festgelegt.
+  Unser Arbeitgeber soll entscheiden, ob die nötige Zeit investiert werden soll, um das Problem zu beheben, oder ob andere US vorgezogen werden sollen.

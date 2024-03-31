@@ -47,7 +47,7 @@ Die Punkte in der Punktwolke sollen anhand den Geschwindigkeiten bei der Aufnahm
 Dafür wird eine Funktion implementiert die mit den Aufnahmegeschwindigkeiten errechnet wie die Punkte verzerrt sind und dann entzerrt.
 #### Erweiterbarkeit
 Hier stehen die QS-Ziele Erweiterbarkeit und Effizienz im Konflikt.
-Nach Absprache mit dem AG sind hier keine Erweiterungen vorgesehen und es werden entsprechend keine Designs festgelegt.
+Nach Absprache mit unserem Arbeitgeber sind hier keine Erweiterungen vorgesehen und es werden entsprechend keine Designs festgelegt.
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
 - Der Algorithmus soll die zu verarbeitenden Punkte in gleich großen Intervallen unter allen zur Verfügung stehenden Threads aufteilen.
 - Um die Speicherauslastung so gering wie möglich zu halten, sollen alle Punkt Transformationen In-Place vorgenommen werden.
