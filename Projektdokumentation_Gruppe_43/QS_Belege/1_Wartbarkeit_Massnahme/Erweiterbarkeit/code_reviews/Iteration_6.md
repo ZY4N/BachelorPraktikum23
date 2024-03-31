@@ -7,8 +7,8 @@ In dieser User Story wurde kein Code geschrieben und entsprechend wurden kein Co
 ---
 
 ## Code Review Checklist - User Story: 18 - Lesen und Schreiben von Metadaten im JSON-Format
-Datum: 05.02.2024</br>
-Entwickler*innen: Simon Riese</br>
+Datum: 05.02.2024 
+Entwickler*innen: Simon Riese 
 Code Buddy: Leonhard Steinecke
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
@@ -62,8 +62,8 @@ In dieser User Story wurde kein Code geschrieben und entsprechend wurden kein Co
 ---
 
 ## Code Review Checklist - User Story: 20,21,22 - Erweiterung der CLI Parameter
-Datum: 05.02.2024</br>
-Entwickler*innen: Alicia Gleichmann</br>
+Datum: 05.02.2024 
+Entwickler*innen: Alicia Gleichmann 
 Code Buddy: Severin Pelikan
 ### User Story 20
 ### Struktur:

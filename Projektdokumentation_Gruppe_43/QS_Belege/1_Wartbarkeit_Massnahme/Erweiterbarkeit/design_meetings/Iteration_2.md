@@ -1,6 +1,6 @@
 # Design Meeting Iteration 2
 ---
-Datum: 16.11.2023 <br>
+Datum: 16.11.2023  
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
 Code Review Datum: 28.11.2023
 

@@ -1,6 +1,6 @@
 # Design Meetings Protokolle Iteration 7:
 ---
-Datum: 7.02.2024 <br>
+Datum: 7.02.2024  
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
 Code Review Datum: 20.02.2024
 

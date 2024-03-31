@@ -2,8 +2,8 @@
 ---
 
 ## Code Review Checklist - User Story: 16 - Export zu segmentierten Kartenformat
-Datum: 21.01.2024</br>
-Entwickler*innen: Severin Pelikan, Alicia Gleichmann</br>
+Datum: 21.01.2024 
+Entwickler*innen: Severin Pelikan, Alicia Gleichmann 
 Code Buddy: Greys Fankyeyeva
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
@@ -57,8 +57,8 @@ Code Buddy: Greys Fankyeyeva
 ---
 
 ## Code Review Checklist - User Story: 17 - Sammeln von Metadaten
-Datum: 21.01.2024</br>
-Entwickler*innen: Leonhard Steinecke</br>
+Datum: 21.01.2024 
+Entwickler*innen: Leonhard Steinecke 
 Code Buddy: Simon Riese
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?

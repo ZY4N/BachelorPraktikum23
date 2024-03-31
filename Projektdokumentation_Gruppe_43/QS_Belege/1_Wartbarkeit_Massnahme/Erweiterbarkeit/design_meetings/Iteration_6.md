@@ -1,6 +1,6 @@
 # Design Meetings Protokolle Iteration 6:
 ---
-Datum: 23.01.2024 <br>
+Datum: 23.01.2024  
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
 Code Review Datum: 05.02.2024
 

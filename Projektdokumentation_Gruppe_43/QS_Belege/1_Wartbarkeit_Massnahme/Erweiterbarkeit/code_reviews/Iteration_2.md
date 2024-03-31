@@ -2,8 +2,8 @@
 ---
 
 ## Code Review Checklist - User Story: 1 - Distanzfilterung von Punktdaten
-Datum: 28.11.2023</br>
-Entwickler*innen: Greys Fankyeyeva</br>
+Datum: 28.11.2023
+Entwickler*innen: Greys Fankyeyeva
 Code Buddy: Simon Riese
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
@@ -56,8 +56,8 @@ Code Buddy: Simon Riese
 ---
 
 ## Code Review Checklist - User Story: 2 - Geschwindigkeits-Entzerrung
-Datum: 28.11.2023</br>
-Entwickler*innen: Severin Pelikan</br>
+Datum: 28.11.2023 
+Entwickler*innen: Severin Pelikan 
 Code Buddy: Leonhard Steinecke
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
@@ -109,8 +109,8 @@ Code Buddy: Leonhard Steinecke
 ---
 
 ## Code Review Checklist - User Story: 4 - Integration von 3DTK People Remover in Scan Combiner
-Datum: 28.11.2023</br>
-Entwickler*innen: Greys Fankyeyeva, Simon Riese</br>
+Datum: 28.11.2023 
+Entwickler*innen: Greys Fankyeyeva, Simon Riese 
 Code Buddy: Alicia Gleichmann
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?

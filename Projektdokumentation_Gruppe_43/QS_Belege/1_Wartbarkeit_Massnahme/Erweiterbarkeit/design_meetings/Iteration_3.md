@@ -1,6 +1,6 @@
 # Design Meetings Protokolle Iteration 3:
 ---
-Datum: 30.11.2023 <br>
+Datum: 30.11.2023  
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
 Code Review Datum: 16.12.2023
 

@@ -1,6 +1,6 @@
 # Design Meetings Protokolle Iteration 4:
 ---
-Datum: 20.12.2023 <br>
+Datum: 20.12.2023  
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Severin Pelikan, Simon Riese
 Code Review Datum: 08.01.2024
 

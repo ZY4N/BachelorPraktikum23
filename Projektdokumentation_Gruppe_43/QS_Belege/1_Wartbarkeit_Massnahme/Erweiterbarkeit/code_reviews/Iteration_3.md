@@ -2,8 +2,8 @@
 ---
 
 ## Code Review Checklist - User Story: 0 - Einlese-Option für Rosbag-Dateien 
-Datum: 16.12.2023</br>
-Entwickler*innen: Leonhard Steinecke</br>
+Datum: 16.12.2023 
+Entwickler*innen: Leonhard Steinecke 
 Code Buddy: Severin Pelikan
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
@@ -57,8 +57,8 @@ Code Buddy: Severin Pelikan
 ---
 
 ## Code Review Checklist - User Story:  3 - Integration von dynamischem Logging-System
-Datum: 16.12.2023</br>
-Entwickler*innen: Severin Pelikan</br>
+Datum: 16.12.2023 
+Entwickler*innen: Severin Pelikan 
 Code Buddy: Leonhard Steinecke
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
@@ -109,8 +109,8 @@ Code Buddy: Leonhard Steinecke
 ---
 
 ## Code Review Checklist - User Story:  6 - Verringerung von Aufnahmetransformationen
-Datum: 16.12.2023</br>
-Entwickler*innen: Severin Pelikan</br>
+Datum: 16.12.2023 
+Entwickler*innen: Severin Pelikan 
 Code Buddy: Leonhard Steinecke
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
@@ -160,8 +160,8 @@ Code Buddy: Leonhard Steinecke
 ---
 
 ## Code Review Checklist - User Story:  7 - Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI 
-Datum: 16.12.2023</br>
-Entwickler*innen: Alicia Gleichmann, Severin Pelikan</br>
+Datum: 16.12.2023 
+Entwickler*innen: Alicia Gleichmann, Severin Pelikan 
 Code Buddy: Simon Riese
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?

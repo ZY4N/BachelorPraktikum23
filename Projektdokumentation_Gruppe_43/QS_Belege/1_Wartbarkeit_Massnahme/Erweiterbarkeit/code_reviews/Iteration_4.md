@@ -2,8 +2,8 @@
 ---
 
 ## Code Review Checklist - User Story:  8 - Entfernen von Nick- und Schwankbewegungen aus Scans 
-Datum: 08.01.2024</br>
-Entwickler*innen: Severin Pelikan</br>
+Datum: 08.01.2024 
+Entwickler*innen: Severin Pelikan 
 Code Buddy: Leonhard Steinecke
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
@@ -53,8 +53,8 @@ Code Buddy: Leonhard Steinecke
 ---
 
 ## Code Review Checklist - User Story:  9 - Integration von Removert in Scan Combiner 
-Datum: 08.01.2024</br>
-Entwickler*innen: Simon Riese</br>
+Datum: 08.01.2024 
+Entwickler*innen: Simon Riese 
 Code Buddy: Greys Fankyeyeva
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
@@ -109,8 +109,8 @@ In dieser User Story wurde kein Code geschrieben und entsprechend wurden kein Co
 ---
 
 ## Code Review Checklists - User Story: 12,13,14,15 - Erweiterung der CLI Parameter
-Datum: 08.01.2024</br>
-Entwickler*innen: Alicia Gleichmann</br>
+Datum: 08.01.2024 
+Entwickler*innen: Alicia Gleichmann 
 Code Buddy: Severin Pelikan
 ### User Story 12:
 ### Struktur:

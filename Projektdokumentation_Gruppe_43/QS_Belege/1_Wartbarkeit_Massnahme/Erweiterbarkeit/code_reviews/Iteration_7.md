@@ -2,8 +2,8 @@
 ---
 
 ## Code Review Checklist - User Story: 23 - PCD Converter
-Datum: 20.02.2024</br>
-Entwickler*innen: Greys Fankyeyeva</br>
+Datum: 20.02.2024 
+Entwickler*innen: Greys Fankyeyeva 
 Code Buddy: Alicia Gleichmann
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
@@ -52,8 +52,8 @@ Code Buddy: Alicia Gleichmann
 ---
 
 ## Code Review Checklist - User Story: 24 - Programm parallelisieren
-Datum: 20.02.2024</br>
-Entwickler*innen: Severin Pelikan</br>
+Datum: 20.02.2024 
+Entwickler*innen: Severin Pelikan 
 Code Buddy: Greys Fankyeyeva
 ### Struktur:
   - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
@@ -211,8 +211,8 @@ In dieser User Story wurde kein Code geschrieben und entsprechend wurden kein Co
 ---
 
 ## Code Review Checklist - User Story: 28,29,30 - Erweiterung der CLI-Parameter 
-Datum: 20.02.2024</br>
-Entwickler*innen: Alicia Gleichmann</br>
+Datum: 20.02.2024 
+Entwickler*innen: Alicia Gleichmann 
 Code Buddy: Severin Pelikan
 ### User Story 28:
 ### Struktur:
