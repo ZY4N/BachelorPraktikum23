@@ -23,7 +23,7 @@ Nach Absprache mit dem AG sind hier keine Erweiterungen vorgesehen und es werden
 Die Inputpfade und der Outputpfad sollen dynamisch über CLI-Parameter eingestellt werden können.
 Es soll möglich sein, einfach für neue CLI-Parametern das Hinzufügen, Definieren und Parsen zu implementieren.
 #### Schnittstellen
-Es wird das "Arx-System" hinzugefügt über das die Flagen, der gewollte Datentyp und der Defaultwert für neue CLI-Paramerter einfach definiert werden kann.
+Es wird das "Arx-System" hinzugefügt über das die Flaggen, der gewollte Datentyp und der Standardwert für neue CLI-Paramerter einfach definiert werden kann.
 Es können außerdem in dem System weitere Parser für bisher nicht unterstütze Datentypen hinzugefügt werden und das System gibt entsprechende Fehlermeldung aus, falls notwendige Parameter fehlen.
 Mit diesem System werden zwei Parameter, über welche die Positionen der zu bearbeitenden Daten und der Ausgabeort der bearbeiteten Daten festgelegt werden müssen, hinzugefügt. 
 #### Erweiterbarkeit
