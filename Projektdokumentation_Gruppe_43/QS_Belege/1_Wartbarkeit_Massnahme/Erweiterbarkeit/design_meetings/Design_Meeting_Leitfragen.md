@@ -1,4 +1,4 @@
-## User Story(s): 
+## User Story: 
 #### Funktionalitäten
 - Welche Funktionalitäten werden implementiert?
 #### Schnittstellen

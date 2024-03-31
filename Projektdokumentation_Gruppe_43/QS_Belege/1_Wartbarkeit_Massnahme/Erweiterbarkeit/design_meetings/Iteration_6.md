@@ -4,7 +4,7 @@ Datum: 23.01.2024 <br>
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
 Code Review Datum: 05.02.2024
 
-## User Story(s):  19 - Ausarbeitung von Grundkonzepten zur Entfernung semi-dynamischer Objekte
+## User Story:  19 - Ausarbeitung von Grundkonzepten zur Entfernung semi-dynamischer Objekte
 #### Was wird implementiert?
 N/A
 #### Sonstiges
@@ -12,7 +12,7 @@ Hier wird kein Code geschrieben und daher ist kein Design notwendig.
 
 ---
 
-## User Story(s): 20,21,22 - Erweiterung der CLI Parameter 
+## User Story: 20,21,22 - Erweiterung der CLI Parameter 
 #### Funktionalitäten
 Einige bisher im Code festgelegten Werte(Chunkgröße, maximal erlaubte Abweichung von Scanpositionen und Ausgabeformat der Metadaten) sollen dynamisch über CLI Parameter festgelegt werden.
 #### Schnittstellen

@@ -4,7 +4,7 @@ Datum: 30.11.2023 <br>
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
 Code Review Datum: 16.12.2023
 
-## User Story(s): 6 - Verringerung von Aufnahmetransformationen
+## User Story: 6 - Verringerung von Aufnahmetransformationen
 #### Funktionalitäten
 Die Anzahl der zu speichernden Aufnahmetransformationen soll reduziert werde, indem mehrere ähnliche Aufnahmetransformationen zu einer zusammengefasst werden.
 #### Schnittstellen
@@ -18,7 +18,7 @@ Nach Absprache mit dem AG sind hier keine Erweiterungen vorgesehen und es werden
 
 ---
 
-## User Story(s): 7 - Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
+## User Story: 7 - Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
 #### Funktionalitäten
 Die Inputpfade und der Outputpfad sollen dynamisch über CLI-Parameter eingestellt werden können.
 Es soll möglich sein, einfach für neue CLI-Parametern das Hinzufügen, Definieren und Parsen zu implementieren.

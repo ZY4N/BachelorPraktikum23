@@ -4,7 +4,7 @@ Datum: 16.11.2023 <br>
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
 Code Review Datum: 28.11.2023
 
-## User Story(s): 0 - Einlese-Option für Rosbag-Dateien
+## User Story: 0 - Einlese-Option für Rosbag-Dateien
 #### Funktionalitäten
 Es sollen folgende Daten aus Rosbags der Bahn extrahiert werden: Punktdaten, Transformationen, Geschwindigkeiten und IMU-Daten.
 #### Schnittstellen
@@ -26,7 +26,7 @@ Für interaktion mit den Rosbags soll das ROS-Framework genutzt werden.
 
 ---
 
-## User Story(s): 1 - Distanzfilterung von Punktdaten
+## User Story: 1 - Distanzfilterung von Punktdaten
 #### Funktionalitäten
 Die Punkte der Punktwolke sollen anhand ihrer Distanz zur Bahn gefilter werden.
 #### Schnittstellen
@@ -40,7 +40,7 @@ Dies wird umgesetzt indem das Filtern über ein veränderbares Prädikat impleme
 
 ---
 
-## User Story(s): 2 - Geschwindigkeits-Entzerrung
+## User Story: 2 - Geschwindigkeits-Entzerrung
 #### Funktionalitäten
 Die Punkte in der Punktwolke sollen anhand den Geschwindigkeiten bei der Aufnahme neu ausgerichtet werden.
 #### Schnittstellen
@@ -56,7 +56,7 @@ Nach Absprache mit dem AG sind hier keine Erweiterungen vorgesehen und es werden
 
 ---
 
-## User Story(s): 3 - Integration von dynamischem Logging-System
+## User Story: 3 - Integration von dynamischem Logging-System
 #### Funktionalitäten
 Es soll möglich sein über eine benutzerfreundliche API-Lognachrichten zuschreiben.
 Über diese soll auf verschiedenen Log-Leveln ("mute", "error", "warn", "info", "log" und "debug") Nachrichten mit eingebetteten Werten geschreiben werden können.
@@ -74,7 +74,7 @@ Die Log-Level werden über Structs definiert und es können weiter hinzugefügt 
 
 ---
 
-## User Story(s): 4 - Integration von 3DTK People Remover in Scan Combiner
+## User Story: 4 - Integration von 3DTK People Remover in Scan Combiner
 #### Funktionalitäten
 Die verarbeiten Punkte sollen mit ihren Aufnahmeposition als Karte im UOS-Format ausgegeben werden.
 #### Schnittstellen
@@ -89,7 +89,7 @@ Dies wird über die "Frame Exporter" Schnittstelle und den Ausgabemodulen umgese
 
 ---
  
-## User Story(s): 5 - Entfernung dynamischer Objekte mittels 3DTK People Remover
+## User Story: 5 - Entfernung dynamischer Objekte mittels 3DTK People Remover
 #### Funktionalitäten
 N/A
 #### Sonstiges

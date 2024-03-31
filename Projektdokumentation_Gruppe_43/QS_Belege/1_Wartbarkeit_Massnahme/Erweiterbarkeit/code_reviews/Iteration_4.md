@@ -6,7 +6,7 @@ Datum: 08.01.2024</br>
 Entwickler*innen: Severin Pelikan</br>
 Code Buddy: Leonhard Steinecke
 ### Struktur:
-  - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
+  - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
   - [x] Wurden die Entscheidungen des Design Meetings eingehalten?
   - [x] Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
   - [x] Wurden Code- und Style Richtlinien eingehalten?
@@ -59,7 +59,7 @@ Datum: 08.01.2024</br>
 Entwickler*innen: Simon Riese</br>
 Code Buddy: Greys Fankyeyeva
 ### Struktur:
-  - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
+  - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
   - [x] Wurden die Entscheidungen des Design Meetings eingehalten?
   - [x] Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
   - [x] Wurden Code- und Style Richtlinien eingehalten?
@@ -118,7 +118,7 @@ Entwickler*innen: Alicia Gleichmann</br>
 Code Buddy: Severin Pelikan
 ### User Story 12:
 ### Struktur:
-  - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
+  - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
   - [x] Wurden die Entscheidungen des Design Meetings eingehalten?
   - [x] Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
   - [x] Wurden Code- und Style Richtlinien eingehalten?
@@ -158,7 +158,7 @@ Code Buddy: Severin Pelikan
 
 ### User Story 13:
 ### Struktur:
-  - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
+  - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
   - [x] Wurden die Entscheidungen des Design Meetings eingehalten?
   - [x] Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
   - [x] Wurden Code- und Style Richtlinien eingehalten?
@@ -198,7 +198,7 @@ Code Buddy: Severin Pelikan
 
 ### User Story 14:
 ### Struktur:
-  - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
+  - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
   - [x] Wurden die Entscheidungen des Design Meetings eingehalten?
   - [x] Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
   - [x] Wurden Code- und Style Richtlinien eingehalten?
@@ -238,7 +238,7 @@ Code Buddy: Severin Pelikan
 
 ### User Story 15:
 ### Struktur:
-  - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
+  - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
   - [x] Wurden die Entscheidungen des Design Meetings eingehalten?
   - [x] Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
   - [x] Wurden Code- und Style Richtlinien eingehalten?

@@ -11,7 +11,7 @@ Datum: 05.02.2024</br>
 Entwickler*innen: Simon Riese</br>
 Code Buddy: Leonhard Steinecke
 ### Struktur:
-  - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
+  - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
   - [x] Wurden die Entscheidungen des Design Meetings eingehalten?
   - [x] Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
   - [x] Wurden Code- und Style Richtlinien eingehalten?
@@ -69,7 +69,7 @@ Entwickler*innen: Alicia Gleichmann</br>
 Code Buddy: Severin Pelikan
 ### User Story 20
 ### Struktur:
-  - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
+  - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
   - [x] Wurden die Entscheidungen des Design Meetings eingehalten?
   - [x] Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
   - [x] Wurden Code- und Style Richtlinien eingehalten?
@@ -109,7 +109,7 @@ Code Buddy: Severin Pelikan
 
 ### User Story 21:
 ### Struktur:
-  - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
+  - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
   - [x] Wurden die Entscheidungen des Design Meetings eingehalten?
   - [x] Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
   - [x] Wurden Code- und Style Richtlinien eingehalten?
@@ -149,7 +149,7 @@ Code Buddy: Severin Pelikan
 
 ### User Story 22:
 ### Struktur:
-  - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
+  - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
   - [x] Wurden die Entscheidungen des Design Meetings eingehalten?
   - [x] Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
   - [x] Wurden Code- und Style Richtlinien eingehalten?

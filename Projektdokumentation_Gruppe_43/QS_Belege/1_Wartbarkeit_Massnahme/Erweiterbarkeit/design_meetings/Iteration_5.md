@@ -4,7 +4,7 @@ Datum: 12.01.2024 <br>
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
 Code Review Datum: 21.01.2024
 
-## User Story(s): 16 - Export zu segmentierten Kartenformat
+## User Story: 16 - Export zu segmentierten Kartenformat
 #### Funktionalitäten
 Die Punktwolke soll für den späteren Export in Chunks aufgeteilt werden.
 #### Schnittstellen
@@ -20,7 +20,7 @@ Nach Absprache mit dem AG sind hier keine Erweiterungen vorgesehen und es werden
 
 ---
 
-## User Story(s): 17 - Sammeln von Metadaten
+## User Story: 17 - Sammeln von Metadaten
 #### Funktionalitäten
 Es sollen während der Programmausführung Metadaten gesammelt werden.
 #### Schnittstellen
@@ -35,7 +35,7 @@ Es ist vorgesehen Felder im Struct hinzuzufügen zu können. Dies ist über eine
 
 ---
 
-## User Story(s):  18 - Lesen und Schreiben von Metadaten im JSON-Format
+## User Story:  18 - Lesen und Schreiben von Metadaten im JSON-Format
 #### Funktionalitäten
 Die gesamelten Metadaten sollen mit der Karte als JSON-Datei exportiert werden.
 #### Schnittstellen

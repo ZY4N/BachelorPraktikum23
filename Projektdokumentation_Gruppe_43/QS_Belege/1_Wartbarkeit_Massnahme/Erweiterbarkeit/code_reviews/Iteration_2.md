@@ -6,7 +6,7 @@ Datum: 28.11.2023</br>
 Entwickler*innen: Greys Fankyeyeva</br>
 Code Buddy: Simon Riese
 ### Struktur:
-  - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
+  - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
   - [x] Wurden die Entscheidungen des Design Meetings eingehalten?
   - [x] Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
   - [x] Wurden Code- und Style Richtlinien eingehalten?
@@ -62,7 +62,7 @@ Datum: 28.11.2023</br>
 Entwickler*innen: Severin Pelikan</br>
 Code Buddy: Leonhard Steinecke
 ### Struktur:
-  - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
+  - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
   - [x] Wurden die Entscheidungen des Design Meetings eingehalten?
   - [x] Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
   - [x] Wurden Code- und Style Richtlinien eingehalten?
@@ -117,7 +117,7 @@ Datum: 28.11.2023</br>
 Entwickler*innen: Greys Fankyeyeva, Simon Riese</br>
 Code Buddy: Alicia Gleichmann
 ### Struktur:
-  - [x] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
+  - [x] Wurden die Akzeptanzkriterien der User Story erfüllt?
   - [x] Wurden die Entscheidungen des Design Meetings eingehalten?
   - [x] Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
   - [x] Wurden Code- und Style Richtlinien eingehalten?

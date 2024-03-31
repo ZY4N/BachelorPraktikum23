@@ -1,7 +1,7 @@
 # Code Review Checklist
 
 ## Struktur:
-  - [ ] Wurden die Akzeptanzkriterien der User Story(s) erfüllt?
+  - [ ] Wurden die Akzeptanzkriterien der User Story erfüllt?
   - [ ] Wurden die Entscheidungen des Design Meetings eingehalten?
   - [ ] Wurden die Maßnahmen für Erweiterbarkeit korrekt umgesetzt?
   - [ ] Wurden Code- und Style Richtlinien eingehalten?

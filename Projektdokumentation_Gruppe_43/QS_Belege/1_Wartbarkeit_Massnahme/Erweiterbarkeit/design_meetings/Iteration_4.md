@@ -4,7 +4,7 @@ Datum: 20.12.2023 <br>
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Severin Pelikan, Simon Riese
 Code Review Datum: 08.01.2024
 
-## User Story(s): 8 - Entfernen von Nick- und Schwankbewegungen aus Scans
+## User Story: 8 - Entfernen von Nick- und Schwankbewegungen aus Scans
 #### Funktionalitäten
 Die Positition der Punkte in der Punktwolke sollen anhand der von der Bahn über die IMU aufgenommenen Nick- und Schwankbewegungen korrigiert werden.
 #### Schnittstellen
@@ -18,7 +18,7 @@ Nach Absprache mit dem AG sind hier keine Erweiterungen vorgesehen und es werden
 
 ---
 
-## User Story(s): 9 - Integration von Removert in Scan Combiner 
+## User Story: 9 - Integration von Removert in Scan Combiner 
 #### Funktionalitäten
 Die verarbeiten Punkte sollen mit ihren Aufnahmeposition als Karte im KITTI-Format ausgegeben werden.
 #### Schnittstellen
@@ -31,7 +31,7 @@ Die Implementation wird mit der in US-4 erstellten Schnittstelle als Modul hinzu
 
 ---
 
-## User Story(s): 10 - Entfernung dynamischer Objekte mittels Removert
+## User Story: 10 - Entfernung dynamischer Objekte mittels Removert
 #### Funktionalitäten
 N/A
 #### Sonstiges
@@ -39,7 +39,7 @@ Hier wird kein Code geschrieben und daher ist kein Design notwendig.
 
 ---
 
-## User Story(s): 11 - Docker Integration für Zielsystem
+## User Story: 11 - Docker Integration für Zielsystem
 #### Funktionalitäten
 N/A
 #### Sonstiges
@@ -47,7 +47,7 @@ Hier wird kein Code geschrieben und daher ist kein Design notwendig.
 
 ---
 
-## User Story(s): 12, 13, 14, 15 - Erweiterung der CLI Parameter
+## User Story: 12, 13, 14, 15 - Erweiterung der CLI Parameter
 #### Funktionalitäten
 Einige bisher im Code festgelegten Werte(Ausgabeformat der Frames, zu bearbeitenden Zeitabschnitt und Distanzfilterparamter) sollen dynamisch über CLI Parameter festgelegt werden.
 #### Schnittstellen

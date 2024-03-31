@@ -4,7 +4,7 @@ Datum: 7.02.2024 <br>
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
 Code Review Datum: 20.02.2024
 
-## User Story(s):  23 - PCD Converter
+## User Story:  23 - PCD Converter
 #### Funktionalitäten
 Die ausgegebene Karte soll von dem KITTI-Format in das PCD-Format überführt werden.
 #### Schnittstellen
@@ -17,7 +17,7 @@ Es ist die Erweiterung um andere PCD-Varianten vorgesehen. Da für das Schreiben
 
 ---
 
-## User Story(s): 24 - Programm parallelisieren
+## User Story: 24 - Programm parallelisieren
 #### Funktionalitäten
 Das Programm soll Multithreading unterstützen.
 #### Schnittstellen
@@ -33,7 +33,7 @@ Da bisher schon auf die Möglichkeit von Multithreading geachtet wurde ist dies 
 
 ---
 
-## User Story(s): 25 - Unterstützung weiterer LiDAR-Sensoren
+## User Story: 25 - Unterstützung weiterer LiDAR-Sensoren
 #### Funktionalitäten
 Es sollen weitere LiDAR-Sensoren einfach unterstützt werden können.
 #### Schnittstellen
@@ -46,7 +46,7 @@ Auf Erweiterbarkeit wird über Nutzung und Erstellung eben dieser Schnittstelle 
 
 ---
 
-## User Story(s):  26 - Erweiterung der Metadaten um Sensortypen und Rosbag-Topic
+## User Story:  26 - Erweiterung der Metadaten um Sensortypen und Rosbag-Topic
 #### Funktionalitäten
 Die gesammelten Metadaten sollen um Begin- und Endzeiten der Rosbags und den Zeitstempel der Scans erweitert werden.
 #### Schnittstellen
@@ -58,7 +58,7 @@ Durch den Fokus auf Erweiterbarkeit in US-17 und US-18 können diese Erweiterung
 
 ---
 
-## User Story(s): 27 - Erstellung von Testdatensätzen
+## User Story: 27 - Erstellung von Testdatensätzen
 #### Was wird implementiert?
 N/A
 #### Sonstiges
@@ -66,7 +66,7 @@ Hier wird kein Code geschrieben und daher ist kein Design notwendig.
 
 ---
 
-## User Story(s): 28,29,30 - Erweiterung der CLI-Parameter 
+## User Story: 28,29,30 - Erweiterung der CLI-Parameter 
 #### Funktionalitäten
 Einige bisher im Code festgelegten Werte(LiDAR Topic, LiDAR Sensortyp und Threadanzahl) sollen dynamisch über CLI Parameter festgelegt werden.
 Außerdem soll ein Helpbefehl hinzugefügt werden der Informationen über die CLI-Parameter bereitstellt.
