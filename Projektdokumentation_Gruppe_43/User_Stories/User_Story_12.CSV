@@ -4,6 +4,7 @@ Beschreibung;Als Nutzer*in möchte ich auswählen können, in welchem Datenformat d
 Akzeptanzkriterium;"Das System erlaubt es mithilfe eines CLI-Parameters, das Ausgabeformat zu wählen. Die bereits implementierten Ausgabeformate ""UOS"" und ""KITTI"" sollen auswählbar und das Hinzufügen weiterer Ausgabeformate möglichst einfach sein."
 Geschätzter Aufwand (Story Points);2
 Entwickler*in;Alicia Gleichmann
+Code Buddy;Severin Pelikan
 Fertiggestellt in Iteration;4
 Tatsächlicher Aufwand (h);5,75
 Velocity (Story Points/h);0,35

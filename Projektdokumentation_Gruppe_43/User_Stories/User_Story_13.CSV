@@ -4,6 +4,7 @@ Beschreibung;Als Nutzer*in möchte ich die Detailtiefe der Log-Nachrichten des Pr
 Akzeptanzkriterium;"Das System erlaubt es mithilfe eines CLI-Parameters, zwischen den Log-Leveln ""mute"", ""error"", ""warn"", ""info"", ""log"" und ""debug"" zu wählen."
 Geschätzter Aufwand (Story Points);1
 Entwickler*in;Alicia Gleichmann
+Code Buddy;Severin Pelikan
 Fertiggestellt in Iteration;4
 Tatsächlicher Aufwand (h);3
 Velocity (Story Points/h);0,33

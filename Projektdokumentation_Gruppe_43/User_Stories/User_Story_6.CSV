@@ -4,6 +4,7 @@ Beschreibung;Als Nutzer*in möchte ich, dass die Anzahl der exportierten Aufnahme
 Akzeptanzkriterium;Das Programm fasst aufeinanderfolgende Aufnahmetransformationen innerhalb eines festen Radius zusammen.
 Geschätzter Aufwand (Story Points);5
 Entwickler*in;Severin Pelikan
+Code Buddy;Leonhard Steinecke
 Fertiggestellt in Iteration;3
 Tatsächlicher Aufwand (h);14,75
 Velocity (Story Points/h);0,33

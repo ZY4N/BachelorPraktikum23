@@ -4,6 +4,7 @@ Beschreibung;Als Nutzer*in möchte ich, dass das System Rosbag-Dateien einlesen k
 Akzeptanzkriterium;Falls alle für die Verarbeitung relevante Daten in dem Rosbag vorhanden sind und sich in der erwarteten Repräsentation befinden, wird die Datei korrekt eingelesen. Ansonsten gibt das Programm einen Fehler aus und terminiert.
 Geschätzter Aufwand (Story Points);8
 Entwickler*in;Leonhard Steinecke
+Code Buddy;Severin Pelikan
 Fertiggestellt in Iteration;3
 Tatsächlicher Aufwand (h);23,5
 Velocity (Story Points/h);0,34

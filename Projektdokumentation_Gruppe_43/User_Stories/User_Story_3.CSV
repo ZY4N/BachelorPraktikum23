@@ -5,6 +5,7 @@ Akzeptanzkriterium;"Das Logging-System muss zu jeder Nachricht einen Erstellungs
 Zusätzlich muss das System zwischen unterschiedlichen Log-Levels unterscheiden und die Möglichkeit bieten, nach diesen zu filtern."
 Geschätzter Aufwand (Story Points);5
 Entwickler*in;Severin Pelikan
+Code Buddy;Leonhard Steinecke
 Fertiggestellt in Iteration;3
 Tatsächlicher Aufwand (h);17,75
 Velocity (Story Points/h);0,28

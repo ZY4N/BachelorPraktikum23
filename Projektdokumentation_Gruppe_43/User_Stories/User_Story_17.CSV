@@ -4,6 +4,7 @@ Beschreibung;Als Nutzer*in möchte ich nachvollziehen können, woher verarbeitete 
 Akzeptanzkriterium;Die Metadaten ermöglichen es, jedem Frame den Namen und die verarbeitete Zeitspanne des Ursprungs Rosbags zuzuordnen sowie mit welchen Programmparametern und Version dieser verarbeitet wurden.
 Geschätzter Aufwand (Story Points);3
 Entwickler*in;Leonhard Steinecke
+Code Buddy;Simon Riese
 Fertiggestellt in Iteration;5
 Tatsächlicher Aufwand (h);10
 Velocity (Story Points/h);0,3

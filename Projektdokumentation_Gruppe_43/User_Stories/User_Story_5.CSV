@@ -4,6 +4,7 @@ Beschreibung;Als Nutzer*in möchte ich das externe Programm 3DTK People Remover v
 Akzeptanzkriterium;Dynamische Objekte werden mittels 3DTK People Remover sichtbar aus den Daten entfernt.
 Geschätzter Aufwand (Story Points);5
 Entwickler*in;Alicia Gleichmann
+Code Buddy;Greys Fankyeyeva
 Fertiggestellt in Iteration;2
 Tatsächlicher Aufwand (h);5,75
 Velocity (Story Points/h);0,86

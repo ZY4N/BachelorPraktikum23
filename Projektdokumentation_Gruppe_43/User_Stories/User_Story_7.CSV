@@ -4,6 +4,7 @@ Beschreibung;Als Nutzer*in möchte ich den Ort, an dem ich die zu verarbeitenden 
 Akzeptanzkriterium;Das System erlaubt es mithilfe zwei CLI-Parametern, die Eingabepfade und den Ausgabepfad anzugeben. 
 Geschätzter Aufwand (Story Points);8
 Entwickler*in;Alicia Gleichmann, Severin Pelikan
+Code Buddy;Simon Riese
 Fertiggestellt in Iteration;3
 Tatsächlicher Aufwand (h);25
 Velocity (Story Points/h);0,32

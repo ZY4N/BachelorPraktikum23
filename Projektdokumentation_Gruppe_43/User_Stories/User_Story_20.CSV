@@ -4,6 +4,7 @@ Beschreibung;Als Nutzer*in möchte ich maximale Aufnahmepositionsabweichung inner
 Akzeptanzkriterium;Das System erlaubt es, mithilfe eines CLI-Parameters den Radius, in dem aufeinanderfolgende Aufnahmetransformationen zusammengefasst werden, in Metern anzugeben.
 Geschätzter Aufwand (Story Points);1
 Entwickler*innen;Alicia Gleichmann
+Code Buddy;Severin Pelikan
 Fertiggestellt in Iteration;6
 Tatsächlicher Aufwand (h);0,75
 Velocity (Story Points/h);1,33

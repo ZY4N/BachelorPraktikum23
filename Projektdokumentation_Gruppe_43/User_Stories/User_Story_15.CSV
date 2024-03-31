@@ -4,6 +4,7 @@ Beschreibung;Als Nutzer*in möchte ich angeben können, ab welcher radialen und pe
 Akzeptanzkriterium;Das System erlaubt es mithilfe von zwei CLI-Parametern, die radiale und periphere Maximaldistanz von Punkten zum Sensor anzugeben. Das System übernimmt die Angaben korrekt.
 Geschätzter Aufwand (Story Points);1
 Entwickler*innen;Alicia Gleichmann
+Code Buddy;Severin Pelikan
 Fertiggestellt in Iteration;4
 Tatsächlicher Aufwand (h);0,75
 Velocity (Story Points/h);1,33

@@ -4,6 +4,7 @@ Beschreibung;Als Nutzer*in ist es mir wichtig, dass bei der Erstellung der Karte
 Akzeptanzkriterium;Die Position der Punkte wird entsprechend den IMU-Daten angepasst. Wenn die IMU zum Beispiel eine Neigung von x° in eine Richtung erkennt, werden die Punkte, die zu diesem Zeitpunkt aufgenommen wurden, um x° um die Sensorposition in die Gegenrichtung gedreht.
 Geschätzter Aufwand (Story Points);5
 Entwickler*in;Severin Pelikan
+Code Buddy;Leonhard Steinecke
 Fertiggestellt in Iteration;4
 Tatsächlicher Aufwand (h);17,5
 Velocity (Story Points/h);0,29

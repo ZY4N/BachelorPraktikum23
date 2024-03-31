@@ -4,6 +4,7 @@ Beschreibung;Als Nutzer*in möchte ich in der Lage sein, die Menge an auf einmal 
 Akzeptanzkriterium;Das System erlaubt es mithilfe eines CLI-Parameters, die Größe des Zeitraums an gleichzeitig verarbeiteten Sensordaten anzupassen und darüber die Arbeitsspeicherauslastung zu regeln.
 Geschätzter Aufwand (Story Points);3
 Entwickler*in;Alicia Gleichmann
+Code Buddy;Severin Pelikan
 Fertiggestellt in Iteration;4
 Tatsächlicher Aufwand (h);11
 Velocity (Story Points/h);0,27

@@ -5,6 +5,7 @@ Akzeptanzkriterium;"Das Programm muss Punkte, die die maximale radiale oder peri
 Wobei periphere Distanz für die orthogonale Distanz in der horizontalen Ebene in Fahrtrichtung relativ zum LiDAR-Sensor steht und die radiale Distanz für die dreidimensionale Euklidische Norm relativ zum LiDAR-Sensor steht."
 Geschätzter Aufwand (Story Points);2
 Entwickler*in;Greys Fankyeyeva
+Code Buddy;Simon Riese
 Fertiggestellt in Iteration;2
 Tatsächlicher Aufwand (h);3,25
 Velocity (Story Points/h);0,61

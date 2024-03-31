@@ -5,6 +5,7 @@ Akzeptanzkriterium;"Es können einzelne Zellen oder Ordner von Zellen ausgewählt 
 Da die Software nur als Entwicklungstool und nicht in der tatsächlichen Nutzung verwendet wird, ist die Performanz des Programms nicht relevant."
 Geschätzter Aufwand (Story Points);5
 Entwickler*innen;Greys Fankyeyeva
+Code Buddy;Alicia Gleichmann 
 Fertiggestellt in Iteration;7
 Tatsächlicher Aufwand (h);17,5
 Velocity (Story Points/h);0,29

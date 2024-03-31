@@ -4,6 +4,7 @@ Beschreibung;Als Maintainer*in möchte ich eine Schnittstelle haben, die es mir e
 Akzeptanzkriterium;Das System erlaubt über eine klassenbasierte Schnittstelle das Einfügen neuer sensorspezifischer Parser für das Lesen der Sensordaten aus dem Topic eines Rosbags.
 Geschätzter Aufwand (Story Points);3
 Entwickler*innen;Simon Riese, Severin Pelikan
+Code Buddy;Greys Fankyeyeva
 Fertiggestellt in Iteration;7
 Tatsächlicher Aufwand (h);12,5
 Velocity (Story Points/h);0,24

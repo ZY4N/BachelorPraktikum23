@@ -4,6 +4,7 @@ Beschreibung;Als Nutzer*in des Programms möchte ich, dass, selbst wenn die Scans
 Akzeptanzkriterium;Man kann sichtlich erkennen, dass, wenn die Bahn mit hoher Geschwindigkeit (über 30 km/h) frontal auf ein Objekt zufährt, die Punkte nicht in Fahrtrichtung verschoben sind.
 Geschätzter Aufwand (Story Points);8
 Entwickler*in;Severin Pelikan
+Code Buddy;Leonhard Steinecke
 Fertiggestellt in Iteration;2
 Tatsächlicher Aufwand (h);31,5
 Velocity (Story Points/h);0,25

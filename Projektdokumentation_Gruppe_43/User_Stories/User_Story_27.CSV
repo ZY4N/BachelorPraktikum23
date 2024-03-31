@@ -4,6 +4,7 @@ Beschreibung;Als Nutzer*in möchte ich mit dem Programm einen aussagekräftigen Ro
 Akzeptanzkriterium;Im Repository befindet sich ein Rosbag, der nur LiDAR-, Rotations- und Geschwindigkeits-Daten enthält und kleiner 4GB ist. 
 Geschätzter Aufwand (Story Points);5
 Entwickler*innen;Leonhard Steinecke
+Code Buddy;Simon Riese
 Fertiggestellt in Iteration;7
 Tatsächlicher Aufwand (h);20
 Velocity (Story Points/h);0,25

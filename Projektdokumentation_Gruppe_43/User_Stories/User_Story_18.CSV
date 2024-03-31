@@ -4,6 +4,7 @@ Beschreibung;Als Nutzer*in möchte die Metadaten im JSON-Format bereitgestellt be
 Akzeptanzkriterium;Das Programm bietet die Option, Metadaten im JSON-Format auszugeben und setzt das Format korrekt um.
 Geschätzter Aufwand (Story Points);5
 Entwickler*in;Simon Riese
+Code Buddy;Leonhard Steinecke
 Fertiggestellt in Iteration;6
 Tatsächlicher Aufwand (h);32,25
 Velocity (Story Points/h);0,16

@@ -4,6 +4,7 @@ Beschreibung;Als Nutzer*in möchte ich, dass der Scan Combiner die Punktkarte so 
 Akzeptanzkriterium;Das Programm bietet die Option, Punkdaten im KITTI-Format auszugeben und setzt das Format korrekt um.
 Geschätzter Aufwand (Story Points);5
 Entwickler*in;Simon Riese
+Code Buddy;Greys Fankyeyeva
 Fertiggestellt in Iteration;4
 Tatsächlicher Aufwand (h);14,5
 Velocity (Story Points/h);0,34
