@@ -49,7 +49,7 @@ Dafür wird eine Funktion implementiert die mit den Aufnahmegeschwindigkeiten er
 Hier stehen die QS-Ziele Erweiterbarkeit und Effizienz im Konflikt.
 Nach Absprache mit dem AG sind hier keine Erweiterungen vorgesehen und es werden entsprechend keine Designs festgelegt.
 #### Wie wird Leistung und Ressourcenverwendung ins Design einbezogen?
-- Der Algorithmus soll die zu verarbeitenden Punkte in gleichgroßen Intervallen unter allen zur Verfügung stehenden Threads aufteilen.
+- Der Algorithmus soll die zu verarbeitenden Punkte in gleich großen Intervallen unter allen zur Verfügung stehenden Threads aufteilen.
 - Um die Speicherauslastung so gering wie möglich zu halten, sollen alle Punkt Transformationen In-Place vorgenommen werden.
 - Die Suche von Punkten nach Zeitstempeln soll in  O(log2(N)) in Abhängigkeit von der Anzahl der verarbeiteten Punkte umgesetzt werden.
 - Es soll sequentiell auf die Arrays mit Punkt-, Transformations- und Geschwindigkeitsdaten zugegriffen werden, um Cache-Misses zu minimieren.

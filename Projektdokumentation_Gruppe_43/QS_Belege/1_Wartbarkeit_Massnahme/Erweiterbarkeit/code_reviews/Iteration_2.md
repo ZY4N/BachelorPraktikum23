@@ -101,7 +101,7 @@ Code Buddy: Leonhard Steinecke
 * Wurden die Maßnahmen für Leistung und Ressourcenverwendung korrekt umgesetzt?
     - Die Laufzeit und Speicherauslastung sind linear Abhängig von der Anzahl an zu verarbeitenden Punkte.
     - Es wurden keine vermeidbaren Berechnungen vorgenommen.
-    - Die Implementation nutzt alle zur Verfügung stehenden Threads aus, indem die zu verarbeitenden Punkte nach Aufnahmezeitpunkten
+    - Die Implementation nutzt alle zur Verfügung stehenden Threads aus, indem die zu verarbeitenden Punkte nach Aufnahmezeitpunkten in gleich große Intervalle aufgeteilt wurden
     - Der Algorithmus nutzt die selben Cache-Line optimierten Datenstrukturen wie US-0.
 * Probleme, die im Code Review gefunden wurden:
     - Es wurden keine Probleme im Code Review gefunden.

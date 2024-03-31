@@ -50,7 +50,7 @@ Code Buddy: Severin Pelikan
     - Die Implementation lädt alle Daten sequentiell und nutzt dementsprechend nicht von sich aus alle zur Verfügung stehenden Threads. Jedoch bieten die Lade-Funktionen die Möglichkeit, den Zeitraum, in dem Daten verarbeitet werden, anzupassen. Diese Parameter können genutzt werden, um das Laden einzelner Zeitabschnitte unter mehreren Threads aufzuteilen. Eine performante Implementation dieser Parallelisierung bedeutet einen signifikanten Zeitaufwand und sollte erst umgesetzt werden, wenn zum einen sichergestellt ist, dass dieser Teil der Implementation nicht mehr signifikant angepasst werden muss und zum anderen, der AG der Parallelisierung die nötige Priorität zuweist. Dementsprechend ist das Parallelisieren nicht mehr Teil dieser US und sollte in Absprache mit dem AG in einer separaten US umgesetzt werden.
     - Alle Datenstrukturen für das Laden der Sensordaten bestehen aus 64-Bit Feldern (entweder double oder uint64_t) und sind eng gepackt, sodass keine Bytes für Padding verloren gehen. Damit besteht das struct für Punkte mit Zeitinformationen aus 32 Bytes e.g. (2 pro Cache Line), das für Transformationen mit Zeitinformationen aus 64 Bytes e.g. (1 pro Cache Line) und das für Geschwindigkeiten mit Zeitinformationen aus 16 Bytes e.g. (4 pro Cache Line). Folglich sind die Structs gut auf 64B Cache Line Größe optimiert.
 * Probleme, die im Code Review gefunden wurden: 
-    - Die Funktion-Identifier `ext_velocities` und `ext_transforms` beschreiben die Funktionsweisen der Methoden nicht eindeutig. 
+    - Die Funktion-Identifier `extr_velocities` und `extr_transforms` beschreiben die Funktionsweisen der Methoden nicht eindeutig. 
     - Konsequenz: Umbenennen auf `extract_velocities` und `extract_transforms`.
     - Die Parallelisierung dieses Systems verlangt zusätzlichen Aufwand und sollte in einer separaten US umgesetzt werden.
 
@@ -85,7 +85,7 @@ Code Buddy: Leonhard Steinecke
 
 ### Lesbarkeit und Verständlichkeit:
 - [x] Sind alle Identifier für Funktionen, Variablen und Typen aussagekräftig?
-- [ ] Haben alle Komponenten eine ausführliche und korrekte Dokumentation?
+- [x] Haben alle Komponenten eine ausführliche und korrekte Dokumentation?
 - [x] Sind die Kommentare und Dokumentation einheitlich mit dem Code (Namen etc.)?
 - [x] Wurde notwendig komplexer Code oder nicht offensichtliche Entscheidungen ausreichend kommentiert?
 
@@ -104,8 +104,7 @@ Code Buddy: Leonhard Steinecke
     - Das Loggingsystem verwendet die Template Implementation von `std::ostream` für eine effiziente serialisierung der Argumente.
     - Die Log Level und Flaggen werden in 16-Bit Integern gespeichert und können mit einer einfach Zuweisung verändert werden.
 * Probleme, die im Code Review gefunden wurden:
-    - Es wurde die Struktur der Config nicht ausreichend dokumentiert.
-    - Konsequenz: Die Dokumentation mit der Beschreibung der Bestandteilen der Config-Struct wurde erweitert.
+    - Es wurden keine Probleme im Code Review gefunden.
 
 ---
 
