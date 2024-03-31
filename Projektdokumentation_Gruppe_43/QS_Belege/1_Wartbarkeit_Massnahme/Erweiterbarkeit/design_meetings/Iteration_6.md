@@ -2,6 +2,7 @@
 ---
 Datum: 23.01.2024 <br>
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
+Code Review Datum: 05.02.2024
 
 ## User Story(s):  19 - Ausarbeitung von Grundkonzepten zur Entfernung semi-dynamischer Objekte
 #### Was wird implementiert?

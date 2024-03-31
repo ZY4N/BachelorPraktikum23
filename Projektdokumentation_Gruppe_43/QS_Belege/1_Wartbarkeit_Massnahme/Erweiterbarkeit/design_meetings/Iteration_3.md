@@ -2,6 +2,7 @@
 ---
 Datum: 30.11.2023 <br>
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
+Code Review Datum: 16.12.2023
 
 ## User Story(s): 6 - Verringerung von Aufnahmetransformationen
 #### Funktionalitäten

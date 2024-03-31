@@ -2,6 +2,7 @@
 ---
 Datum: 12.01.2024 <br>
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Leonhard Steinecke, Severin Pelikan, Simon Riese
+Code Review Datum: 21.01.2024
 
 ## User Story(s): 16 - Export zu segmentierten Kartenformat
 #### Funktionalitäten

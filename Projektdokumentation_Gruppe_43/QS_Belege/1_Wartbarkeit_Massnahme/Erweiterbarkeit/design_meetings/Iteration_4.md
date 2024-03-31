@@ -2,6 +2,7 @@
 ---
 Datum: 20.12.2023 <br>
 Teilnehmer: Alicia Gleichmann, Greys Fankyeyeva, Severin Pelikan, Simon Riese
+Code Review Datum: 08.01.2024
 
 ## User Story(s): 8 - Entfernen von Nick- und Schwankbewegungen aus Scans
 #### Funktionalitäten
