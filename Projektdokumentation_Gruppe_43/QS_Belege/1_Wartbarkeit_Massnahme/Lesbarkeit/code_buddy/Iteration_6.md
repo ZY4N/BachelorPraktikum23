@@ -2,7 +2,7 @@
 ---
 
 ## Statusmeeting 1 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
-- Datum: 27.01.2024 12:30 Uhr - 13:30 Uhr
+- Datum: 27.01.2024
 - Entwickler\*innen: Severin Pelikan, Greys Fankyeyeva
 - Code Buddy: Simon Riese
 - Kontext:
@@ -98,7 +98,7 @@
 
 
 ## Statusmeeting 1 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
-- Datum: 27.01.2024 15:00 Uhr - 15:30 Uhr
+- Datum: 27.01.2024
 - Entwickler\*innen: Simon Riese
 - Code Buddy: Leonhard Steinecke
 - Kontext:
@@ -130,7 +130,7 @@
 
 
 ## Statusmeeting 1 zu User Story 19. Ausarbeitung von Grundkonzepten zur Enfernung semi-dynamischer Objekte 
-- Datum: 28.01.2024 12:30 Uhr - 13:15 Uhr
+- Datum: 28.01.2024
 - Entwickler\*innen: Simon Riese, Leonhard Steinecke
 - Code Buddy: Greys Fankyeyeva 
 - Kontext:
@@ -224,7 +224,7 @@
 
 
 ## Statusmeeting 1 zu User Story 20. Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI, 21. Dynamisches Anpassen der Zellengröße über CLI und 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI
-- Datum: 27.01.2024 15:00 Uhr - 15:30 Uhr
+- Datum: 27.01.2024
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Severin Pelikan
 - Kontext:
@@ -317,7 +317,7 @@
 
 
 ## Statusmeeting 2 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
-- Datum: 04.02.2024 15:00 Uhr - 15:30 Uhr
+- Datum: 04.02.2024
 - Entwickler\*innen: Simon Riese
 - Code Buddy:  Leonhard Steinecke
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -353,7 +353,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 
 ## Statusmeeting 2 zu User Story 19. Ausarbeitung von Grundkonzepten zur Enfernung semi-dynamischer Objekte 
-- Datum: 04.02.2024 12:30 Uhr - 13:00 Uhr
+- Datum: 04.02.2024
 - Entwickler\*innen: Simon Riese, Leonhard Steinecke
 - Code Buddy: Greys Fankyeyeva
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -595,7 +595,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 
 ## Statusmeeting 2 zu User Story 20. Dynamisches Anpassen der maximalen Aufnahmepositionsabweichung innerhalb eines Frames über CLI, 21. Dynamisches Anpassen der Zellengröße über CLI und 22. Dynamisches Anpassen des Metadatenausgabeformats über CLI
-- Datum: 04.02.2024 15:00 Uhr - 15:30 Uhr
+- Datum: 04.02.2024
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Severin Pelikan
 - [x] alle besprochenen Änderungen wurden umgesetzt 

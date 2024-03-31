@@ -75,7 +75,7 @@
 
 
 ## Statusmeeting 1 zu User Story 0. Einlese-Option für Rosbag-Dateien
-- Datum: 20.11.2023 16:00 Uhr - 17:30 Uhr
+- Datum: 20.11.2023
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Severin Pelikan
 - Kontext:
@@ -168,7 +168,7 @@
 
 
 ## Statusmeeting 1 zu User Story 1. Distanzfilterung von Punktdaten 
-- Datum: 20.11.2023 15:30 Uhr - 16:30 Uhr
+- Datum: 20.11.2023
 - Entwickler\*innen: Greys Fankyeyeva
 - Code Buddy: Simon Riese
 - Kontext: 
@@ -337,7 +337,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 20.11.20
 
 
 ## Statusmeeting 1 zu User Story 2. Geschwindigkeitsentzerrung und 3. Integration von dynamischem Logging-System
-- Datum: 21.11.2023 14:00 Uhr - 15:30 Uhr
+- Datum: 21.11.2023
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Leonhard Steinecke
 - Kontext:
@@ -435,7 +435,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 20.11.20
 
 
 ## Statusmeeting 1 zu User Story 4. Integration von 3DTK People Remover in Scan Combiner 
-- Datum: 20.11.2023 18:00 Uhr - 19:15 Uhr
+- Datum: 20.11.2023
 - Entwickler\*innen: Greys Fankyeyeva, Simon Riese
 - Code Buddy: Alicia Gleichmann
 - Kontext: 
@@ -455,7 +455,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 20.11.20
 ---
 
 ## Statusmeeting 1 zu User Story 5. Entfernung dynamischer Objekte mittels 3DTK People Remover
-- Datum: 21.11.2023 13:30 Uhr - 14:30 Uhr
+- Datum: 21.11.2023
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Greys Fankyeyeva
 - Kontext:
@@ -549,7 +549,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 20.11.20
 
 
 ## Statusmeeting 2 zu User Story 0. Einlese-Option für Rosbag-Dateien
-- Datum: 26.11.2023 15:00 Uhr - 18:30 Uhr
+- Datum: 26.11.2023
 - Entwickler\*innen:  Leonhard Steinecke
 - Code Buddy: Severin Pelikan
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -719,7 +719,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am:
 
 
 ## Statusmeeting 2 zu User Story 2. Geschwindigkeitsentzerrung und 3. Integration von dynamischem Logging-System
-- Datum: 26.11.2024 12:30 Uhr - 14:30 Uhr
+- Datum: 26.11.2024
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Leonhard Steinecke
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -823,7 +823,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am:
 
 
 ## Statusmeeting 2 zu User Story 4. Integration von 3DTK People Remover in Scan Combiner 
-- Datum: 25.11.2024 12:30 Uhr - 13:00 Uhr
+- Datum: 25.11.2024
 - Entwickler\*innen: Greys Fankyeyeva, Simon Riese
 - Code Buddy: Alicia Gleichmann
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -846,7 +846,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 ---
 
 ## Statusmeeting 2 zu User Story 5. Entfernung dynamischer Objekte mittels 3DTK People Remover
-- Datum: 27.11.2023 15:30 Uhr - 18:00 Uhr
+- Datum: 27.11.2023
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Greys Fankyeyeva
 - [x] alle besprochenen Änderungen wurden umgesetzt 

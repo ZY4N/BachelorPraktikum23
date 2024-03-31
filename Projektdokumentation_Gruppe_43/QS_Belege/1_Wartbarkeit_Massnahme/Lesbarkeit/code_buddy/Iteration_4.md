@@ -76,7 +76,7 @@
 
 
 ## Statusmeeting 1 zu User Story 8. Entfernen von Nick- und Schwankbewegungen aus Scans
-- Datum: 29.12.2023 12:30 Uhr - 13:00 Uhr
+- Datum: 29.12.2023
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Leonhard Steinecke
 - Kontext:
@@ -169,7 +169,7 @@
 
 
 ## Statusmeeting 1 zu User Story 9. Integration von Removert in Scan Combiner
-- Datum: 29.12.2023 10:00 Uhr - 10:45 Uhr
+- Datum: 29.12.2023
 - Entwickler\*innen: Simon Riese
 - Code Buddy: Greys Fankyeyeva
 - Kontext:
@@ -188,7 +188,7 @@
 ---
 
 ## Statusmeeting 1 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
-- Datum: 29.12.2023 15:00 Uhr - 15:15 Uhr
+- Datum: 29.12.2023
 - Entwickler\*innen: Severin Pelikan, Greys Fankyeyeva
 - Code Buddy: Simon Riese
 - Kontext:
@@ -280,7 +280,7 @@
 
 
 ## Statusmeeting 1 zu User Story 11. Docker integration für Zielsystem 
-- Datum: 29.12.2023 12:30 Uhr - 13:00 Uhr
+- Datum: 29.12.2023
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Alicia Gleichmann
 - Kontext:
@@ -446,7 +446,7 @@
 
 
 ## Statusmeeting 1 zu User Story 12. Dynamisches Anpassen des Ausgabeformats über CLI, 13. Dynamisches Anpassen der Loggerkonfiguration über CLI, 14. Anpassung der Arbeitsspeicherauslastung über CLI und 15. Dynamisches Anpassen der maximalen radialen und peripheren Distanzen über CLI
-- Datum: 28.12.2023 12:30 Uhr - 13:30 Uhr
+- Datum: 28.12.2023
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Severin Pelikan
 - Kontext:
@@ -470,7 +470,7 @@
 ---
 
 ## Statusmeeting 2 zu User Story 8. Entfernen von Nick- und Schwankbewegungen aus Scans
-- Datum: 06.01.2024 12:30 Uhr - 13:00 Uhr
+- Datum: 06.01.2024
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Leonhard Steinecke
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -566,7 +566,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am:
 
 
 ## Statusmeeting 2 zu User Story 9. Integration von Removert in Scan Combiner
-- Datum: 06.01.2024 10:00 Uhr - 10:30 Uhr
+- Datum: 06.01.2024
 - Entwickler\*innen: Simon Riese
 - Code Buddy: Greys Fankyeyeva
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -588,7 +588,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 ---
 
 ## Statusmeeting 2 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
-- Datum: 07.01.2024 12:30 Uhr - 14:00 Uhr
+- Datum: 07.01.2024
 - Entwickler\*innen: Severin Pelikan, Greys Fankyeyeva
 - Code Buddy: Simon Riese
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -686,7 +686,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am:
 
 
 ## Statusmeeting 2 zu User Story 11. Docker integration für Zielsystem 
-- Datum: 06.01.2024 14:00 Uhr - 14:30 Uhr
+- Datum: 06.01.2024
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Alicia Gleichmann
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -999,7 +999,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 
 ## Statusmeeting 2 zu User Story 12. Dynamisches Anpassen des Ausgabeformats über CLI, 13. Dynamisches Anpassen der Loggerkonfiguration über CLI, 14. Anpassung der Arbeitsspeicherauslastung über CLI und 15. Dynamisches Anpassen der maximalen radialen und peripheren Distanzen über CLI
-- Datum: 06.01.2024 15:00 Uhr - 17:30 Uhr
+- Datum: 06.01.2024
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Severin Pelikan
 - [x] alle besprochenen Änderungen wurden umgesetzt 

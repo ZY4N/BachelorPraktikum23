@@ -2,7 +2,7 @@
 ---
 
 ## Statusmeeting 1 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
-- Datum: 16.01.2024 12:30 Uhr - 13:00 Uhr
+- Datum: 16.01.2024
 - Entwickler\*innen: Severin Pelikan, Greys Fankyeyeva
 - Code Buddy: Simon Riese
 - Kontext:
@@ -94,7 +94,7 @@
 
 
 ## Statusmeeting 1 zu User Story 16. Export zu segmentierten Karten Format 
-- Datum: 15.01.2024 15:30 Uhr - 16:15 Uhr
+- Datum: 15.01.2024
 - Entwickler\*innen: Severin Pelikan, Alicia Gleichmann
 - Code Buddy: Greys Fankyeyeva
 - Kontext:
@@ -114,7 +114,7 @@
 ---
 
 ## Statusmeeting 1 zu User Story 17. Sammeln von Metadaten 
-- Datum: 15.01.2024 15:30 Uhr - 15:40 Uhr
+- Datum: 15.01.2024
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Simon Riese
 - Kontext:
@@ -205,7 +205,7 @@
 
 
 ## Statusmeeting 1 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
-- Datum: 15.01.2024 16:15 Uhr - 17:00 Uhr
+- Datum: 15.01.2024
 - Entwickler\*innen: Simon Riese
 - Code Buddy: Leonhard Steinecke
 - Kontext: 
@@ -226,7 +226,7 @@
 ---
 
 ## Statusmeeting 2 zu User Story 10. Entfernung dynamischer Objekte mittels Removert
-- Datum: 20.01.2024 12:30 Uhr - 14:00 Uhr
+- Datum: 20.01.2024
 - Entwickler\*innen: Severin Pelikan, Greys Fankyeyeva
 - Code Buddy: Simon Riese
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -323,7 +323,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am:
 
 
 ## Statusmeeting 2 zu User Story 16. Export zu segmentierten Karten Format 
-- Datum: 19.01.2024 14:00 Uhr - 15:00 Uhr
+- Datum: 19.01.2024
 - Entwickler\*innen: Severin Pelikan, Alicia Gleichmann
 - Code Buddy: Greys Fankyeyeva
 - [x] alle besprochenen Änderungen wurden umgesetzt
@@ -418,7 +418,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 19.1.202
 
 
 ## Statusmeeting 2 zu User Story 17. Sammeln von Metadaten 
-- Datum: 19.01.2024 18:00 Uhr - 18:30 Uhr
+- Datum: 19.01.2024
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Simon Riese
 - [x] alle besprochenen Änderungen wurden umgesetzt
@@ -513,7 +513,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 
 ## Statusmeeting 2 zu User Story 18. Lesen und Schreiben von Metadaten im JSON-Format
-- Datum: 19.01.2024 16:00 Uhr - 16:30 Uhr
+- Datum: 19.01.2024
 - Entwickler\*innen: Simon Riese
 - Code Buddy: Leonhard Steinecke
 - [x] alle besprochenen Änderungen wurden umgesetzt 

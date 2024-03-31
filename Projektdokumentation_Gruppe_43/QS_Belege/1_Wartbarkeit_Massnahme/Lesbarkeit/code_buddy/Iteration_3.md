@@ -75,7 +75,7 @@
 
 
 ## Statusmeeting 1 zu User Story 0. Einlese-Option für Rosbag-Dateien
-- Datum: 07.12.2023 12:30Uhr - 13:00 Uhr
+- Datum: 07.12.2023
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Severin Pelikan
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -240,7 +240,7 @@
 
 
 ## Statusmeeting 1 zu User Story 3. Integration von dynamischem Logging-System und 6. Verringerung von Aufnahmetransformationen
-- Datum: 08.12.2023 16:00 Uhr - 18:15 Uhr
+- Datum: 08.12.2023
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Ersatz durch Alicia Gleichmann
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -339,7 +339,7 @@
 
 
 ## Statusmeeting 1 zu User Story 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
-- Datum: 09.12.2023 12:30 Uhr - 13:15 Uhr
+- Datum: 09.12.2023
 - Entwickler\*innen: Alicia Gleichmann, Severin Pelikan
 - Code Buddy: Simon Riese
 - Kontext:
@@ -433,7 +433,7 @@
 
 
 ## Statusmeeting 2 zu User Story 6. Verringerung von Aufnahmetransformationen
-- Datum: 15.12.2023 16:00 Uhr - 16:30 Uhr
+- Datum: 15.12.2023
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Ersatz durch Alicia Gleichmann
 - [x] alle besprochenen Änderungen wurden umgesetzt 
@@ -530,7 +530,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: -
 
 
 ## Statusmeeting 2 zu User Story 7. Dynamisches Anpassen von Ein- und Ausgabepfaden über CLI
-- Datum: 16.12.2023 12:30 Uhr - 13:30 Uhr
+- Datum: 16.12.2023
 - Entwickler\*innen: Alicia Gleichmann, Severin Pelikan
 - Code Buddy: Simon Riese
 - [x] alle besprochenen Änderungen wurden umgesetzt 

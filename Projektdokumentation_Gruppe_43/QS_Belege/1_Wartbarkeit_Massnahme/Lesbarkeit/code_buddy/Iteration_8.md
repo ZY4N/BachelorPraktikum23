@@ -15,7 +15,7 @@
 
 
 ## Statusmeeting zu User Story 31. Wiki-Einträge zur Installation und Nutzung 
-- Datum: 07.03.2024 15:00 Uhr - 15:30 Uhr
+- Datum: 07.03.2024
 - Entwickler\*innen: Leonhard Steinecke
 - Code Buddy: Alicia Gleichmann
 - Kontext:
@@ -52,7 +52,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 09.03.20
 
 
 ## Statusmeeting zu User Story 32. Wiki-Einträge zur internen Funktionsweise des Programms
-- Datum: 07.03.2024 15:30 - 16:30 Uhr
+- Datum: 07.03.2024
 - Entwickler\*innen: Greys Fankyeyeva
 - Code Buddy: Severin Pelikan
 - Kontext:
@@ -89,7 +89,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 07.03.20
 
 
 ## Statusmeeting zu User Story 33. Wiki-Einträge zu den Erweiterungsschnittstellen des Programms
-- Datum: 08.03.2024 15:00 Uhr - 15:30 Uhr
+- Datum: 08.03.2024
 - Entwickler\*innen: Simon Riese, Alicia Gleichmann
 - Code Buddy: Greys Fankyeyeva
 - Kontext: 
@@ -122,7 +122,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 08.03.20
 
 
 ## Statusmeeting zu User Story 34. Wiki-Einträge zu der Entfernung dynamischer und semi-dynamischer Objekte
-- Datum: 7.3.2024 16:00 Uhr - 16:30 Uhr
+- Datum: 07.03.2024
 - Entwickler\*innen: Alicia Gleichmann
 - Code Buddy: Leonhard Steinecke
 - Kontext: 
@@ -160,7 +160,7 @@ Umsetzung der besprochenen Änderungen vor Abschluss der User Story am: 08.03.20
 
 
 ## Statusmeeting zu User Story 35. Wiki-Einträge für Code- und Stilrichtlinien
-- Datum: 08.03.2024 12:30 Uhr - 13:00 Uhr
+- Datum: 08.03.2024
 - Entwickler\*innen: Severin Pelikan
 - Code Buddy: Simon Riese
 - Kontext:
