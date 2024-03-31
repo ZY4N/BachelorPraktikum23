@@ -51,8 +51,8 @@ Desktop Cycle-Distribution:
 		Ja, da `9.22 min` < `267,516 min`.
 	- [x] Bleibt die Speicherauslastung unter dem festgelegten Limit?
 		Ja, da `2,83 GiB` < `10 GiB`.
-- Performanz Analyse
-	- Da keine der Performanzkritischen Komponenten verändert wurden und sich die Messwerte nicht signifikant verändert haben,
+- Cycle-Analyse
+	- Da keine der performanzkritischen Komponenten verändert wurden und sich die Messwerte nicht signifikant verändert haben,
 	  verzichten wir auf die genauere Performanz Analyse.
 
 ### Konsequenzen

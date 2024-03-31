@@ -49,7 +49,7 @@ Desktop Cycle-Distribution:
 		Ja, da `37.28 min` < `267,516 min`.
 	- [x] Bleibt die Speicherauslastung unter dem festgelegten Limit?
 		Ja, da `2,11 GiB` < `10 GiB`.
-- Performanz Analyse
+- Cycle-Analyse
 	- [x] Welche Codeabschnitte beanspruchen die meiste Zeit während des Durchlaufs?
 	- ~28%  Export zu UOS-Format
 		- `__printf_fphex`, `_vrprint_internal`, `_itoa_word`, `std::ostream*`, `_itowa_word`, `std::basic_*`, `__vnsnprintf_internal`  

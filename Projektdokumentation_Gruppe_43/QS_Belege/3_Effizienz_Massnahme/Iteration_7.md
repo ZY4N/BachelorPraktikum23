@@ -48,7 +48,7 @@ Desktop Cycle-Distribution:
 		Ja, da `2.30 min` < `267,516 min`.
 	- [x] Bleibt die Speicherauslastung unter dem festgelegten Limit?
 		Ja, da `6,13 GiB` < `10 GiB`.
-- Performanz Analyse
+- Cycle-Analyse
 	- [x] Welche Codeabschnitte beanspruchen die meiste Zeit während des Durchlaufs?
 		- Server spezifisch:
 			Bei den Messungen fällt besonders auf, dass die Laufzeit der Server-Konfiguration nur minimal kürzer ist, als die der Desktop-Konfiguration.
@@ -155,7 +155,7 @@ Desktop Cycle-Distribution:
 		Ja, da `1.91 min` < `133,758 min`.
 	- [x] Bleibt die Speicherauslastung unter dem festgelegten Limit?
 		Ja, da `6,07 GiB` < `10 GiB`.
-- Performanz Analyse
+- Cycle-Analyse
 	- Wie erwartet führte die Behebung des Programmierfehlers zu einer Laufzeitverringerung für die Desktop-Konfiguration und keine für die Server-Konfiguration.
 	  Dies liegt daran, dass in der Server-Konfiguration ein ganzer Rosbag in einem Block verarbeitet wird und folglich nicht mehr Daten als nötig geladen werden können.
 	  Die Desktop-Konfiguration hingegen verarbeitet einen Rosbag in mehreren Blöcken und wurde deshalb vom Laden aller Daten im Rosbag pro Block zurückgehalten.

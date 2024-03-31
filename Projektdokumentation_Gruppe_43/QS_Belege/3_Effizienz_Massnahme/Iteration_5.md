@@ -48,7 +48,7 @@ Desktop Cycle-Distribution:
 		Ja, da `9,20 min` < `267,516 min`.
 	- [x] Bleibt die Speicherauslastung unter dem festgelegten Limit?
 		Ja, da `2,83 GiB` < `10 GiB`.
-- Performanz Analyse
+- Cycle-Analyse
 	- [x] Welche Codeabschnitte beanspruchen die meiste Zeit während des Durchlaufs?
 	- **WICHTIG:**
 		- Das Synchronisieren des Schreibens der Punkte in Zellen wird über eine komplexes, auf mehreren Kernen laufendes System umgesetzt.
