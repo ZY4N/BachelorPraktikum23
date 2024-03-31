@@ -1,4 +1,4 @@
-#### Testduchlauf am 08.01.2024  um 19:46 Uhr
+#### Testduchlauf am 08.01.2024  
 ![](Komp_IT_4.png)
 - Durchgeführt von: Alicia Gleichmann
 - Ergebnis: Erfolgreich

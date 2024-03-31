@@ -1,4 +1,4 @@
-#### Testduchlauf am 28.11.2023 um 20:37 Uhr
+#### Testduchlauf am 28.11.2023
 ![](Komp_it_2.png)
 - Durchgeführt von: Alicia Gleichmann
 - Ergebnis: Erfolgreich
