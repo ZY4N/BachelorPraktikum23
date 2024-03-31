@@ -48,7 +48,7 @@ Desktop Cycle-Distribution:
 		Ja, da `4.82 min` < `267,516 min`.
 	- [x] Bleibt die Speicherauslastung unter dem festgelegten Limit?
 		Ja, da `2,28 GiB` < `10 GiB`.
-- Performanz Analyse
+- Cycle-Analyse
 	- [x] Welche Codeabschnitte beanspruchen die meiste Zeit während des Durchlaufs?
 	- ~36% Geschwindigkeitsentzerrung (Interpolations, Matrix und Quaternion Operationen)
 		- `__ieee754_acos_sse2`, `do_sin`, `__sin_avx`,  `eval_catmull_rom_spline`, `advance_and_sample_...`, `slerp`, `approximate_step_sizes`, `doasin`
